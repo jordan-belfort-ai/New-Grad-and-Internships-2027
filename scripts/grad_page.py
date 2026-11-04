@@ -30,10 +30,14 @@ rows.sort(key=lambda x: x[7], reverse=True)
 n_ng = sum(1 for r in rows if r[0] == "New grad")
 built = d["builtAt"][:16].replace("T", " ")
 data = json.dumps(rows, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
+# first rows in the HTML itself, so crawlers that don't run JS see the list (the script redraws on load)
+static = "".join(f'<tr><td>{html.escape(str(x[2]))}</td><td><a href="{html.escape(str(x[4]))}" rel="noopener">{html.escape(str(x[3]))}</a></td>'
+                 f'<td class="hide m">{html.escape(str(x[5] or ""))[:70]}</td><td class="hide m"></td><td class="m">{html.escape(str(x[7] or ""))}</td></tr>'
+                 for x in json.loads(data)[:300])
 page = f"""<!doctype html><html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(TITLE)}: tech jobs from company career pages</title>
-<meta name="description" content="{n_ng} new-grad and {len(rows) - n_ng} internship tech roles posted in the last {d['days']} days, read daily from 15,000+ company career pages (Greenhouse, Lever, Ashby, Workday). Every link goes to the employer.">
+<meta name="description" content="{n_ng} new-grad and {len(rows) - n_ng} internship tech roles posted in the last {d['days']} days, read daily from 20,000+ company career pages (Greenhouse, Lever, Ashby, Workday, iCIMS, Oracle and nine more). Every link goes to the employer.">
 <style>
 :root{{--bg:#fff;--fg:#1a1a1a;--mut:#666;--line:#e5e5e5;--acc:#0b57d0;--chip:#f1f3f4}}
 @media (prefers-color-scheme:dark){{:root{{--bg:#121212;--fg:#e8e8e8;--mut:#9a9a9a;--line:#2a2a2a;--acc:#8ab4f8;--chip:#1f1f1f}}}}
@@ -48,15 +52,15 @@ th.co{{width:22%}}th.dt{{width:92px}}th.lo{{width:24%}}th.sa{{width:110px}}
 footer{{margin-top:24px;color:var(--mut);font-size:.85rem}}
 </style></head><body><main>
 <h1>{html.escape(TITLE)}</h1>
-<p><b>{n_ng}</b> new-grad / entry-level and <b>{len(rows) - n_ng}</b> internship roles in software, data, ML, security and hardware, posted in the last {d['days']} days. Read straight from employers' own career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable and three more); rebuilt daily, this build {html.escape(built)} UTC.</p>
+<p><b>{n_ng}</b> new-grad / entry-level and <b>{len(rows) - n_ng}</b> internship roles in software, data, ML, security and hardware, posted in the last {d['days']} days. Read straight from employers' own career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and six more); rebuilt daily, this build {html.escape(built)} UTC.</p>
 <div class="f"><input id="q" placeholder="Filter: company, role or city (e.g. nvidia, data, london)" aria-label="Filter">
 <select id="t" aria-label="Type"><option value="">All types</option><option>New grad</option><option>Internship</option></select>
 <select id="r" aria-label="Region"><option value="">All regions</option></select>
 <select id="d" aria-label="Posted"><option value="">Any date</option><option value="2">Last 2 days</option><option value="7">Last 7 days</option></select></div>
 <div class="m" id="c"></div>
-<table><thead><tr><th class="co">Company</th><th>Role</th><th class="hide lo">Location</th><th class="hide sa">Salary</th><th class="dt">Posted</th></tr></thead><tbody id="b"></tbody></table>
+<table><thead><tr><th class="co">Company</th><th>Role</th><th class="hide lo">Location</th><th class="hide sa">Salary</th><th class="dt">Posted</th></tr></thead><tbody id="b">{static}</tbody></table>
 <footer>Every link opens the employer's own posting. Titles decide what's listed (new-grad, junior, entry-level, "Engineer I", intern, co-op), so roles whose titles don't say so are missed. At most 6 roles per company per region.<br>
-The same data with filters (keywords, country, remote, salary, years of experience) as JSON or CSV: <a href="https://apify.com/jordan-belfort/ats-jobs-api">ATS Jobs Search API on Apify</a>. Made by Jordan, an AI agent run by oskarengl on GitHub.<br>More free daily lists: <a href="https://new-grad-jobs-2027.surge.sh">new-grad and internships 2027</a> · <a href="https://agentic-ai-jobs.surge.sh">agentic AI jobs</a> · <a href="https://uk-visa-sponsor-tech-jobs.surge.sh">UK tech jobs at visa sponsors</a> · <a href="https://remote-jobs-open-to-you.surge.sh">remote jobs open to your country</a></footer>
+The same data with filters (keywords, country, remote, salary, years of experience) as JSON or CSV: <a href="https://apify.com/jordan-belfort/ats-jobs-api">ATS Jobs Search API on Apify</a>. Made by Jordan, an AI agent run by oskarengl on GitHub.<br>More free daily lists: <a href="https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/">new-grad and internships 2027</a> · <a href="https://jordan-belfort-ai.github.io/Agentic-AI-Jobs/">agentic AI jobs</a> · <a href="https://jordan-belfort-ai.github.io/UK-Visa-Sponsor-Tech-Jobs/">UK tech jobs at visa sponsors</a> · <a href="https://jordan-belfort-ai.github.io/Remote-Jobs-Open-To-You/">remote jobs open to your country</a></footer>
 </main><script>
 const D={data};const b=document.getElementById('b'),q=document.getElementById('q'),t=document.getElementById('t'),r=document.getElementById('r'),c=document.getElementById('c'),dd=document.getElementById('d');
 const BUILT=new Date("{d['builtAt'][:10]}T00:00:00Z");const since=n=>new Date(BUILT-n*864e5).toISOString().slice(0,10);
@@ -70,7 +74,7 @@ c.textContent=R.length+' roles';b.innerHTML=R.slice(0,600).map(x=>`<tr><td>${{e(
 out.mkdir(parents=True, exist_ok=True)
 (out / "index.html").write_text(page, "utf8")
 KEY = "5f0c9e2a7b4d4c1e8a3f6b2d9e7c1a40"  # IndexNow key, served at /<KEY>.txt
-SITE = sys.argv[sys.argv.index("--site") + 1] if "--site" in sys.argv else "https://new-grad-jobs-2027.surge.sh/"
+SITE = sys.argv[sys.argv.index("--site") + 1] if "--site" in sys.argv else "https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/"
 (out / f"{KEY}.txt").write_text(KEY, "utf8")
 (out / "robots.txt").write_text(f"User-agent: *\nAllow: /\nSitemap: {SITE}sitemap.xml\n", "utf8")
 (out / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
