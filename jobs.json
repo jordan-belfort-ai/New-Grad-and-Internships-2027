@@ -30746,23 +30746,6 @@
 "ats": "ashby"
 },
 {
-"company": "Amazon",
-"title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
-"location": "Sao Paulo, SP, BR",
-"_locs": [
-"Sao Paulo, SP, BR"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.amazon.jobs/en/jobs/10590270/software-development-engineer-intern-amazon-university-talent-acquisition",
-"publishedAt": "2026-10-27T00:00:00+00:00",
-"ats": "amazon"
-},
-{
 "company": "Honeywell",
 "title": "Intern - Embedded Systems",
 "location": "CMX, Mexico",
