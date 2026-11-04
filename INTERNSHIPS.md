@@ -2,15 +2,15 @@
 
 Software engineering, data, ML, security and hardware internships, co-ops and working-student roles, worldwide, from 20,000+ company career pages.
 
-**1,078 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-04 18:01 UTC. New-grad roles: [README.md](README.md).
+**1,077 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-04 18:01 UTC. New-grad roles: [README.md](README.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (544) · [Canada](#canada) (56) · [UK & Ireland](#uk--ireland) (61) · [Europe](#europe) (292) · [India](#india) (19) · [Asia-Pacific](#asia-pacific) (84) · [Latin America](#latin-america) (17) · [Remote, other](#remote-other) (5)
+Contents: [United States](#united-states) (544) · [Canada](#canada) (56) · [UK & Ireland](#uk--ireland) (61) · [Europe](#europe) (292) · [India](#india) (19) · [Asia-Pacific](#asia-pacific) (84) · [Latin America](#latin-america) (16) · [Remote, other](#remote-other) (5)
 
-Most roles this fortnight: NVIDIA (54), Schneider Electric (53), Airbus (50), Booz Allen (42), Bosch Group (31), Sopra Steria (29), Jane Street (20), Amazon (19), Intercontinental Exchange Holdings, Inc. (18), ASML (17), RTX (16), Visa (15).
+Most roles this fortnight: NVIDIA (54), Schneider Electric (53), Airbus (50), Booz Allen (42), Bosch Group (31), Sopra Steria (29), Jane Street (20), Intercontinental Exchange Holdings, Inc. (18), Amazon (18), ASML (17), RTX (16), Visa (15).
 
 ## United States
 
@@ -1115,7 +1115,6 @@ Most roles this fortnight: NVIDIA (54), Schneider Electric (53), Airbus (50), Bo
 | Jabil | [Product Engineer Intern](https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Guadalajara/Product-Engineer-Intern_J2470106) | Guadalajara |  | 2026-10-29 |
 | Aumovio | [Intern en Desarrollo de Aplicaciones IT](https://jobs.smartrecruiters.com/Aumovio/744000158371009) | Aguascalientes - Automotive, AGUASCALIENTES, Mexico |  | 2026-10-28 |
 | Anyone AI | [Admissions Advisor – AI Fellowship (100% remote)](https://jobs.ashbyhq.com/anyone-ai/b25a37ce-2d43-4a71-88ba-955f69bcebbc) | Argentina - Fully Remote |  | 2026-10-27 |
-| Amazon | [Software Development Engineer Intern, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10590270/software-development-engineer-intern-amazon-university-talent-acquisition) | Sao Paulo, SP, BR |  | 2026-10-27 |
 | Honeywell | [Intern - Embedded Systems](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160031) | CMX, Mexico |  | 2026-10-26 |
 | Prysmian Cables & Systems | [Intern IT](https://prysmiangroup.wd3.myworkdayjobs.com/Careers/job/Sorocaba/Intern-IT_R-38191) | Sorocaba |  | 2026-10-26 |
 | NXP Semiconductors | [Supply Chain Planning & Analytics Internship](https://nxp.wd3.myworkdayjobs.com/careers/job/Guadalajara/Student-Intern---Non-Technical_R-10064559) | Guadalajara |  | 2026-10-23 |
