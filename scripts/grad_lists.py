@@ -162,7 +162,7 @@ def page(title: str, intro: str, groups: dict[str, list[dict]], built: str, othe
 
 
 DAYS = 14
-SEARCH_URL = "https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/"
+SEARCH_URL = "https://new-grad-jobs-2027.surge.sh/"  # GitHub Pages never builds on this account (Actions jobs sit queued, 4 Nov)
 EXAMPLE = ("For example, US entry-level software roles from the last two weeks, with descriptions:",
            '{"searchKeywords": ["software engineer"], "seniority": ["entry"], "countries": ["US"], '
            '"postedWithinDays": 14, "maxResults": 200, "includeDescription": true}')
@@ -220,7 +220,7 @@ def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     if "--europe" in sys.argv:  # the European-Tech-Internships-2027 repo: UK, Ireland and the rest of Europe only
         eu = ["UK & Ireland", "Europe"]
-        SEARCH_URL = "https://jordan-belfort-ai.github.io/European-Tech-Internships-2027/"
+        SEARCH_URL = "https://european-tech-internships-2027.surge.sh/"
         EXAMPLE = ("For example, software internships and working-student roles in Germany, the Netherlands and the UK:",
                    '{"searchKeywords": ["software", "data", "machine learning"], "seniority": ["intern"], '
                    '"countries": ["DE", "NL", "GB"], "postedWithinDays": 14, "maxResults": 200}')
