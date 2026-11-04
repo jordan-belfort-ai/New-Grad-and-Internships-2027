@@ -6,7 +6,7 @@ Software engineering, data, ML, security and hardware internships, co-ops and wo
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (15,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
-Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
+Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://new-grad-jobs-2027.surge.sh/
 
 Contents: [United States](#united-states) (418) · [Canada](#canada) (42) · [UK & Ireland](#uk--ireland) (33) · [Europe](#europe) (267) · [India](#india) (14) · [Asia-Pacific](#asia-pacific) (73) · [Latin America](#latin-america) (10) · [Remote, other](#remote-other) (4)
 
