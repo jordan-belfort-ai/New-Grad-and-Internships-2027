@@ -1,5 +1,4 @@
 name: update lists
-# daily rebuild of README.md, INTERNSHIPS.md and the searchable page
 on:
   schedule:
     - cron: "47 5 * * *"   # after the 04:15 UTC index build
