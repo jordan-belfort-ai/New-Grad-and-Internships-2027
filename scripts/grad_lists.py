@@ -2,7 +2,7 @@
 
 Why (4 Nov): auto-updated GitHub job lists are a place job seekers and the developers who build job tools look daily
 (newcomer lists reach 1-2k stars: vanshb03/New-Grad-2027 ~2.2k, speedyapply 2027 lists 400+ forks). Ours is generated
-from ~1M postings read straight from employer ATS boards (nine ATSs), every company in the index, not a hand-kept
+from ~1.3M postings read straight from employer ATS boards (nine ATSs), every company in the index, not a hand-kept
 list, and every page links ats-jobs-api for the full data. GitHub writes outside oskarengl/jordan are refused from the
 cloud, so the cloud writes the files here and the PC pushes them to jordan-belfort-ai/New-Grad-and-Internships-2027.
 
@@ -13,9 +13,12 @@ import gzip
 import json
 import re
 import sys
+import time
+import urllib.parse
 import urllib.request
 from collections import defaultdict
-from datetime import datetime, timedelta
+from itertools import chain
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -40,16 +43,22 @@ NOT_TECH = re.compile(r"\b(sales|account (executive|manager)|recruit\w*|nurse|nu
                       r"warehouse|retail|store|customer|marketing|hr|legal|finance|accounting|electrical|civil|"
                       r"mechanical|manufacturing|process|quality|construction|field|maintenance|chemical|building|highway|traffic|"
                       r"water|structural|geotechnical|environmental|hvac|doctor|participants?|consultant|designer|"
-                      r"business analyst|operations|teacher|tutor|officer|guard|banking|data entry|juriste|jurist\w*|avocat|rechtsanw\w*)\b", re.I)
+                      r"business analyst|operations|teacher|tutor|officer|guard|banking|data entry|juriste|jurist\w*|avocat|rechtsanw\w*|"
+                      r"counsel|attorney|lawyer|law|radiolog\w*|physician|medical|clinical|instructor|teaching|adjunct|"
+                      r"credit|accountant|accounts|auditor|audit|buyer|acheteur\w*|purchas\w*|procurement|business develop\w*|"
+                      r"bdr|sdr|logistics|content|editor|media|product developer|selecci[oó]n|labell?er|labell?ing|"
+                      r"cost|crm|fx|hiring event|security officers?|security specialist|summer analyst|"
+                      r"gerente|construcci[oó]n|el[ée]ctrico|founding|head of)\b|^copy of\b", re.I)
 NEW_GRAD = re.compile(r"\b(new[- ]grad(uate)?s?|graduate|grad|entry[- ]level|early[- ]career|university|campus|"
                       r"junior|jr\.?|(engineer|developer|scientist|analyst) (i|1)|associate (software|data|ml|machine)|"
                       r"20(26|27)|early[- ]talent|rotational|graduate (scheme|programme|program)|trainee|absolvent\w*|"
                       r"berufseinsteiger\w*|einsteiger\w*|jeune[s]? dipl[oô]m[ée]\w*|recent grad\w*)\b", re.I)
 SENIOR = re.compile(r"\b(senior|sr\.?|staff|principal|lead|manager|director|head|ii|iii|iv|v|2|3|4|5|phd|postdoc\w*|"
-                    r"clearance|ts/sci)\b", re.I)
+                    r"clearance|ts/sci|top secret|mid|regular|experienced)\b", re.I)
 INTERN = re.compile(r"\b(interns?|internships?|co-?op|werkstudent|working student|praktikum|praktikant\w*|summer analyst|"
                     r"(?<!-)stage|stagiaire|alternance|alternant\w*|apprenti\w*|duales studium|tirocinio|stagista|"
-                    r"pr[aá]cticas|becari[oa]s?|stażysta|staż)\b", re.I)
+                    r"pr[aá]cticas|becari[oa]s?|stażysta|staż|placement|co[- ]op|fellowship|residency|"
+                    r"(undergraduate|graduate) research associate)\b", re.I)
 REGIONS = [("United States", {"US"}), ("Canada", {"CA"}), ("UK & Ireland", {"GB", "IE"}),
            ("Europe", {"DE", "FR", "NL", "ES", "IT", "PL", "SE", "CH", "AT", "BE", "DK", "FI", "NO", "PT", "CZ", "RO",
                        "HU", "GR", "EE", "LT", "LV", "BG", "HR", "SK", "SI", "LU", "UA", "RS"}),
@@ -65,7 +74,9 @@ def get(key: str) -> bytes:
 
 
 def region(r: dict) -> str | None:
-    codes = set(country_codes(r))
+    # the printed (primary) location decides first: Nitro's Porto internship also lists Dublin and sat under
+    # UK & Ireland (4 Nov audit); all sites only when the primary one names no country
+    codes = set(country_codes({"location": r.get("location"), "country": r.get("country")})) or set(country_codes(r))
     for name, cc in REGIONS:
         if codes & cc:
             return name
@@ -77,6 +88,9 @@ def region(r: dict) -> str | None:
 def kind(r: dict) -> str | None:
     t = r.get("title") or ""
     if not TECH.search(t) or NOT_TECH.search(t):
+        return None
+    years = re.findall(r"\b20(\d\d)\b", t)
+    if years and max(int(y) for y in years) < 27:  # "New College Grad 2026", "Mars 2026" in a 2027 list (4 Nov audit)
         return None
     if INTERN.search(t) or r.get("seniority") == "intern" or r.get("employmentType") == "internship":
         return "intern"
@@ -117,7 +131,7 @@ def table(rows: list[dict]) -> list[str]:
         sal = salary(r)
         locs = r.get("_locs") or [r.get("location") or ""]
         loc = "; ".join(esc(x) for x in locs[:3]) + (f" +{len(locs) - 3} more" if len(locs) > 3 else "")
-        new = " 🆕" if r["publishedAt"] >= NEW_SINCE else ""
+        new = " 🆕" if r["publishedAt"] >= NEW_SINCE and not r.get("_old") else ""
         out.append(f"| {esc(r.get('company'))} | [{esc(r['title'])}]({r['url']}){new} | {loc} | "
                    f"{sal.strip()} | {r['publishedAt'][:10]} |")
     return out
@@ -127,10 +141,10 @@ def page(title: str, intro: str, groups: dict[str, list[dict]], built: str, othe
     total = sum(len(v) for v in groups.values())
     lines = [f"# {title}", "", intro, "",
              f"**{total:,} roles**, posted in the last {DAYS} days, read straight from employer career pages "
-             f"(Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, Teamtailor, Recruitee, Personio). "
-             f"Rebuilt every day from an index of ~1M postings; this build {built[:16].replace('T', ' ')} UTC. {other}",
+             f"(Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). "
+             f"Rebuilt every day from an index of ~1.3M postings; this build {built[:16].replace('T', ' ')} UTC. {other}",
              "", "How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every "
-             "day (15,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and "
+             "day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and "
              "non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).",
              "", "Every link goes to the employer's own posting, no aggregator in between. Newest first, at most "
              f"{PER_COMPANY} roles per company per region; one role open in several cities is one row. "
@@ -169,6 +183,98 @@ EXAMPLE = ("For example, US entry-level software roles from the last two weeks, 
 NEW_SINCE = ""
 
 
+def amazon_rows() -> list[dict]:
+    """Amazon hires students through amazon.jobs, not an ATS in the index. Its search.json is public (robots.txt only
+    blocks /internal) and dated; a few early-career queries, newest first, ~30 GETs (4 Nov)."""
+    seen, out = set(), []
+    for q in ("intern", "early career", "2027", "university", "graduate"):
+        for offset in range(0, 700, 100):
+            url = (f"https://www.amazon.jobs/en/search.json?base_query={urllib.parse.quote(q)}&result_limit=100"
+                   f"&offset={offset}&sort=recent")
+            try:
+                req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                jobs = json.loads(urllib.request.urlopen(req, timeout=60).read()).get("jobs") or []
+            except Exception as e:
+                print("amazon:", e)
+                break
+            for j in jobs:
+                path = j.get("job_path") or ""
+                if not path or path in seen:
+                    continue
+                seen.add(path)
+                try:
+                    pub = datetime.strptime(re.sub(r"\s+", " ", j.get("posted_date") or ""), "%B %d, %Y").isoformat() + "+00:00"
+                except ValueError:
+                    continue
+                parts = [x.strip() for x in (j.get("location") or "").split(",") if x.strip()]
+                loc = ", ".join(parts[::-1]) if parts else ""
+                out.append({"company": "Amazon", "title": (j.get("title") or "").strip(), "location": loc,
+                            "country": parts[0] if parts and len(parts[0]) == 2 else None,
+                            "url": "https://www.amazon.jobs" + path, "publishedAt": pub, "ats": "amazon"})
+            if len(jobs) < 100:
+                break
+    return out
+
+
+def microsoft_rows() -> list[dict]:
+    """Microsoft's careers site (Eightfold) answers /api/pcsx/search keyless, and its robots.txt allows /api/pcsx
+    explicitly (4 Nov). 10 positions a page; a few student queries, ~30 GETs, dated by postedTs."""
+    seen, out = set(), []
+    for q in ("intern", "university", "new graduate", "early career"):
+        for start in range(0, 300, 10):
+            url = ("https://apply.careers.microsoft.com/api/pcsx/search?domain=microsoft.com&location=&num=10"
+                   f"&query={urllib.parse.quote(q)}&start={start}")
+            pos = None
+            for wait in (2, 30):  # it answers 429 to bursts: one slow page at a time, one back-off
+                time.sleep(wait)
+                try:
+                    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                    pos = (json.loads(urllib.request.urlopen(req, timeout=60).read()).get("data") or {}).get("positions") or []
+                    break
+                except Exception as e:
+                    print("microsoft:", e)
+            if pos is None:
+                return out
+            for j in pos:
+                if j.get("id") in seen or not j.get("postedTs"):
+                    continue
+                seen.add(j.get("id"))
+                locs = [", ".join([x.strip() for x in l.split(",")][::-1]) for l in j.get("locations") or []]
+                locs = [l.replace("Multiple Locations, Multiple Locations, ", "") for l in locs]
+                std = j.get("standardizedLocations") or []
+                out.append({"company": "Microsoft", "title": (j.get("name") or "").strip(), "location": "; ".join(locs[:3]),
+                            "country": std[0] if len(std) == 1 and len(std[0]) == 2 else None,
+                            "url": "https://apply.careers.microsoft.com" + (j.get("positionUrl") or f"/careers/job/{j['id']}"),
+                            "publishedAt": datetime.fromtimestamp(int(j["postedTs"]), tz=timezone.utc).isoformat(),
+                            "workplaceType": j.get("workLocationOption"), "ats": "microsoft"})
+            if len(pos) < 10:
+                break
+    return out
+
+
+def firm_rows(built: str) -> list[dict]:
+    """Jane Street, Citadel, D. E. Shaw and Two Sigma hire students only through their own sites (read by quant_list.py,
+    which sits beside this script in the repo). Dated by the first build that saw each role, kept in jobs.json; a
+    firm's first read is not marked new (4 Nov)."""
+    try:
+        import quant_list
+    except ImportError:
+        return []
+    prev = {}
+    if (OUT / "jobs.json").exists():
+        d = json.loads((OUT / "jobs.json").read_text("utf8"))
+        prev = {r["url"]: r["publishedAt"] for k in ("newgrad", "intern") for rows in (d.get(k) or {}).values() for r in rows}
+    out = []
+    for j in quant_list.own_site(built[:10], {}, True):
+        dom = j["url"].split("/")[2]
+        first_read = not any(u.split("/")[2] == dom for u in prev)
+        cc = j["countries"]
+        out.append({"company": j["company"], "title": j["title"], "location": j["location"], "country": cc[0] if len(cc) == 1 else None,
+                    "url": j["url"], "publishedAt": prev.get(j["url"]) or built, "ats": j["ats"],
+                    "employmentType": "internship" if j["category"] == "Internship" else None, "_old": first_read})
+    return out
+
+
 def main() -> None:
     global DAYS
     global OUT, NEW_SINCE, SEARCH_URL, EXAMPLE
@@ -181,27 +287,33 @@ def main() -> None:
     NEW_SINCE = (datetime.fromisoformat(m["builtAt"]) - timedelta(days=2)).isoformat()
     picked = {"newgrad": defaultdict(list), "intern": defaultdict(list)}
     seen = {}
-    for key in m["chunks"]:
-        blob = get(key)
-        for r in json.loads(gzip.decompress(blob) if blob[:2] == b"\x1f\x8b" else blob):
-            if (r.get("publishedAt") or "") < since or not r.get("url"):
-                continue
-            k = kind(r)
-            reg = k and region(r)
-            if not reg:
-                continue
-            dup = (k, reg, (r.get("company") or "").lower(), r["title"].strip().lower())
-            first = seen.get(dup)
-            loc = (r.get("location") or "").strip()
-            if first is not None:  # same role in another city: one row, newest posting's link
-                if loc and loc not in first["_locs"]:
-                    first["_locs"].append(loc)
-                if r["publishedAt"] > first["publishedAt"]:
-                    first.update({"url": r["url"], "publishedAt": r["publishedAt"]})
-                continue
-            r["_locs"] = [loc] if loc else []
-            seen[dup] = r
-            picked[k][reg].append(r)
+    def index_rows():
+        for key in m["chunks"]:
+            blob = get(key)
+            yield from json.loads(gzip.decompress(blob) if blob[:2] == b"\x1f\x8b" else blob)
+
+    for r in chain(index_rows(), firm_rows(m["builtAt"]), amazon_rows(), microsoft_rows()):
+        if (r.get("publishedAt") or "") < since or not r.get("url"):
+            continue
+        k = kind(r)
+        reg = k and region(r)
+        if not reg:
+            continue
+        # "Hardware Engineer I (Full Time)" = "(Full-Time)", "Duolingo" = "Duolingo University": punctuation and
+        # company forms don't make a second role (4 Nov audit)
+        tkey = re.sub(r"\W+", "", re.sub(r"\(full[- ]?time\)", "", r["title"].lower()))
+        dup = (k, reg, re.sub(r"\s+(university|careers|campus|early careers)$", "", co_key(r.get("company"))), tkey)
+        first = seen.get(dup)
+        loc = (r.get("location") or "").strip()
+        if first is not None:  # same role in another city: one row, newest posting's link
+            if loc and loc not in first["_locs"]:
+                first["_locs"].append(loc)
+            if r["publishedAt"] > first["publishedAt"]:
+                first.update({"url": r["url"], "publishedAt": r["publishedAt"]})
+            continue
+        r["_locs"] = [loc] if loc else []
+        seen[dup] = r
+        picked[k][reg].append(r)
     order = [n for n, _ in REGIONS] + ["Remote, other"]
     res = {}
     for k, by in picked.items():
@@ -230,18 +342,18 @@ def main() -> None:
         (OUT / "README.md").write_text(page(
             "European tech internships and new-grad jobs 2027, updated daily",
             "Software engineering, data, ML, security and hardware internships, working-student roles and graduate jobs in "
-            "the UK, Ireland and the rest of Europe, from 15,000+ company career pages. Nobody curates it by hand, so it "
+            "the UK, Ireland and the rest of Europe, from 20,000+ company career pages. Nobody curates it by hand, so it "
             "doesn't wait for pull requests.", groups, m["builtAt"],
             "Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027)."), "utf8")
     else:
         (OUT / "README.md").write_text(page(
             "New Grad 2027 and entry-level tech jobs, updated daily",
             "New-grad, junior and entry-level software engineering, data, ML, security, hardware and infrastructure "
-            "roles, worldwide, from 15,000+ company career pages.", res["newgrad"], m["builtAt"], "Internships: [INTERNSHIPS.md](INTERNSHIPS.md)."), "utf8")
+            "roles, worldwide, from 20,000+ company career pages.", res["newgrad"], m["builtAt"], "Internships: [INTERNSHIPS.md](INTERNSHIPS.md)."), "utf8")
         (OUT / "INTERNSHIPS.md").write_text(page(
             "Summer 2027 tech internships and co-ops, updated daily",
             "Software engineering, data, ML, security and hardware internships, co-ops and working-student roles, "
-            "worldwide, from 15,000+ company career pages.",
+            "worldwide, from 20,000+ company career pages.",
             res["intern"], m["builtAt"], "New-grad roles: [README.md](README.md)."), "utf8")
     keep = ["company", "title", "location", "_locs", "allLocations", "remote", "salaryMin", "salaryMax", "salaryCurrency", "salaryInterval",
             "url", "publishedAt", "ats"]
