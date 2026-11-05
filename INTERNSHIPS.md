@@ -2,13 +2,13 @@
 
 Software engineering, data, ML, security and hardware internships, co-ops and working-student roles, worldwide, from 20,000+ company career pages.
 
-**1,076 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-05 01:02 UTC. New-grad roles: [README.md](README.md).
+**1,079 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-05 01:02 UTC. New-grad roles: [README.md](README.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (540) · [Canada](#canada) (60) · [UK & Ireland](#uk--ireland) (62) · [Europe](#europe) (295) · [India](#india) (19) · [Asia-Pacific](#asia-pacific) (79) · [Latin America](#latin-america) (16) · [Remote, other](#remote-other) (5)
+Contents: [United States](#united-states) (543) · [Canada](#canada) (60) · [UK & Ireland](#uk--ireland) (62) · [Europe](#europe) (295) · [India](#india) (19) · [Asia-Pacific](#asia-pacific) (79) · [Latin America](#latin-america) (16) · [Remote, other](#remote-other) (5)
 
 Most roles this fortnight: NVIDIA (52), Airbus (47), IBM (45), Booz Allen (43), Bosch Group (32), Sopra Steria (29), Jane Street (20), Amazon (18), Intercontinental Exchange Holdings, Inc. (18), ASML (17), Schneider Electric (15), RTX (15).
 
@@ -16,25 +16,28 @@ Most roles this fortnight: NVIDIA (52), Airbus (47), IBM (45), Booz Allen (43), 
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmo](https://apply.careers.microsoft.com/careers/job/1970393556922930) 🆕 | Redmond, Washington, United States |  | 2026-11-05 |
+| Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) 🆕 | New York, NY, US |  | 2026-11-05 |
+| Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8498547002/) 🆕 | New York, NY, US |  | 2026-11-05 |
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617344002/) 🆕 | New York, NY, US |  | 2026-11-05 |
 | Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) 🆕 | New York, NY, US |  | 2026-11-05 |
+| Citadel | [Sector Data Scientist 2027 Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) 🆕 | United States |  | 2026-11-05 |
 | Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) 🆕 | United States |  | 2026-11-05 |
+| Microsoft | [Research Intern - Research in Software Engineering, ML Systems, Agents](https://apply.careers.microsoft.com/careers/job/1970393557054069) 🆕 | Redmond, Washington, United States |  | 2026-11-05 |
 | Boston Scientific | [Software Development Engineer Intern](https://jobs.bostonscientific.com/job/Waltham-Software-Development-Engineer-Intern-MA-02138/1433436100/) 🆕 | Waltham, MA, US |  | 2026-11-04 |
 | Seagate Technology, LLC | [Hardware Engineering Design Summer Internship](https://seagatecareers.com/job/Shakopee-Hardware-Engineering-Design-Summer-Internship-MN/1447935400/) 🆕 | Shakopee, MN, US |  | 2026-11-04 |
 | Toyota Research Institute | [Human-Centered AI Research Intern, Human Language Models](https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e) 🆕 | Los Altos, CA |  | 2026-11-04 |
 | Toyota Research Institute | [Robotics Research Intern, Manipulation](https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd) 🆕 | Los Altos, CA |  | 2026-11-04 |
 | Toyota Research Institute | [Automated Driving Advanced Development Intern, Machine Learning Research](https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b) 🆕 | Los Altos, CA |  | 2026-11-04 |
+| Microsoft | [Data Science: PhD Internship Opportunities - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556982928) 🆕 | Redmond, Washington, United States |  | 2026-11-04 |
 | Logiqal | [Quantum Hardware Intern](https://jobs.ashbyhq.com/logiqal/2734f991-1e21-4c77-bb41-211ffa88449d) 🆕 | Princeton, NJ |  | 2026-11-04 |
 | Logiqal | [Quantum Error Correction and Architecture Intern](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f) 🆕 | Princeton, NJ |  | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) 🆕 | New York, NY, US |  | 2026-11-04 |
 | Jane Street | [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) 🆕 | New York, NY, US |  | 2026-11-04 |
-| Jane Street | [Hardware Engineer (FPGA/ASIC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8624440002/) 🆕 | New York, NY, US |  | 2026-11-04 |
-| Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) 🆕 | New York, NY, US |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) 🆕 | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) 🆕 | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) 🆕 | United States |  | 2026-11-04 |
 | Citadel | [Quantitative Researcher PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) 🆕 | United States |  | 2026-11-04 |
-| Citadel | [Quantitative Trader Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) 🆕 | United States |  | 2026-11-04 |
 | D. E. Shaw | [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) 🆕 | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) 🆕 | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) 🆕 | New York, NY, US |  | 2026-11-04 |
@@ -1017,7 +1020,7 @@ Most roles this fortnight: NVIDIA (52), Airbus (47), IBM (45), Booz Allen (43), 
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617298002/) 🆕 | Singapore, SG; Hong Kong, HK |  | 2026-11-05 |
+| Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632392002/) 🆕 | Singapore, SG; Hong Kong, HK |  | 2026-11-05 |
 | Carousell Group | [IT Intern](https://jobs.smartrecruiters.com/CarousellGroup/744000159741299) 🆕 | Kebonjeruk, Jakarta, Indonesia |  | 2026-11-04 |
 | Bosch Group | [Undergraduate IT Student](https://jobs.smartrecruiters.com/BoschGroup/744000159723623) 🆕 | Clayton, VIC, Australia |  | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8810604002/) 🆕 | Hong Kong, HK |  | 2026-11-04 |

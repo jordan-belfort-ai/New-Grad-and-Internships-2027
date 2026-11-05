@@ -4,6 +4,40 @@
 "newgrad": {
 "United States": [
 {
+"company": "Amazon",
+"title": "Software Development Engineer (Embedded systems), Amazon Leo, Early Career - 2027 (US)",
+"location": "Redmond, WA, US",
+"_locs": [
+"Redmond, WA, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10598021/software-development-engineer-embedded-systems-amazon-leo-early-career-2027-us",
+"publishedAt": "2026-11-05T00:00:00+00:00",
+"ats": "amazon"
+},
+{
+"company": "Amazon",
+"title": "Software Development Engineer, Amazon Leo, Early Career - 2027 (US)",
+"location": "Redmond, WA, US",
+"_locs": [
+"Redmond, WA, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us",
+"publishedAt": "2026-11-05T00:00:00+00:00",
+"ats": "amazon"
+},
+{
 "company": "Pacific Northwest National Laboratory",
 "title": "Early Career Software Engineer",
 "location": "Richland, Washington",
@@ -2495,6 +2529,25 @@
 "ats": "workday"
 },
 {
+"company": "DXC Technology",
+"title": "Operador/a de sistemas IT junior",
+"location": "ESP - CT - SANT CUGAT DEL VALLE",
+"_locs": [
+"ESP - CT - SANT CUGAT DEL VALLE"
+],
+"allLocations": [
+"ESP - CT - SANT CUGAT DEL VALLE"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---CT---SANT-CUGAT-DEL-VALLE/Operador-a-de-sistemas-IT-junior_51593198",
+"publishedAt": "2026-11-02",
+"ats": "workday"
+},
+{
 "company": "Guidehouse",
 "title": "Data Analyst I",
 "location": "US - VA, Norfolk",
@@ -3568,6 +3621,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cybersecurity-Analyst--Junior_R0252510",
+"publishedAt": "2026-10-28",
+"ats": "workday"
+},
+{
+"company": "DXC Technology",
+"title": "Analyst I Software Engineering",
+"location": "IND - TN - CHENNAI",
+"_locs": [
+"IND - TN - CHENNAI"
+],
+"allLocations": [
+"IND - TN - CHENNAI"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986",
 "publishedAt": "2026-10-28",
 "ats": "workday"
 },
@@ -7424,8 +7496,7 @@
 "location": "Iasi, RO",
 "_locs": [
 "Iasi, RO",
-"Madrid, M, ES",
-"Luxembourg, LU"
+"Madrid, M, ES"
 ],
 "allLocations": null,
 "remote": null,
@@ -7512,25 +7583,6 @@
 "url": "https://jobs.citi.com/job/warsaw/technology-cyber-security-full-time-analyst-warsaw-2027/287/102767853424",
 "publishedAt": "2026-11-02",
 "ats": "talentbrew"
-},
-{
-"company": "DXC Technology",
-"title": "Operador/a de sistemas IT junior",
-"location": "ESP - CT - SANT CUGAT DEL VALLE",
-"_locs": [
-"ESP - CT - SANT CUGAT DEL VALLE"
-],
-"allLocations": [
-"ESP - CT - SANT CUGAT DEL VALLE"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---CT---SANT-CUGAT-DEL-VALLE/Operador-a-de-sistemas-IT-junior_51593198",
-"publishedAt": "2026-11-02",
-"ats": "workday"
 },
 {
 "company": "NXP Semiconductors",
@@ -9212,26 +9264,6 @@
 "ats": "greenhouse"
 },
 {
-"company": "DXC Technology",
-"title": "Analyst I Software Engineering",
-"location": "IND - TN - CHENNAI",
-"_locs": [
-"IND - TN - CHENNAI",
-"IND - HR - NOIDA"
-],
-"allLocations": [
-"IND - TN - CHENNAI"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986",
-"publishedAt": "2026-10-28",
-"ats": "workday"
-},
-{
 "company": "Bristol Myers Squibb",
 "title": "Analytics Engineer I , Commercialization",
 "location": "Hyderabad - TS - IN",
@@ -9327,6 +9359,25 @@
 "ats": "workday"
 },
 {
+"company": "DXC Technology",
+"title": "Analyst I Software Engineering",
+"location": "IND - HR - NOIDA",
+"_locs": [
+"IND - HR - NOIDA"
+],
+"allLocations": [
+"IND - HR - NOIDA"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---HR---NOIDA/Analyst-I-Software-Engineering_51592356",
+"publishedAt": "2026-10-26",
+"ats": "workday"
+},
+{
 "company": "The Hartford",
 "title": "IND Associate Software Engineer -  Red Team Engineer",
 "location": "India GCC-Puppalaguda Village",
@@ -9361,7 +9412,7 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8646746002/",
+"url": "https://www.janestreet.com/join-jane-street/position/8637960002/",
 "publishedAt": "2026-11-05T01:02:23+00:00",
 "ats": "janestreet"
 },
@@ -10702,6 +10753,57 @@
 "intern": {
 "United States": [
 {
+"company": "Microsoft",
+"title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+"publishedAt": "2026-11-05T16:26:05+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Jane Street",
+"title": "Machine Learning Researcher (Summer Internship)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+"publishedAt": "2026-11-05T01:02:23+00:00",
+"ats": "janestreet"
+},
+{
+"company": "Jane Street",
+"title": "Quantitative Researcher (Summer Internship)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+"publishedAt": "2026-11-05T01:02:23+00:00",
+"ats": "janestreet"
+},
+{
 "company": "Jane Street",
 "title": "Quantitative Trader (Summer Internship)",
 "location": "New York, NY, US",
@@ -10737,6 +10839,23 @@
 },
 {
 "company": "Citadel",
+"title": "Sector Data Scientist 2027 Intern",
+"location": "United States",
+"_locs": [
+"United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/",
+"publishedAt": "2026-11-05T01:02:23+00:00",
+"ats": "citadel"
+},
+{
+"company": "Citadel",
 "title": "Software Engineer Intern",
 "location": "United States",
 "_locs": [
@@ -10751,6 +10870,23 @@
 "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
 "publishedAt": "2026-11-05T01:02:23+00:00",
 "ats": "citadel"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+"publishedAt": "2026-11-05T00:20:59+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Boston Scientific",
@@ -10848,6 +10984,23 @@
 "ats": "lever"
 },
 {
+"company": "Microsoft",
+"title": "Data Science: PhD Internship Opportunities - Redmond",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
+"publishedAt": "2026-11-04T18:58:54+00:00",
+"ats": "microsoft"
+},
+{
 "company": "Logiqal",
 "title": "Quantum Hardware Intern",
 "location": "Princeton, NJ",
@@ -10920,40 +11073,6 @@
 "ats": "janestreet"
 },
 {
-"company": "Jane Street",
-"title": "Hardware Engineer (FPGA/ASIC) (Summer Internship)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
-"publishedAt": "2026-11-04T18:01:55+00:00",
-"ats": "janestreet"
-},
-{
-"company": "Jane Street",
-"title": "Machine Learning Engineer (Summer Internship)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
-"publishedAt": "2026-11-04T18:01:55+00:00",
-"ats": "janestreet"
-},
-{
 "company": "Citadel",
 "title": "Machine Learning Researcher PhD Intern",
 "location": "United States",
@@ -11018,23 +11137,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
-"publishedAt": "2026-11-04T18:01:55+00:00",
-"ats": "citadel"
-},
-{
-"company": "Citadel",
-"title": "Quantitative Trader Equity Quantitative Research Intern",
-"location": "United States",
-"_locs": [
-"United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/",
 "publishedAt": "2026-11-04T18:01:55+00:00",
 "ats": "citadel"
 },
@@ -29364,7 +29466,7 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8617298002/",
+"url": "https://www.janestreet.com/join-jane-street/position/8632392002/",
 "publishedAt": "2026-11-05T01:02:23+00:00",
 "ats": "janestreet"
 },
