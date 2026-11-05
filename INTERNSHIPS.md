@@ -2,13 +2,13 @@
 
 Software engineering, data, ML, security and hardware internships, co-ops and working-student roles, worldwide, from 20,000+ company career pages.
 
-**1,075 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-05 01:02 UTC. New-grad roles: [README.md](README.md).
+**1,076 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-05 01:02 UTC. New-grad roles: [README.md](README.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (541) · [Canada](#canada) (59) · [UK & Ireland](#uk--ireland) (62) · [Europe](#europe) (295) · [India](#india) (18) · [Asia-Pacific](#asia-pacific) (79) · [Latin America](#latin-america) (16) · [Remote, other](#remote-other) (5)
+Contents: [United States](#united-states) (540) · [Canada](#canada) (60) · [UK & Ireland](#uk--ireland) (62) · [Europe](#europe) (295) · [India](#india) (19) · [Asia-Pacific](#asia-pacific) (79) · [Latin America](#latin-america) (16) · [Remote, other](#remote-other) (5)
 
 Most roles this fortnight: NVIDIA (52), Airbus (47), IBM (45), Booz Allen (43), Bosch Group (32), Sopra Steria (29), Jane Street (20), Amazon (18), Intercontinental Exchange Holdings, Inc. (18), ASML (17), Schneider Electric (15), RTX (15).
 
@@ -19,7 +19,6 @@ Most roles this fortnight: NVIDIA (52), Airbus (47), IBM (45), Booz Allen (43), 
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617344002/) 🆕 | New York, NY, US |  | 2026-11-05 |
 | Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) 🆕 | New York, NY, US |  | 2026-11-05 |
 | Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) 🆕 | United States |  | 2026-11-05 |
-| Microsoft | [Research Intern - Research in Software Engineering, ML Systems, Agents](https://apply.careers.microsoft.com/careers/job/1970393557054069) 🆕 | Redmond, Washington, United States |  | 2026-11-05 |
 | Boston Scientific | [Software Development Engineer Intern](https://jobs.bostonscientific.com/job/Waltham-Software-Development-Engineer-Intern-MA-02138/1433436100/) 🆕 | Waltham, MA, US |  | 2026-11-04 |
 | Seagate Technology, LLC | [Hardware Engineering Design Summer Internship](https://seagatecareers.com/job/Shakopee-Hardware-Engineering-Design-Summer-Internship-MN/1447935400/) 🆕 | Shakopee, MN, US |  | 2026-11-04 |
 | Toyota Research Institute | [Human-Centered AI Research Intern, Human Language Models](https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e) 🆕 | Los Altos, CA |  | 2026-11-04 |
@@ -575,6 +574,7 @@ Most roles this fortnight: NVIDIA (52), Airbus (47), IBM (45), Booz Allen (43), 
 | Royal Bank of Canada | [2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | TORONTO, Ontario, Canada |  | 2026-11-03 |
 | Botpress Technologies Inc. | [Software Developer Intern - WINTER 2027](https://apply.workable.com/j/9B3CB646E8) | Montreal, Quebec, Canada |  | 2026-11-03 |
 | Botpress Technologies Inc. | [Stagiaire en développement logiciel HIVER 2027](https://apply.workable.com/j/16C68A50A7) | Montreal, Quebec, Canada |  | 2026-11-03 |
+| Microsoft | [Stagiaire en opérations critiques Centre de données / Critical Environment Ops INTERN Data](https://apply.careers.microsoft.com/careers/job/1970393557021518) | Quebec City, Québec, Canada |  | 2026-11-02 |
 | Zimmer Biomet | [2027 Spring Co-Op, Software Developer](https://career8.successfactors.com/careers?company=zimmerin01&loginFlowRequired=true&career_os=job_listing&career_ns=job_application&career_job_req_id=13309&_s.crb=25fvCmbM9Lad2rza%252fxJs%252fNp1mhY1RYUVrVIMdAiM2RI%253d) | Montreal, Quebec, Canada |  | 2026-11-02 |
 | American Express | [Campus Undergraduate Winter Internship Program 2027 – International Card Services & Global](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015817) | Toronto, ON, Canada |  | 2026-11-02 |
 | American Express | [Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology S](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016035) | Toronto, ON, Canada |  | 2026-11-02 |
@@ -1008,6 +1008,7 @@ Most roles this fortnight: NVIDIA (52), Airbus (47), IBM (45), Booz Allen (43), 
 | Certa | [Frontend Engineer - Internship](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e) | India |  | 2026-10-28 |
 | HackerRank | [AI Researcher Intern](https://job-boards.greenhouse.io/hackerrank/jobs/8281055) | Onsite in Bangalore |  | 2026-10-28 |
 | Honeywell | [Intern (Bach) Data Engineering](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160486) | Bengaluru, Karnataka, India |  | 2026-10-26 |
+| Microsoft | [Security Research INTERN](https://apply.careers.microsoft.com/careers/job/1970393557043380) | India |  | 2026-10-23 |
 | Origin | [AI Research Apprentice](https://apply.workable.com/j/0AAB2A2D33) | Bengaluru, Karnataka, India |  | 2026-10-23 |
 | Origin | [Platform Engineering Apprentice - Linux](https://apply.workable.com/j/F4080CB2F6) | Bengaluru, Karnataka, India |  | 2026-10-23 |
 | Origin | [SDE Apprentice - Android focused](https://apply.workable.com/j/E2C2B96C1E) | Bengaluru, Karnataka, India |  | 2026-10-23 |
