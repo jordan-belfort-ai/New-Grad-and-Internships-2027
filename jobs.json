@@ -2495,25 +2495,6 @@
 "ats": "workday"
 },
 {
-"company": "DXC Technology",
-"title": "Operador/a de sistemas IT junior",
-"location": "ESP - CT - SANT CUGAT DEL VALLE",
-"_locs": [
-"ESP - CT - SANT CUGAT DEL VALLE"
-],
-"allLocations": [
-"ESP - CT - SANT CUGAT DEL VALLE"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---CT---SANT-CUGAT-DEL-VALLE/Operador-a-de-sistemas-IT-junior_51593198",
-"publishedAt": "2026-11-02",
-"ats": "workday"
-},
-{
 "company": "Guidehouse",
 "title": "Data Analyst I",
 "location": "US - VA, Norfolk",
@@ -3587,25 +3568,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cybersecurity-Analyst--Junior_R0252510",
-"publishedAt": "2026-10-28",
-"ats": "workday"
-},
-{
-"company": "DXC Technology",
-"title": "Analyst I Software Engineering",
-"location": "IND - TN - CHENNAI",
-"_locs": [
-"IND - TN - CHENNAI"
-],
-"allLocations": [
-"IND - TN - CHENNAI"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986",
 "publishedAt": "2026-10-28",
 "ats": "workday"
 },
@@ -7552,6 +7514,25 @@
 "ats": "talentbrew"
 },
 {
+"company": "DXC Technology",
+"title": "Operador/a de sistemas IT junior",
+"location": "ESP - CT - SANT CUGAT DEL VALLE",
+"_locs": [
+"ESP - CT - SANT CUGAT DEL VALLE"
+],
+"allLocations": [
+"ESP - CT - SANT CUGAT DEL VALLE"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---CT---SANT-CUGAT-DEL-VALLE/Operador-a-de-sistemas-IT-junior_51593198",
+"publishedAt": "2026-11-02",
+"ats": "workday"
+},
+{
 "company": "NXP Semiconductors",
 "title": "Junior Software Tools Engineer for Secure Embedded Systems (m/f/d)",
 "location": "Gratkorn",
@@ -9231,6 +9212,26 @@
 "ats": "greenhouse"
 },
 {
+"company": "DXC Technology",
+"title": "Analyst I Software Engineering",
+"location": "IND - TN - CHENNAI",
+"_locs": [
+"IND - TN - CHENNAI",
+"IND - HR - NOIDA"
+],
+"allLocations": [
+"IND - TN - CHENNAI"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986",
+"publishedAt": "2026-10-28",
+"ats": "workday"
+},
+{
 "company": "Bristol Myers Squibb",
 "title": "Analytics Engineer I , Commercialization",
 "location": "Hyderabad - TS - IN",
@@ -9322,25 +9323,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Science_R-248367",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "DXC Technology",
-"title": "Analyst I Software Engineering",
-"location": "IND - HR - NOIDA",
-"_locs": [
-"IND - HR - NOIDA"
-],
-"allLocations": [
-"IND - HR - NOIDA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---HR---NOIDA/Analyst-I-Software-Engineering_51592356",
 "publishedAt": "2026-10-26",
 "ats": "workday"
 },
@@ -10769,23 +10751,6 @@
 "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
 "publishedAt": "2026-11-05T01:02:23+00:00",
 "ats": "citadel"
-},
-{
-"company": "Microsoft",
-"title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-"publishedAt": "2026-11-05T00:20:59+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Boston Scientific",
@@ -21524,6 +21489,23 @@
 "ats": "workable"
 },
 {
+"company": "Microsoft",
+"title": "Stagiaire en opérations critiques Centre de données / Critical Environment Ops INTERN Data Center",
+"location": "Quebec City, Québec, Canada",
+"_locs": [
+"Quebec City, Québec, Canada"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557021518",
+"publishedAt": "2026-11-02T20:53:38+00:00",
+"ats": "microsoft"
+},
+{
 "company": "Zimmer Biomet",
 "title": "2027 Spring Co-Op, Software Developer",
 "location": "Montreal, Quebec, Canada",
@@ -29291,6 +29273,23 @@
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160486",
 "publishedAt": "2026-10-26",
 "ats": "oracle"
+},
+{
+"company": "Microsoft",
+"title": "Security Research INTERN",
+"location": "India",
+"_locs": [
+"India"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557043380",
+"publishedAt": "2026-10-23T09:41:05+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Origin",
