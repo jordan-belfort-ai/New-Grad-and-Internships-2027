@@ -2,15 +2,15 @@
 
 New-grad, junior and entry-level software engineering, data, ML, security, hardware and infrastructure roles, worldwide, from 20,000+ company career pages.
 
-**564 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-05 01:02 UTC. Internships: [INTERNSHIPS.md](INTERNSHIPS.md).
+**563 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-05 01:02 UTC. Internships: [INTERNSHIPS.md](INTERNSHIPS.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (270) · [Canada](#canada) (28) · [UK & Ireland](#uk--ireland) (58) · [Europe](#europe) (98) · [India](#india) (38) · [Asia-Pacific](#asia-pacific) (50) · [Latin America](#latin-america) (18) · [Remote, other](#remote-other) (4)
+Contents: [United States](#united-states) (268) · [Canada](#canada) (28) · [UK & Ireland](#uk--ireland) (58) · [Europe](#europe) (99) · [India](#india) (38) · [Asia-Pacific](#asia-pacific) (50) · [Latin America](#latin-america) (18) · [Remote, other](#remote-other) (4)
 
-Most roles this fortnight: RTX (20), Jane Street (17), EUROPEAN DYNAMICS (15), NVIDIA (12), Citi (10), Northrop Grumman (10), Leidos (10), IBM (9), Sopra Steria (9), American Express (8), DXC Technology (8), Captivation Software (8).
+Most roles this fortnight: RTX (20), Jane Street (17), EUROPEAN DYNAMICS (15), NVIDIA (12), Citi (10), Northrop Grumman (10), Leidos (10), IBM (9), Sopra Steria (9), American Express (8), Captivation Software (8), DXC Technology (7).
 
 ## United States
 
@@ -148,7 +148,6 @@ Most roles this fortnight: RTX (20), Jane Street (17), EUROPEAN DYNAMICS (15), N
 | General Dynamics Information Technology | [Junior Network Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Richmond/Junior-Network-Engineer_RQ229937-2) | USA VA Richmond | USD 85k-115k | 2026-11-02 |
 | General Dynamics Information Technology | [Network Security Engineer Junior](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Ashburn/Network-Security-Engineer-Junior_RQ230028-1) | USA VA Ashburn | USD 85k-115k | 2026-11-02 |
 | General Dynamics Information Technology | [Junior Systems Engineer (W/ 1 day telework)](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-MD-Annapolis-Junction/Junior-Systems-Engineer--W--1-day-telework-_RQ229653) | USA MD Annapolis Junction | USD 119k-161k | 2026-11-02 |
-| DXC Technology | [Operador/a de sistemas IT junior](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---CT---SANT-CUGAT-DEL-VALLE/Operador-a-de-sistemas-IT-junior_51593198) | ESP - CT - SANT CUGAT DEL VALLE |  | 2026-11-02 |
 | Guidehouse | [Data Analyst I](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Norfolk/Data-Analyst-I_45743-1) | US - VA, Norfolk; US - VA, McLean |  | 2026-11-02 |
 | Boeing | [ICBM Minuteman Flight Control Systems Engineer , Early Career](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hill-AFB-UT/ICBM-Minuteman-Flight-Control-Systems-Engineer---Early-Career_JR2026528240-1) | USA - Hill AFB, UT | USD 75k-102k | 2026-11-02 |
 | Gilead Sciences | [Research Scientist I, Attribute Sciences Computational Biology, AI & Scientific Informatic](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Santa-Monica/Research-Scientist-I--Attribute-Sciences-Computational-Biology--AI---Scientific-Informatics_R0056062-2) | United States - California - Santa Monica |  | 2026-11-02 |
@@ -205,7 +204,6 @@ Most roles this fortnight: RTX (20), Jane Street (17), EUROPEAN DYNAMICS (15), N
 | IBM | [Entry Level QA/Test Engineer- Tucson, AZ](https://careers.ibm.com/careers/JobDetail?jobId=138550) | TUCSON, US |  | 2026-10-28 |
 | Amentum | [Early Career Spaceflight Hardware Propulsion Engineer](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Early-Career-Spaceflight-Hardware-Propulsion-Engineer_R0174120-3) | US-TX-Houston |  | 2026-10-28 |
 | Booz Allen | [Cybersecurity Analyst, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cybersecurity-Analyst--Junior_R0252510) | Rome, NY |  | 2026-10-28 |
-| DXC Technology | [Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986) | IND - TN - CHENNAI |  | 2026-10-28 |
 | U.S. Bank | [Software Engineer 1 (Java, Linux, SQL)](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer-1--Java--Linux--SQL-_2026-0026539) | Saint Paul, MN |  | 2026-10-28 |
 | Caterpillar | [2027 IT Analyst - Entry Level](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Irving-Texas/XMLNAME-2027-IT-Analyst---Entry-Level_R0000385332) | Irving, Texas |  | 2026-10-28 |
 | Guidehouse | [Junior Developer](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Scott-Air-Force-Base/Junior-Developer_45430-1) | US - IL, Scott Air Force Base |  | 2026-10-28 |
@@ -427,6 +425,7 @@ Most roles this fortnight: RTX (20), Jane Street (17), EUROPEAN DYNAMICS (15), N
 | Honeywell | [Junior Software Engineer (m/f/d) - hybrid](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161294) | Gdansk, Pomorskie, Poland |  | 2026-11-02 |
 | Citi | [Technology - Infrastructure, Full Time Analyst, Warsaw 2027](https://jobs.citi.com/job/warsaw/technology-infrastructure-full-time-analyst-warsaw-2027/287/102767855152) | Warsaw, 78, PL |  | 2026-11-02 |
 | Citi | [Technology - Cyber Security, Full Time Analyst, Warsaw 2027](https://jobs.citi.com/job/warsaw/technology-cyber-security-full-time-analyst-warsaw-2027/287/102767853424) | Warsaw, 78, PL |  | 2026-11-02 |
+| DXC Technology | [Operador/a de sistemas IT junior](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---CT---SANT-CUGAT-DEL-VALLE/Operador-a-de-sistemas-IT-junior_51593198) | ESP - CT - SANT CUGAT DEL VALLE |  | 2026-11-02 |
 | NXP Semiconductors | [Junior Software Tools Engineer for Secure Embedded Systems (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Junior-Software-Engineer--Debugger-for-Secure-Embedded-Systems--m-f-d-_R-10064606) | Gratkorn |  | 2026-11-02 |
 | EUROPEAN DYNAMICS | [Junior .NET Web Developer](https://apply.workable.com/j/880D8F230F) | Athens, Attica, Greece |  | 2026-11-02 |
 | EUROPEAN DYNAMICS | [Junior AI/ML Engineer - Python Developer](https://apply.workable.com/j/D53EAA65D5) | Athens, Attica, Greece |  | 2026-11-02 |
@@ -521,12 +520,12 @@ Most roles this fortnight: RTX (20), Jane Street (17), EUROPEAN DYNAMICS (15), N
 | Mondelez International | [Associate Data Engineer](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Mumbai-India/Associate-Data-Engineer_R-178810) | Mumbai, India |  | 2026-10-29 |
 | Cencora | [AI Developer 1](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/AI-Developer-1_R2617120) | Pune, India |  | 2026-10-29 |
 | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130876) | Bangalore |  | 2026-10-28 |
+| DXC Technology | [Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986) | IND - TN - CHENNAI; IND - HR - NOIDA |  | 2026-10-28 |
 | Bristol Myers Squibb | [Analytics Engineer I , Commercialization](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391) | Hyderabad - TS - IN |  | 2026-10-28 |
 | Copeland | [Engineer I Software Development](https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Pune-India/Engineer-I-Software-Development_JR110063) | Pune, India |  | 2026-10-28 |
 | Black Box | [Jr. Front End Developer](https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/06014) | India |  | 2026-10-27 |
 | Amgen | [Associate Data Engineer](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Engineer_R-256205) | India - Hyderabad |  | 2026-10-26 |
 | Amgen | [Associate Data Science](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Science_R-248367) | India - Hyderabad |  | 2026-10-26 |
-| DXC Technology | [Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---HR---NOIDA/Analyst-I-Software-Engineering_51592356) | IND - HR - NOIDA |  | 2026-10-26 |
 | The Hartford | [IND Associate Software Engineer -  Red Team Engineer](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/India-GCC-Puppalaguda-Village/IND-Associate-Software-Engineer----Red-Team-Engineer_R2627341) | India GCC-Puppalaguda Village |  | 2026-10-23 |
 
 ## Asia-Pacific
