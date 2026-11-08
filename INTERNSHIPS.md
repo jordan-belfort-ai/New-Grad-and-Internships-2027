@@ -2,29 +2,34 @@
 
 Software engineering, data, ML, security and hardware internships, co-ops and working-student roles, worldwide, from 20,000+ company career pages.
 
-**1,119 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-07 04:29 UTC. New-grad roles: [README.md](README.md).
+**1,115 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-08 04:28 UTC. New-grad roles: [README.md](README.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (565) · [Canada](#canada) (59) · [UK & Ireland](#uk--ireland) (63) · [Europe](#europe) (306) · [India](#india) (14) · [Asia-Pacific](#asia-pacific) (86) · [Latin America](#latin-america) (22) · [Remote, other](#remote-other) (4)
+Contents: [United States](#united-states) (556) · [Canada](#canada) (57) · [UK & Ireland](#uk--ireland) (66) · [Europe](#europe) (303) · [India](#india) (13) · [Asia-Pacific](#asia-pacific) (94) · [Latin America](#latin-america) (22) · [Remote, other](#remote-other) (4)
 
-Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), Sopra Steria (34), Bosch Group (31), Capgemini (25), Amazon (25), Jane Street (20), ASML (18), Schneider Electric (16), RTX (16).
+Most roles this fortnight: NVIDIA (51), Airbus (49), Booz Allen (42), IBM (41), Sopra Steria (34), Bosch Group (31), Capgemini (25), Amazon (25), Jane Street (20), ASML (17), Schneider Electric (16), RTX (16).
 
 ## United States
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617344002/) 🆕 | New York, NY, US |  | 2026-11-08 |
+| Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8599644002/) 🆕 | New York, NY, US |  | 2026-11-08 |
+| Citadel | [Quantitative Research Engineer PhD Intern](https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/) 🆕 | United States |  | 2026-11-08 |
+| Capgemini | [Praktikant / Werkstudent Web/Mobile Developer (w/m/d)](https://careers.capgemini.com/job/Stuttgart-Praktikant-Werkstudent-WebMobile-Developer-%28wmd%29/1281269601/) 🆕 | Stuttgart, DE |  | 2026-11-08 |
+| Capgemini | [Duales Studium Informatik Bachelor of Science (w/m/d)](https://careers.capgemini.com/job/Frankfurt-Duales-Studium-Informatik-Bachelor-of-Science-%28wmd%29/1274473001/) 🆕 | Frankfurt, DE |  | 2026-11-08 |
+| Capgemini | [Duales Studium zum Bachelor of Engineering Praktische Informatik (w/m/d)](https://careers.capgemini.com/job/Erfurt-Duales-Studium-zum-Bachelor-of-Engineering-Praktische-Informatik-%28wmd%29/1273496101/) 🆕 | Erfurt, DE |  | 2026-11-08 |
 | Jane Street | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) 🆕 | New York, NY, US |  | 2026-11-07 |
 | Jane Street | [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) 🆕 | New York, NY, US |  | 2026-11-07 |
 | Citadel | [Quantitative Researcher PhD Intern](https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/) 🆕 | United States |  | 2026-11-07 |
 | Cintas | [IT Intern - Security, Governance, Risk, & Compliance](https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/) 🆕 | Mason, OH, US |  | 2026-11-07 |
 | Cintas | [IT Intern - SAP BASIS](https://careers.cintas.com/job/Mason-IT-Intern-SAP-BASIS-OH-45040/1448629500/) 🆕 | Mason, OH, US |  | 2026-11-07 |
-| Capgemini | [Werkstudent AI Adoption (w/m/d)](https://careers.capgemini.com/job/Berlin-Werkstudent-AI-Adoption-%28wmd%29/1454881533/) 🆕 | Berlin, DE |  | 2026-11-07 |
-| Corning | [Science & Technology - HPC DevOps Engineer Intern - Summer 2027](https://corningjobs.corning.com/job/Corning-Science-&-Technology-HPC-DevOps-Engineer-Intern-Summer-2027-NY-14831/1448743700/) 🆕 | Corning, NY, US |  | 2026-11-07 |
 | BMW AG | [Praktikant Data Driven Corporate Strategy (w/m/x)](https://jobs.bmwgroup.com/job/M%C3%BCnchen-Praktikant-Data-Driven-Corporate-Strategy-%28wmx%29-BY-80809/1455110033/) 🆕 | München, BY, DE |  | 2026-11-07 |
 | BMW AG | [Praktikant Softwareentwicklung AI Strategy (w/m/x)](https://jobs.bmwgroup.com/job/M%C3%BCnchen-Praktikant-Softwareentwicklung-AI-Strategy-%28wmx%29-BY-80809/1455185533/) 🆕 | München, BY, DE |  | 2026-11-07 |
+| Corning | [Science & Technology - HPC DevOps Engineer Intern - Summer 2027](https://corningjobs.corning.com/job/Corning-Science-&-Technology-HPC-DevOps-Engineer-Intern-Summer-2027-NY-14831/1448743700/) 🆕 | Corning, NY, US |  | 2026-11-07 |
 | L3Harris Technologies, Inc. | [Intern, Data Architect](https://jobs.l3harris.com/job/Huntsville-Intern%2C-Data-Architect-AL-35806/1448613300/) 🆕 | Huntsville, AL, US |  | 2026-11-07 |
 | Seagate Technology, LLC | [Recording Head Characterization & Data Analytics Intern - Summer 2027](https://seagatecareers.com/job/Bloomington-Recording-Head-Characterization-&-Data-Analytics-Intern-Summer-2027-MN/1448606700/) 🆕 | Bloomington, MN, US |  | 2026-11-07 |
 | Zoox | [AI Workflows & Safety Decision Making Intern (2027)](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) 🆕 | Foster City, CA |  | 2026-11-07 |
@@ -62,76 +67,73 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Galaxy | [2027 Digital Infrastructure Intern - NYC](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004) 🆕 | New York |  | 2026-11-06 |
 | Gannett Fleming | [Intern - Data Analytics](https://careers-gannettfleming.icims.com/jobs/15085/intern---data-analytics/job) 🆕 | New York, NY, US |  | 2026-11-06 |
 | SAS | [Summer 2027 - Data Scientist Intern](https://careers-sas.icims.com/jobs/42786/summer-2027---data-scientist-intern/job) 🆕 | Cary HQ, NC, US |  | 2026-11-06 |
-| Match Group | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff) 🆕 | San Francisco, California |  | 2026-11-06 |
-| Jane Street | [Hardware Engineer (FPGA/ASIC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8624440002/) 🆕 | New York, NY, US |  | 2026-11-06 |
-| Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) 🆕 | New York, NY, US |  | 2026-11-06 |
-| Citadel | [Quantitative Trader Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) 🆕 | United States |  | 2026-11-06 |
-| Cintas | [IT Intern - Desktop](https://careers.cintas.com/job/Mason-IT-Intern-Desktop-OH-45040/1448096500/) 🆕 | Mason, OH, US |  | 2026-11-06 |
-| Capgemini | [Werkstudent Software Engineering (w/m/d)](https://careers.capgemini.com/job/Berlin-Werkstudent-Software-Engineering-%28wmd%29/1281529601/) 🆕 | Berlin, DE |  | 2026-11-06 |
-| Capgemini | [Werkstudent DevOps Engineering (w/m/d)](https://careers.capgemini.com/job/Berlin-Werkstudent-DevOps-Engineering-%28wmd%29/1268718901/) 🆕 | Berlin, DE |  | 2026-11-06 |
-| Westinghouse Electric Company, LLC | [Summer Intern - ICS Cyber Security](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-ICS-Cyber-Security-OR/1448123600/) 🆕 | Warrendale, US |  | 2026-11-06 |
-| Ametek, Inc. | [AI Automation Intern](https://jobs.ametek.com/job/Orange-AI-Automation-Intern-CA-92865/1420689600/) 🆕 | Orange, CA, US |  | 2026-11-06 |
-| Match Group | [Backend Engineer Intern](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3) 🆕 | Palo Alto, California |  | 2026-11-06 |
-| Match Group | [Machine Learning Engineer Intern](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72) 🆕 | Palo Alto, California |  | 2026-11-06 |
-| Match Group | [Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) 🆕 | Los Angeles, California |  | 2026-11-06 |
-| Match Group | [iOS Engineer Intern](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef) 🆕 | Los Angeles, California |  | 2026-11-06 |
-| Etched | [Infrastructure Engineering & Projects Intern](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) 🆕 | San Jose |  | 2026-11-06 |
-| LLNL | [Center for Global Security Research (CGSR) Undergraduate Research Associate - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016680716) 🆕 | Livermore, CA, United States |  | 2026-11-06 |
-| LLNL | [Center for Global Security Research (CGSR) Graduate Research Associate - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016680626) 🆕 | Livermore, CA, United States |  | 2026-11-06 |
-| GE Aerospace | [Engines Engineering Intern – Computer or Software Engineering – US – Summer 2027](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1) 🆕 | Evendale, Ohio, United States of America |  | 2026-11-06 |
-| STERIS | [Intern, Mobile Solutions](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=57191&jobPipeline=PhenomCareerSite) 🆕 | Birmingham, Alabama, United States |  | 2026-11-06 |
-| Amazon | [2027 Quantum Science Internship - Masters, Quantum Technologies team](https://www.amazon.jobs/en/jobs/10598841/2027-quantum-science-internship-masters-quantum-technologies-team) 🆕 | Pasadena, CA, US |  | 2026-11-06 |
-| IBM | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) 🆕 | Ehningen, DE |  | 2026-11-06 |
-| GM financial | [Intern - Software Development Engineer](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831) 🆕 | Arlington, TX, United States |  | 2026-11-06 |
-| Amentum | [Systems Engineer - SLS Upper Stage (ES4)](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-AL-Huntsville/Systems-Engineer---SLS-Upper-Stage--ES4-_R0172671) 🆕 | US-AL-Huntsville |  | 2026-11-06 |
-| Cushman & Wakefield | [Mechatronics & Robotics Apprentice](https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---CA---Rialto---1568-N-LINDEN-AVE/Mechatronics---Robotics-Apprentice_R342649) 🆕 | Client Site - USA - CA - Rialto - 1568 N LINDEN AVE; Client Site - USA - CA - Rancho Cordova - 3300 Rancho Cordova Pkwy; Client Site - USA - MA - North Andover - 1450 Osgood Landing |  | 2026-11-06 |
-| Hitachi | [Full Stack Developer Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Full-Stack-Developer-Intern_R0149426) 🆕 | Dallas, Texas, United States |  | 2026-11-06 |
-| Uhaul | [Data Analyst Spring Internship](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909) 🆕 | Phoenix, Arizona |  | 2026-11-06 |
-| Leidos | [AI/Automation Development Intern - Assessment & Authorization](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) 🆕 | 6314 Remote/Teleworker US |  | 2026-11-06 |
-| CACI | [AI/ML Engineering Co-op - Spring 2027](https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1) 🆕 | King of Prussia, PA, US | USD 43k-87k | 2026-11-06 |
-| CACI | [Software Engineering Co-op - Spring 2027](https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665) 🆕 | King of Prussia, PA, US | USD 43k-87k | 2026-11-06 |
-| Danaher | [Firmware Engineer Co-op](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509) 🆕 | Indianapolis, Indiana, United States |  | 2026-11-06 |
-| KLA | [Software Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1) 🆕 | Milpitas, CA |  | 2026-11-06 |
-| Carrier Global | [Systems Engineering Intern - Summer](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/Systems-Engineering-Intern---Summer_30220566) 🆕 | CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA; CAN05: CCS-Charlotte, 5900 Northwoods Business Parkway, Charlotte, NC, 28269 USA |  | 2026-11-06 |
-| Motorola | [Software Presales Enablement Intern - Summer Internship 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228) 🆕 | Illinois Remote Work |  | 2026-11-06 |
-| GlobalFoundries | [Device Engineering Intern, Silicon Photonics (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264) 🆕 | USA - New York - Malta |  | 2026-11-06 |
-| GlobalFoundries | [Program Management Intern, Silicon Photonics (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132) 🆕 | USA - New York - Malta |  | 2026-11-06 |
-| Guidehouse | [Intern - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Intern---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46421) 🆕 | US - VA, Arlington |  | 2026-11-06 |
-| Samsung | [Business Intelligence & Data Analytics Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949) 🆕 | 6625 Excellence Way, Plano, TX, USA |  | 2026-11-06 |
-| Samsung | [Samsung Care AI Data Analytic Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) 🆕 | 6625 Excellence Way, Plano, TX, USA |  | 2026-11-06 |
-| Moog | [Intern, Systems Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20920) 🆕 | Buffalo, NY |  | 2026-11-06 |
-| Niagara Bottling | [IT Intern](https://niagarawater.wd5.myworkdayjobs.com/Niagara/job/Corp-Main---Diamond-Bar-CA/IT-Intern_R56349) 🆕 | Corp-Main - Diamond Bar, CA |  | 2026-11-06 |
-| Globus Medical | [Software COOP](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Methuen-MA/Software-COOP_JR108063) 🆕 | Methuen, MA |  | 2026-11-06 |
-| Invesco | [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) 🆕 | Dallas, Texas |  | 2026-11-06 |
-| Draper | [GNC Systems Engineering Co-Op (Spring 2027)](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Co-Op--Spring-2027-_JR003131) 🆕 | Cambridge, MA |  | 2026-11-06 |
-| Draper | [GNC Systems Engineering Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129) 🆕 | Cambridge, MA |  | 2026-11-06 |
-| Trimble | [AI Automation Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148) 🆕 | US - OH, Dayton |  | 2026-11-06 |
-| ASM | [Intern, Product Intelligence Engineering (AI/ML)](https://www.asm.com/open-vacancies/?gh_jid=5029228101) 🆕 | US ) Arizona ) Phoenix |  | 2026-11-05 |
-| State Farm | [Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist](https://jobs.statefarm.com/jobs/46227) 🆕 | Bloomington, Illinois; Richardson, Texas; Tempe, Arizona; Dunwoody, Georgia |  | 2026-11-05 |
-| Red Wing Shoe Company | [Data and Analytics Internship - Summer 2027](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000159979648) 🆕 | Red Wing, MN, United States |  | 2026-11-05 |
-| Toyota Research Institute | [Robotics Intern, Human-Robot Interaction](https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642) 🆕 | Cambridge, MA |  | 2026-11-05 |
-| Nooks | [Software Engineer, Intern](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb) 🆕 | San Francisco |  | 2026-11-05 |
-| Raft Company Website | [Full Stack Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6240549004) 🆕 | McLean, Virginia |  | 2026-11-05 |
-| Raft Company Website | [AI/ML Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6240555004) 🆕 | McLean, Virginia, United States |  | 2026-11-05 |
-| Raft Company Website | [Data Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6239800004) 🆕 | McLean, Virginia |  | 2026-11-05 |
-| Raft Company Website | [DevOps Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6239819004) 🆕 | McLean, Virginia |  | 2026-11-05 |
-| Apex Technology, Inc. | [Ground Software Engineering Internship (Spring or Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c) 🆕 | Los Angeles |  | 2026-11-05 |
-| Apex Technology, Inc. | [Software Engineering Internship, Test & Automation (Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344) 🆕 | Los Angeles |  | 2026-11-05 |
-| NBCUniversal | [NBC Sports Bay Area & California - Programming Intern - Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000159947792) 🆕 | San Francisco, CALIFORNIA, United States |  | 2026-11-05 |
-| Palantir Technologies | [Software Engineer, Internship - Sovereign AI Systems](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312) 🆕 | New York, NY |  | 2026-11-05 |
-| Protagonist | [National Security & Space Intern (Jan 2027 -- Strong Writing & Research Skills)](https://job-boards.greenhouse.io/protagonist/jobs/6251099004) 🆕 | Washington DC |  | 2026-11-05 |
-| Apex Technology, Inc. | [Software Engineering Internship, Embedded Systems (Spring or Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda) 🆕 | Los Angeles |  | 2026-11-05 |
-| Clera | [Computer Vision & Robotics Intern](https://jobs.ashbyhq.com/Clera/335d1ca9-1fda-45d3-9756-122324acbabb) 🆕 | San Francisco |  | 2026-11-05 |
-| Shield AI | [June 2027 Co-Op - Software Engineer Intern](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) 🆕 | Dallas, Texas |  | 2026-11-05 |
-| Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmo](https://apply.careers.microsoft.com/careers/job/1970393556922930) 🆕 | Redmond, Washington, United States |  | 2026-11-05 |
-| Johns Hopkins Applied Physics Laboratory | [2027 Internship - Maritime Software Development - Ocean Systems and Engineering](https://careers.jhuapl.edu/jobs/60820) 🆕 | Laurel, Maryland |  | 2026-11-05 |
-| Garmin International, Inc. | [IT DevOps Administrator Intern](https://careers.garmin.com/jobs/21321) 🆕 | Olathe, Kansas |  | 2026-11-05 |
-| RR Donnelley | [IT Support Engineer Summer Intern](https://jobs.smartrecruiters.com/RRDonnelley/744000159878934) 🆕 | Wheeling, WV, United States |  | 2026-11-05 |
-| Davidson Kempner for LinkedIn | [Quantitative Research Intern](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8928298002) 🆕 | New York |  | 2026-11-05 |
-| Hearst | [Software Engineering Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) 🆕 | Carmel, IN, United States |  | 2026-11-05 |
-| Riverside Research | [Software Applications Intern](https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job) 🆕 | Fairborn, OH, US |  | 2026-11-05 |
-| Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) | New York, NY, US |  | 2026-11-05 |
-| Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8498547002/) | New York, NY, US |  | 2026-11-05 |
+| Match Group | [Data Scientist Intern](https://jobs.lever.co/matchgroup/573621f6-9931-4e39-840a-1d04171be2ff) | San Francisco, California |  | 2026-11-06 |
+| Jane Street | [Hardware Engineer (FPGA/ASIC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8624440002/) | New York, NY, US |  | 2026-11-06 |
+| Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) | New York, NY, US |  | 2026-11-06 |
+| Citadel | [Quantitative Trader Equity Quantitative Research Intern](https://www.citadel.com/careers/details/quantitative-trader-equity-quantitative-research-intern-us/) | United States |  | 2026-11-06 |
+| Cintas | [IT Intern - Desktop](https://careers.cintas.com/job/Mason-IT-Intern-Desktop-OH-45040/1448096500/) | Mason, OH, US |  | 2026-11-06 |
+| Capgemini | [Werkstudent Software Engineering (w/m/d)](https://careers.capgemini.com/job/Berlin-Werkstudent-Software-Engineering-%28wmd%29/1281529601/) | Berlin, DE |  | 2026-11-06 |
+| Capgemini | [Werkstudent DevOps Engineering (w/m/d)](https://careers.capgemini.com/job/Berlin-Werkstudent-DevOps-Engineering-%28wmd%29/1268718901/) | Berlin, DE |  | 2026-11-06 |
+| Westinghouse Electric Company, LLC | [Summer Intern - ICS Cyber Security](https://careers.westinghousenuclear.com/job/Warrendale-Summer-Intern-ICS-Cyber-Security-OR/1448123600/) | Warrendale, US |  | 2026-11-06 |
+| Ametek, Inc. | [AI Automation Intern](https://jobs.ametek.com/job/Orange-AI-Automation-Intern-CA-92865/1420689600/) | Orange, CA, US |  | 2026-11-06 |
+| Match Group | [Backend Engineer Intern](https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3) | Palo Alto, California |  | 2026-11-06 |
+| Match Group | [Machine Learning Engineer Intern](https://jobs.lever.co/matchgroup/860a839a-5be3-44dc-916f-eb2e71d67d72) | Palo Alto, California |  | 2026-11-06 |
+| Match Group | [Android Engineer Intern](https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d) | Los Angeles, California |  | 2026-11-06 |
+| Match Group | [iOS Engineer Intern](https://jobs.lever.co/matchgroup/cda906dd-c02a-4bbc-b533-1636d58958ef) | Los Angeles, California |  | 2026-11-06 |
+| Etched | [Infrastructure Engineering & Projects Intern](https://jobs.ashbyhq.com/Etched/1a92048c-60e0-445b-a84e-8f008f1cf47b) | San Jose |  | 2026-11-06 |
+| LLNL | [Center for Global Security Research (CGSR) Undergraduate Research Associate - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016680716) | Livermore, CA, United States |  | 2026-11-06 |
+| LLNL | [Center for Global Security Research (CGSR) Graduate Research Associate - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990016680626) | Livermore, CA, United States |  | 2026-11-06 |
+| STERIS | [Intern, Mobile Solutions](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=57191&jobPipeline=PhenomCareerSite) | Birmingham, Alabama, United States |  | 2026-11-06 |
+| Amazon | [2027 Quantum Science Internship - Masters, Quantum Technologies team](https://www.amazon.jobs/en/jobs/10598841/2027-quantum-science-internship-masters-quantum-technologies-team) | Pasadena, CA, US |  | 2026-11-06 |
+| IBM | [Praktikum – Firmware Development, Test Analytics & Firmware Tooling (f/m/x)](https://careers.ibm.com/careers/JobDetail?jobId=137019) | Ehningen, DE |  | 2026-11-06 |
+| GM financial | [Intern - Software Development Engineer](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260831) | Arlington, TX, United States |  | 2026-11-06 |
+| Amentum | [Systems Engineer - SLS Upper Stage (ES4)](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-AL-Huntsville/Systems-Engineer---SLS-Upper-Stage--ES4-_R0172671) | US-AL-Huntsville |  | 2026-11-06 |
+| Cushman & Wakefield | [Mechatronics & Robotics Apprentice](https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---CA---Rialto---1568-N-LINDEN-AVE/Mechatronics---Robotics-Apprentice_R342649) | Client Site - USA - CA - Rialto - 1568 N LINDEN AVE; Client Site - USA - CA - Rancho Cordova - 3300 Rancho Cordova Pkwy; Client Site - USA - MA - North Andover - 1450 Osgood Landing |  | 2026-11-06 |
+| Hitachi | [Full Stack Developer Intern](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Full-Stack-Developer-Intern_R0149426) | Dallas, Texas, United States |  | 2026-11-06 |
+| Uhaul | [Data Analyst Spring Internship](https://uhaul.wd1.myworkdayjobs.com/UhaulJobs/job/Phoenix-Arizona/Data-Analyst-Spring-Internship_R258909) | Phoenix, Arizona |  | 2026-11-06 |
+| Leidos | [AI/Automation Development Intern - Assessment & Authorization](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319) | 6314 Remote/Teleworker US |  | 2026-11-06 |
+| CACI | [AI/ML Engineering Co-op - Spring 2027](https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Spring-2027_334662-1) | King of Prussia, PA, US | USD 43k-87k | 2026-11-06 |
+| CACI | [Software Engineering Co-op - Spring 2027](https://caci.wd1.myworkdayjobs.com/External/job/King-of-Prussia-PA-US/Software-Engineering-Co-op---Spring-2027_334665) | King of Prussia, PA, US | USD 43k-87k | 2026-11-06 |
+| Danaher | [Firmware Engineer Co-op](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Indianapolis-Indiana-United-States/Firmware-Engineer-Co-op_R1321509) | Indianapolis, Indiana, United States |  | 2026-11-06 |
+| KLA | [Software Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1) | Milpitas, CA |  | 2026-11-06 |
+| Carrier Global | [Systems Engineering Intern - Summer](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAG01-CTD-Athens-700-Olympic-Drive-Athens-GA-30601-USA/Systems-Engineering-Intern---Summer_30220566) | CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA; CAN05: CCS-Charlotte, 5900 Northwoods Business Parkway, Charlotte, NC, 28269 USA |  | 2026-11-06 |
+| Motorola | [Software Presales Enablement Intern - Summer Internship 2027](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228) | Illinois Remote Work |  | 2026-11-06 |
+| GlobalFoundries | [Device Engineering Intern, Silicon Photonics (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Device-Engineering-Intern--Silicon-Photonics--Summer-2027-_JR-2604264) | USA - New York - Malta |  | 2026-11-06 |
+| GlobalFoundries | [Program Management Intern, Silicon Photonics (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Program-Management-Intern--Silicon-Photonics--Summer-2027-_JR-2605132) | USA - New York - Malta |  | 2026-11-06 |
+| Guidehouse | [Intern - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Arlington/Intern---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46421) | US - VA, Arlington |  | 2026-11-06 |
+| Samsung | [Business Intelligence & Data Analytics Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Business-Intelligence---Data-Analytics-Intern_R121949) | 6625 Excellence Way, Plano, TX, USA |  | 2026-11-06 |
+| Samsung | [Samsung Care AI Data Analytic Intern](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1) | 6625 Excellence Way, Plano, TX, USA |  | 2026-11-06 |
+| Moog | [Intern, Systems Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Intern--Systems-Engineering_R-26-20920) | Buffalo, NY |  | 2026-11-06 |
+| Niagara Bottling | [IT Intern](https://niagarawater.wd5.myworkdayjobs.com/Niagara/job/Corp-Main---Diamond-Bar-CA/IT-Intern_R56349) | Corp-Main - Diamond Bar, CA |  | 2026-11-06 |
+| Globus Medical | [Software COOP](https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Methuen-MA/Software-COOP_JR108063) | Methuen, MA |  | 2026-11-06 |
+| Invesco | [Early Career Intern - Real Estate (Data Science)](https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1) | Dallas, Texas |  | 2026-11-06 |
+| Draper | [GNC Systems Engineering Co-Op (Spring 2027)](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Co-Op--Spring-2027-_JR003131) | Cambridge, MA |  | 2026-11-06 |
+| Draper | [GNC Systems Engineering Intern (Summer 2027)](https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/GNC-Systems-Engineering-Intern--Summer-2027-_JR003129) | Cambridge, MA |  | 2026-11-06 |
+| Trimble | [AI Automation Intern](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---OH-Dayton/AI-Automation-Intern_R58148) | US - OH, Dayton |  | 2026-11-06 |
+| ASM | [Intern, Product Intelligence Engineering (AI/ML)](https://www.asm.com/open-vacancies/?gh_jid=5029228101) | US ) Arizona ) Phoenix |  | 2026-11-05 |
+| State Farm | [Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist](https://jobs.statefarm.com/jobs/46227) | Bloomington, Illinois; Richardson, Texas; Tempe, Arizona; Dunwoody, Georgia |  | 2026-11-05 |
+| Red Wing Shoe Company | [Data and Analytics Internship - Summer 2027](https://jobs.smartrecruiters.com/RedWingShoeCompany/744000159979648) | Red Wing, MN, United States |  | 2026-11-05 |
+| Toyota Research Institute | [Robotics Intern, Human-Robot Interaction](https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642) | Cambridge, MA |  | 2026-11-05 |
+| Nooks | [Software Engineer, Intern](https://jobs.ashbyhq.com/nooks/ae2fb7a5-d854-48a3-9948-9585143602eb) | San Francisco |  | 2026-11-05 |
+| Raft Company Website | [Full Stack Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6240549004) | McLean, Virginia |  | 2026-11-05 |
+| Raft Company Website | [AI/ML Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6240555004) | McLean, Virginia, United States |  | 2026-11-05 |
+| Raft Company Website | [Data Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6239800004) | McLean, Virginia |  | 2026-11-05 |
+| Raft Company Website | [DevOps Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/raft/jobs/6239819004) | McLean, Virginia |  | 2026-11-05 |
+| Apex Technology, Inc. | [Ground Software Engineering Internship (Spring or Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c) | Los Angeles |  | 2026-11-05 |
+| Apex Technology, Inc. | [Software Engineering Internship, Test & Automation (Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344) | Los Angeles |  | 2026-11-05 |
+| NBCUniversal | [NBC Sports Bay Area & California - Programming Intern - Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000159947792) | San Francisco, CALIFORNIA, United States |  | 2026-11-05 |
+| Palantir Technologies | [Software Engineer, Internship - Sovereign AI Systems](https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312) | New York, NY |  | 2026-11-05 |
+| Protagonist | [National Security & Space Intern (Jan 2027 -- Strong Writing & Research Skills)](https://job-boards.greenhouse.io/protagonist/jobs/6251099004) | Washington DC |  | 2026-11-05 |
+| Apex Technology, Inc. | [Software Engineering Internship, Embedded Systems (Spring or Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda) | Los Angeles |  | 2026-11-05 |
+| Clera | [Computer Vision & Robotics Intern](https://jobs.ashbyhq.com/Clera/335d1ca9-1fda-45d3-9756-122324acbabb) | San Francisco |  | 2026-11-05 |
+| Shield AI | [June 2027 Co-Op - Software Engineer Intern](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) | Dallas, Texas |  | 2026-11-05 |
+| Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmo](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, Washington, United States |  | 2026-11-05 |
+| Johns Hopkins Applied Physics Laboratory | [2027 Internship - Maritime Software Development - Ocean Systems and Engineering](https://careers.jhuapl.edu/jobs/60820) | Laurel, Maryland |  | 2026-11-05 |
+| Garmin International, Inc. | [IT DevOps Administrator Intern](https://careers.garmin.com/jobs/21321) | Olathe, Kansas |  | 2026-11-05 |
+| RR Donnelley | [IT Support Engineer Summer Intern](https://jobs.smartrecruiters.com/RRDonnelley/744000159878934) | Wheeling, WV, United States |  | 2026-11-05 |
+| Davidson Kempner for LinkedIn | [Quantitative Research Intern](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8928298002) | New York |  | 2026-11-05 |
+| Hearst | [Software Engineering Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) | Carmel, IN, United States |  | 2026-11-05 |
+| Riverside Research | [Software Applications Intern](https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job) | Fairborn, OH, US |  | 2026-11-05 |
 | Citadel | [Sector Data Scientist 2027 Intern](https://www.citadel.com/careers/details/sector-data-scientist-2027-intern-us/) | United States |  | 2026-11-05 |
 | Citadel | [Software Engineer Intern](https://www.citadel.com/careers/details/software-engineer-intern-us/) | United States |  | 2026-11-05 |
 | Microsoft | [Research Intern - Research in Software Engineering, ML Systems, Agents](https://apply.careers.microsoft.com/careers/job/1970393557054069) | Redmond, Washington, United States |  | 2026-11-05 |
@@ -156,9 +158,9 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Fresenius Medical Care | [Software Engineering Co-op](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309) | Lawrence, MA, USA |  | 2026-11-05 |
 | Fresenius Medical Care | [Embedded Software Co-Op](https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960) | Lawrence, MA, USA |  | 2026-11-05 |
 | Parsons | [Summer Embedded Developer Intern](https://parsons.wd5.myworkdayjobs.com/Search/job/US---MD-Columbia/Summer-Embedded-Developer-Intern_R188299) | US - MD, Columbia |  | 2026-11-05 |
-| Danaher | [Computer Science/Data AI Co-op Supply Chain](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599) | USA - Indianapolis - Multiple OpCo |  | 2026-11-05 |
 | Intermountain Healthcare | [IT Student Intern System Support 1](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Home-Services---Salt-Lake-City/IT-Student-Intern-System-Support-1_R188377) | Home Services - Salt Lake City |  | 2026-11-05 |
 | Magna International | [IT Co-op Student](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Brampton-Ontario-CA/IT-Co-op-Student_R00268028-1) | Brampton, Ontario, CA |  | 2026-11-05 |
+| Danaher | [Computer Science/Data AI Co-op Supply Chain](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599) | USA - Indianapolis - Multiple OpCo |  | 2026-11-05 |
 | Intel | [GPU Architecture Graduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-California-Folsom/GPU-Architecture-Graduate-Intern_JR0287529) | US, California, Folsom |  | 2026-11-05 |
 | Regal Rexnord | [Strategic Pricing and Analytics Summer Intern](https://regalrexnord.wd1.myworkdayjobs.com/Careers/job/Milwaukee-Wisconsin-United-States/Strategic-Pricing-and-Analytics-Summer-Intern_R26_04973-1) | Milwaukee, Wisconsin, United States |  | 2026-11-05 |
 | Sierra Nevada Corporation | [Firmware Engineer Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233) | Sparks, NV |  | 2026-11-05 |
@@ -179,7 +181,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Logiqal | [Quantum Hardware Intern](https://jobs.ashbyhq.com/logiqal/2734f991-1e21-4c77-bb41-211ffa88449d) | Princeton, NJ |  | 2026-11-04 |
 | Logiqal | [Quantum Error Correction and Architecture Intern](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f) | Princeton, NJ |  | 2026-11-04 |
 | Citadel | [Machine Learning Researcher PhD Intern](https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/) | United States |  | 2026-11-04 |
-| Citadel | [Quantitative Research Analyst Intern](https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/) | United States |  | 2026-11-04 |
 | D. E. Shaw | [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY, US |  | 2026-11-04 |
@@ -202,21 +203,16 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | GM financial | [Intern - Cloud Engineer](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261245) | Irving, TX, United States |  | 2026-11-04 |
 | Howmet Aerospace | [Cybersecurity Intern](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119551) | Pittsburgh, PA, United States |  | 2026-11-04 |
 | RTX | [Intern: Summer 2027 - Control/Diagnostic Software (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-FL-JUPITER-ADR--17900-Beeline-Hwy--ADR-BLDG/Intern--Summer-2027---Control-Diagnostic-Software--Onsite-_01883840) | US-FL-JUPITER-ADR ~ 17900 Beeline Hwy ~ ADR BLDG |  | 2026-11-04 |
-| Northrop Grumman | [2027 Spring Co-op Software Engineer Intern – McClellan CA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Spring-Co-op-Software-Engineer-Intern---McClellan-CA_R10259329) | United States-California-McClellan |  | 2026-11-04 |
-| Northrop Grumman | [2027 Software Engineering Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10259181) | United States-Utah-Roy |  | 2026-11-04 |
-| Northrop Grumman | [2027 Software Test Engineering Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179) | United States-Utah-Roy |  | 2026-11-04 |
-| Northrop Grumman | [2027 DevOps Software Engineering Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178) | United States-Utah-Roy |  | 2026-11-04 |
-| Northrop Grumman | [2027 Cybersecurity Software Engineering Intern - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177) | United States-Utah-Clearfield |  | 2026-11-04 |
 | Booz Allen | [University, AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024) | McLean, VA |  | 2026-11-04 |
 | ABB | [AI Engineering, ERP Intern- Summer 2027](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711) | USA, NC, Cary |  | 2026-11-04 |
 | ABB | [AI Engineering, Business Systems Intern- Summer 2027](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714) | USA, NC, Cary |  | 2026-11-04 |
+| NVIDIA | [Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) | US, CA, Santa Clara |  | 2026-11-04 |
 | Parsons | [Software Engineering Intern (Summer 2027)](https://parsons.wd5.myworkdayjobs.com/Search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299) | US - AL, Huntsville |  | 2026-11-04 |
 | Parsons | [AI/ML Engineering Intern Summer 2027](https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194) | US - VA, Centreville |  | 2026-11-04 |
-| NVIDIA | [Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548) | US, CA, Santa Clara |  | 2026-11-04 |
 | Leidos | [Software Engineering & AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220) | 6314 Remote/Teleworker US |  | 2026-11-04 |
 | Jones Lang LaSalle (JLL) | [Mechatronics and Robotics Apprentice](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Kent-WA/Mechatronics-and-Robotics-Apprentice_REQ547098) | Kent, WA |  | 2026-11-04 |
-| Procter & Gamble | [Intern, Talent Analytics & Assessment Science](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Intern--Talent-Analytics---Assessment-Science_R000162095) | CINCINNATI GENERAL OFFICES |  | 2026-11-04 |
 | Intel | [Robotics PhD Intern](https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Robotics-PhD-Intern_JR0288833) | US, Oregon, Hillsboro |  | 2026-11-04 |
+| Procter & Gamble | [Intern, Talent Analytics & Assessment Science](https://pg.wd5.myworkdayjobs.com/1000/job/CINCINNATI-GENERAL-OFFICES/Intern--Talent-Analytics---Assessment-Science_R000162095) | CINCINNATI GENERAL OFFICES |  | 2026-11-04 |
 | ASML | [Internship -  Machine Learning and image-based EUV system setup](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567) | San Diego, CA, USA |  | 2026-11-04 |
 | Microchip Technology | [Intern (Data Analyst)](https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/OR---Gresham/Intern--Data-Analyst-_R4441-26) | OR - Gresham |  | 2026-11-04 |
 | Moog | [Intern, Software Engineering](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Torrance-CA/Intern--Software-Engineering_R-26-19948) | Torrance, CA |  | 2026-11-04 |
@@ -231,6 +227,7 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | BorgWarner | [Software Engineering Intern (Year-Round)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1) | Auburn Hills - Michigan - USA |  | 2026-11-04 |
 | Spring Venture Group | [Data Integrity Specialist Intern](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159509589) | Kansas City, MO, United States |  | 2026-11-03 |
 | Keysight Technologies, Inc. | [R&D Software Engineer, Intern](https://jobs.keysight.com/jobs/56415) | Colorado Springs, Colorado |  | 2026-11-03 |
+| Microsoft | [Software Engineer, Teamwork Experiences Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557037859) | Redmond, Washington, United States |  | 2026-11-03 |
 | Stratolaunch | [IT Intern- Summer 2027](https://job-boards.greenhouse.io/stratolaunch/jobs/5471933008) | Mojave, California, United States |  | 2026-11-03 |
 | Samsung Research America Internship | [2027 Summer Intern, Generative AI based Imaging and Video R&D](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002) | 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 |  | 2026-11-03 |
 | RoboForce | [Machine Learning Engineer Intern, AI & Robotics](https://job-boards.greenhouse.io/roboforce/jobs/5470001008) | Milpitas, CA |  | 2026-11-03 |
@@ -248,8 +245,8 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Marsh McLennan | [2027 Summer Internship Program - Cyber Risk Management](https://mmc.wd1.myworkdayjobs.com/MMC/job/Boise---Broadway/XMLNAME-2027-Summer-Internship-Program---Cyber-Risk-Management_R_371099) | Boise, Idaho, United States of America |  | 2026-11-03 |
 | Tradeweb | [Summer 2027 Cyber Security Internship](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301991) | New York, NY, United States |  | 2026-11-03 |
 | IBM | [Back End Developer Intern - NY POK BS - 2027](https://careers.ibm.com/careers/JobDetail?jobId=137105) | POUGHKEEPSIE, US |  | 2026-11-03 |
-| IBM | [Software Developer Intern/Tucson-AZ](https://careers.ibm.com/careers/JobDetail?jobId=130092) | TUCSON, US |  | 2026-11-03 |
 | IBM | [Quantum Data Scientist Intern - 2027](https://careers.ibm.com/careers/JobDetail?jobId=132776) | Yorktown Heights, US |  | 2026-11-03 |
+| IBM | [Software Developer Intern/Tucson-AZ](https://careers.ibm.com/careers/JobDetail?jobId=130092) | TUCSON, US |  | 2026-11-03 |
 | American Express | [Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Techno](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722) | Sunnyvale, CA, United States |  | 2026-11-03 |
 | American Express | [Campus Undergraduate Summer Internship Program - 2027 Cybersecurity AI Engineer, Enterpris](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016065) | Phoenix, AZ, United States |  | 2026-11-03 |
 | Sherwin-Williams | [2027 R&D Data Visualization Intern- Cleveland](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2628298) | Brecksville, OH, United States |  | 2026-11-03 |
@@ -312,8 +309,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Roku | [Software Engineer Intern, AI Engineering](https://www.weareroku.com/jobs/8258241?gh_jid=8258241) | San Jose, California |  | 2026-11-02 |
 | Amazon | [Associate Engagement Manager Intern- National Security, AWS Professional Services](https://www.amazon.jobs/en/jobs/10594714/associate-engagement-manager-intern-national-security-aws-professional-services) | Arlington, VA, US |  | 2026-11-02 |
 | Boston Properties | [IT Services Co-Op](https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26177) | Boston, MA, United States |  | 2026-11-02 |
-| American Express | [Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology S](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375) | Phoenix, AZ, United States |  | 2026-11-02 |
-| American Express | [Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technolog](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392) | Phoenix, AZ, United States |  | 2026-11-02 |
 | Resideo | [Firmware Engineering Intern - Summer 2027](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19813) | Aurora, IL, United States; Golden Valley, MN, United States |  | 2026-11-02 |
 | Resideo | [Embedded Firmware Engineering Intern - Summer 2027](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19812) | Melville, NY, United States |  | 2026-11-02 |
 | Resideo | [Mobile Software Engineer Intern - Summer 2027](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19816) | Austin, TX, United States |  | 2026-11-02 |
@@ -321,6 +316,8 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | WSP | [Transportation Data Analyst Intern - Summer 2027](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97952) | Seattle, WA, United States |  | 2026-11-02 |
 | Staples | [Software Engineer Intern, Marketplace Platform](https://fa-exhh-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/StaplesInc/job/77076) | Framingham, MA, United States |  | 2026-11-02 |
 | Spectrum | [2027 Summer Intern: Data Science](https://jobs.spectrum.com/job/greenwood-village/2027-summer-intern-data-science/4673/100143758048) | Sandy Springs, Georgia, United States; Greenwood Village, Colorado, United States |  | 2026-11-02 |
+| Northrop Grumman | [2027 Software Engineering Intern - Colorado Springs](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10257803) | United States-Colorado-Colorado Springs |  | 2026-11-02 |
+| Northrop Grumman | [2027 Systems Engineering Intern - Colorado Springs CO](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Systems-Engineering-Intern---Colorado-Springs-CO_R10257809) | United States-Colorado-Colorado Springs |  | 2026-11-02 |
 | Booz Allen | [University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783) | Detroit, MI |  | 2026-11-02 |
 | Applied Materials | [Summer 2027 Data Intelligence/Technical Program Management Intern- Master's (Santa Clara, ](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Data-Intelligence-Technical-Program-Management-Intern--Master-s--Santa-Clara--CA-_R2627705) | Santa Clara,CA |  | 2026-11-02 |
 | Applied Materials | [Summer 2027 Software Engineer Intern- Bachelor's/Master's (Santa Clara, CA)](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003) | Santa Clara,CA |  | 2026-11-02 |
@@ -389,12 +386,11 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Salesforce | [Summer 2027 Intern - Software Engineer (Security/Government)](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1) | California - San Francisco |  | 2026-10-30 |
 | University of Miami | [Data Science & AI Intern](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144) | Miami, FL |  | 2026-10-30 |
 | Roche | [2027 Summer Intern - Systems & Hardware Development](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Tucson/XMLNAME-2027-Summer-Intern---Systems---Hardware-Development_202610-127540) | Tucson |  | 2026-10-30 |
-| General Motors | [2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746) | Warren, Michigan, United States of America |  | 2026-10-30 |
 | Barclays | [Chief Client Office - Client Data & Engineering Group Summer Internship Program 2027 New Y](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Chief-Client-Office---Client-Data---Engineering-Group-Summer-Internship-Program-2027-New-York-City_JR-0000137731) | New York, 745 7th Avenue |  | 2026-10-30 |
+| General Motors | [2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746) | Warren, Michigan, United States of America |  | 2026-10-30 |
 | ASML | [Internship- Product Engineer Computational Model](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship--Product-Engineer-Computational-Model_J-00355245) | San Jose, CA, USA |  | 2026-10-30 |
 | Philips | [Intern - Systems Engineer – New Kensington, PA – Summer 2027](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850) | New Kensington, Pennsylvania, United States |  | 2026-10-30 |
 | FOX | [Spring 2027 FOX Sports - Big Ten Network - Internship Program - Chicago, IL](https://fox.wd1.myworkdayjobs.com/Domestic/job/Chicago-Illinois-USA/Spring-2027-FOX-Sports---Big-Ten-Network---Internship-Program---Chicago--IL_R50033926) | Chicago, Illinois, USA |  | 2026-10-30 |
-| Cadillac Formula 1® Team | [12-Month Aerodynamics AI Industrial Placement (US)](https://apply.workable.com/j/7995A5E448) | Indianapolis, Indiana, United States |  | 2026-10-30 |
 | Bosch Group | [IT Systems Engineering Intern (19 hours per week)](https://jobs.smartrecruiters.com/BoschGroup/744000158620079) | Roseville, CA, United States |  | 2026-10-29 |
 | Western Magnetics Company | [Software Engineer Intern - (Jan 2027)](https://jobs.ashbyhq.com/westmag/d0b7d88b-4f22-4c1f-abc7-0bd724878882) | South San Francisco |  | 2026-10-29 |
 | Systems Planning and Analysis | [Systems Engineering Intern (Summer 2027)](https://spa.jibeapply.com/jobs/23826) | Alexandria, Virginia |  | 2026-10-29 |
@@ -409,7 +405,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Lunar Energy | [Hardware Test Engineering Intern](https://job-boards.greenhouse.io/lunarenergy/jobs/6237015004) | Mountain View, CA |  | 2026-10-29 |
 | Nintendo | [Intern - Software Engineer, Connectivity (NTD)](https://careers.nintendo.com/?gh_jid=4472147009) | Redmond, WA |  | 2026-10-29 |
 | AXA | [Summer 2027 - Underwriting Data & Analytics Intern](https://careers.axa.com/jobs/25498) | NEW YORK, United States |  | 2026-10-29 |
-| Microsoft | [Applied Scientist: Internship Opportunities, Turing](https://apply.careers.microsoft.com/careers/job/1970393557050150) | Redmond, Washington, United States |  | 2026-10-29 |
 | First Citizens Bank | [2027 Summer Intern - AI Adoption (Raleigh, NC)](https://jobs.firstcitizens.com/jobs/35923) | Raleigh, North Carolina |  | 2026-10-29 |
 | Stratolaunch | [Security Intern- Summer 2027](https://job-boards.greenhouse.io/stratolaunch/jobs/5466978008) | Mojave, California, United States |  | 2026-10-29 |
 | Syngenta Group | [Data Scientist Intern](https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415) | Raleigh, NC, United States |  | 2026-10-29 |
@@ -429,8 +424,8 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Danaher | [Intern - Application Integration Developer](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Brea-California-United-States/Intern---Application-Integration-Developer_R1316677) | Brea, California, United States |  | 2026-10-29 |
 | KLA | [Software Engineer Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1) | Milpitas, CA |  | 2026-10-29 |
 | General Motors | [2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) | Sunnyvale, California, United States of America |  | 2026-10-29 |
-| Medline | [IT Business Systems Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626) | Northbrook, Illinois |  | 2026-10-29 |
 | Philips | [Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730) | Murrysville, Pennsylvania, United States |  | 2026-10-29 |
+| Medline | [IT Business Systems Intern - Summer 2027](https://medline.wd5.myworkdayjobs.com/Medline/job/Northbrook-Illinois/IT-Business-Systems-Intern---Summer-2027_R2617626) | Northbrook, Illinois |  | 2026-10-29 |
 | Nissan Global | [SAP Platform Intern - Summer 2027 - Franklin, TN](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/SAP-Platform-Intern--Finance-Purchasing----Summer-2027---Franklin--TN_R00214217) | Franklin, Tennessee - United States of America |  | 2026-10-29 |
 | Sophinea | [Mobile App Developer Intern](https://apply.workable.com/j/B392177653) | Manassas, Virginia, United States |  | 2026-10-29 |
 | Syntiant | [Internship - DevOps Machine Learning Infrastructure](https://apply.workable.com/j/468B53B345) | Irvine, California, United States |  | 2026-10-29 |
@@ -467,7 +462,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Leidos | [Cybersecurity Engineer Co-op](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764) | Bethesda, MD |  | 2026-10-28 |
 | Leidos | [Data Engineer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Fort-Belvoir-VA/Data-Engineer-Intern_R-00195576) | Fort Belvoir, VA |  | 2026-10-28 |
 | ASML | [Internship- Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship--Software-Development-Engineer-in-Test_J-00354459) | San Diego, CA, USA |  | 2026-10-28 |
-| ASML | [Internship/Co-Op: Data Engineer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Diego-CA-USA/Internship-Co-Op--Data-Engineer_J-00355626) | San Diego, CA, USA |  | 2026-10-28 |
 | Philips | [Intern - AI & Analytics Analyst - Nashville, TN - Spring 2027](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012) | Nashville, Tennessee, United States |  | 2026-10-28 |
 | Regeneron Pharmaceuticals | [2027 Summer Intern Market Access, Pricing & Commercial Analytics](https://regeneron.wd1.myworkdayjobs.com/Careers/job/SLEEPY-HOLLOW/XMLNAME-2027-Summer-Intern-Market-Access--Pricing---Commercial-Analytics_R52574-1) | SLEEPY HOLLOW |  | 2026-10-28 |
 | Regeneron Pharmaceuticals | [2027 Summer Intern IT & Systems (IOPS)](https://regeneron.wd1.myworkdayjobs.com/Careers/job/RENSSELAER/XMLNAME-2027-Summer-Intern-IT---Systems--IOPS-_R51822) | RENSSELAER |  | 2026-10-28 |
@@ -524,6 +518,7 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | General Motors | [2027 Summer Intern, Systems Engineer, ASD](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--Systems-Engineer--ASD_JR-202621989) | Milford, Michigan, United States of America |  | 2026-10-27 |
 | General Motors | [2027 Summer Intern, Radar Hardware Development Engineer,  ASD](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Proving-Ground---Bldg-104A/XMLNAME-2027-Summer-Intern--Radar-Hardware-Development-Engineer---ASD_JR-202621645) | Milford Proving Ground - Bldg 104A |  | 2026-10-27 |
 | ASML | [Internship - Frontend Developer](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Internship---Frontend-Developer_J-00354852) | San Jose, CA, USA |  | 2026-10-27 |
+| ASML | [Internship- Platform Software Engineer In Test](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558) | San Jose, CA, USA |  | 2026-10-27 |
 | Entegris | [Lab Automation & AI Engineering Co-Op](https://entegris.wd1.myworkdayjobs.com/EntegrisCareers/job/Billerica-MA/Lab-Automation---AI-Engineering-Co-Op_REQ-14498-1) | Billerica, MA |  | 2026-10-27 |
 | Sierra Nevada Corporation | [IT Service Desk Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/IT-Support-Technician-Intern--Summer-2027-_R0030762) | Lone Tree, CO |  | 2026-10-27 |
 | AeroVironment | [Systems Engineering Intern - Space Technologies](https://avav.wd1.myworkdayjobs.com/AVAV/job/Albuquerque-NM/Systems-Engineering-Intern---Space-Technologies_9250) | Albuquerque, NM |  | 2026-10-27 |
@@ -546,9 +541,9 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Tradeweb | [Summer 2027 Human Resources Data & Analytics Internship](https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987) | New York, NY, United States |  | 2026-10-26 |
 | ADT | [Cybersecurity & Risk Intern](https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022588) | Boca Raton, FL, United States |  | 2026-10-26 |
 | Cargill | [Software Engineer Intern Summer 2027 - Atlanta, GA](https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2027-atlanta-ga/23251/98765470480) | Atlanta, Georgia, United States |  | 2026-10-26 |
-| Applied Materials | [2027 Spring Data Scientist Co-op - Gloucester, MA](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146) | Gloucester,MA |  | 2026-10-26 |
 | ABB | [Systems Engineering Intern – Summer 2027](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388) | USA, OH, Cleveland |  | 2026-10-26 |
 | ABB | [IS Common Infrastructure Intern- Summer 2027](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125) | USA, NC, Cary |  | 2026-10-26 |
+| Applied Materials | [2027 Spring Data Scientist Co-op - Gloucester, MA](https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146) | Gloucester,MA |  | 2026-10-26 |
 | Highmark Health | [Summer 2027 Cyber Risk Management Analyst Undergraduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841) | Camp Hill PA, 17011, Center Street Building 1B |  | 2026-10-26 |
 | Highmark Health | [Summer 2027 Enterprise Master Data Management Analyst Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856) | PA, Working at Home - Pennsylvania |  | 2026-10-26 |
 | Highmark Health | [Summer 2027 Data Analyst enGen Undergraduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826) | Pittsburgh PA, 15222, PAP, Penn Avenue Place |  | 2026-10-26 |
@@ -558,10 +553,10 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Cisco | [Hardware Engineer PhD (Intern) - United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991) | San Jose, California, US |  | 2026-10-26 |
 | Wells Fargo | [2027 Technology Summer Internship - Early Careers (Cybersecurity)](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417) | CHARLOTTE, NC |  | 2026-10-26 |
 | Wells Fargo | [2027 Technology Summer Internship – Early Careers (Data Engineering)](https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066) | CHARLOTTE, NC |  | 2026-10-26 |
-| Motorola | [Presales Systems Engineer - Summer 2027 Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006) | Brentwood, TN; Allen, TX (TX139) |  | 2026-10-26 |
-| Motorola | [Presales Systems Engineering - Summer 2027 Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Presales-Systems-Engineering---Summer-2027-Internship_R69779) | Waltham, MA |  | 2026-10-26 |
 | Analog Devices | [DevOps Co-Op](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690) | US, MA, Boston |  | 2026-10-26 |
 | Analog Devices | [Embedded Systems Co-Op](https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689) | US, MA, Boston |  | 2026-10-26 |
+| Motorola | [Presales Systems Engineer - Summer 2027 Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006) | Brentwood, TN; Allen, TX (TX139) |  | 2026-10-26 |
+| Motorola | [Presales Systems Engineering - Summer 2027 Internship](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Presales-Systems-Engineering---Summer-2027-Internship_R69779) | Waltham, MA |  | 2026-10-26 |
 | General Motors | [2027 Summer Intern, AI/ML Engineer, Mapping (PhD)](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778) | Warren, Michigan, United States of America |  | 2026-10-26 |
 | Teledyne | [EADSIM Software Engineering Intern (Summer 2027)](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) | US - Huntsville, AL |  | 2026-10-26 |
 | Teledyne | [NHRC Software Engineering Internship (Summer 2027)](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | US - Huntsville, AL |  | 2026-10-26 |
@@ -577,10 +572,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Axos Bank | [Data Analyst Intern](https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Data-Intern_JR5642) | Omaha, NE |  | 2026-10-26 |
 | pony.ai | [Research Intern - Deep Learning](https://apply.workable.com/j/4C1F53EF5D) | Fremont, California, United States |  | 2026-10-26 |
 | Skydio | [PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027](https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f) | San Mateo, California, United States |  | 2026-10-25 |
-| Dell Technologies | [Services Data Science Graduate Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301413) | TX, United States |  | 2026-10-25 |
-| Dell Technologies | [Services Analytics Graduate Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/301412) | TX, United States |  | 2026-10-25 |
-| ConnectPrep | [Data Analyst Internship](https://apply.workable.com/j/1AF4F8C65F) | Washington, District of Columbia, United States |  | 2026-10-25 |
-| Realm Labs | [Machine Learning Research Intern (Winter/Spring 2027)](https://jobs.gem.com/realm-labs/am9icG9zdDr3lWZf8Bc5OYsQA2x6p-Dl) | Sunnyvale, United States |  | 2026-10-24 |
 
 ## Canada
 
@@ -590,17 +581,16 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Brave | [Software Engineering Intern - Waterloo University - Winter Session](https://job-boards.greenhouse.io/brave/jobs/8360001) 🆕 | Canada |  | 2026-11-06 |
 | Hootsuite | [Co-op/Intern, DevOps - Winter 2027](https://job-boards.greenhouse.io/hootsuite/jobs/8359242) 🆕 | Alberta, British Columbia | CAD 53k-61k | 2026-11-06 |
 | Electric Power Engineers | [Power Systems Engineer Intern - Co-Op](https://careers-epeconsulting.icims.com/jobs/2433/power-systems-engineer-intern---co-op/job) 🆕 | Toronto, ON, CA |  | 2026-11-06 |
-| Siemens Healthineers | [Embedded Software Developer Co-op](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948) 🆕 | Ottawa, Ontario, Canada |  | 2026-11-06 |
-| S&P Global | [Summer intern, Financial Risk Analytics Product](https://careers.spglobal.com/jobs/332618) 🆕 | Toronto, Canada; Toronto, CAN |  | 2026-11-06 |
-| BC Pensions | [Junior Security Analyst Co-op](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/228) 🆕 | Victoria, BC, Canada |  | 2026-11-06 |
-| Cisco | [Software Developer Full Stack / Backend I (Co-op) - Canada](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208) 🆕 | Kanata, Ontario, Canada |  | 2026-11-06 |
-| Cisco | [Software Developer Embedded Systems II (Co-op) – Canada](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136) 🆕 | Kanata, Ontario, Canada |  | 2026-11-06 |
-| Cisco | [Software Developer Embedded Systems I (Co-op) - Canada](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111) 🆕 | Kanata, Ontario, Canada |  | 2026-11-06 |
-| Bank of Montreal | [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) 🆕 | Toronto, ON, CAN |  | 2026-11-06 |
-| Varian | [Embedded Software Developer Co-op](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948) 🆕 | YOW B |  | 2026-11-06 |
-| Acumatica | [Intern Developer/ Stagiaire développeur](https://jobs.smartrecruiters.com/Acumatica/744000159911799) 🆕 | Montreal, QC, Canada |  | 2026-11-05 |
-| Flynn Group of Companies | [Service Apprentice – Door hardware/Locksmith Specialist – Sudbury](https://jobs.lever.co/flynncompanies/638e1754-d970-4a50-99f0-9d39e927c43c) 🆕 | Sudbury, ON |  | 2026-11-05 |
-| Intel | [Graphics Hardware Validation Undergraduate Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/Graphics-Hardware-Validation-Undergraduate-Engineering-Intern_JR0287535) | Canada, Toronto |  | 2026-11-05 |
+| Siemens Healthineers | [Embedded Software Developer Co-op](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948) | Ottawa, Ontario, Canada |  | 2026-11-06 |
+| S&P Global | [Summer intern, Financial Risk Analytics Product](https://careers.spglobal.com/jobs/332618) | Toronto, Canada; Toronto, CAN |  | 2026-11-06 |
+| BC Pensions | [Junior Security Analyst Co-op](https://fa-exby-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1013/job/228) | Victoria, BC, Canada |  | 2026-11-06 |
+| Cisco | [Software Developer Full Stack / Backend I (Co-op) - Canada](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Full-Stack---Backend-I--Co-op----Canada_2024208) | Kanata, Ontario, Canada |  | 2026-11-06 |
+| Cisco | [Software Developer Embedded Systems II (Co-op) – Canada](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136) | Kanata, Ontario, Canada |  | 2026-11-06 |
+| Cisco | [Software Developer Embedded Systems I (Co-op) - Canada](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-I--Co-op----Canada_2024111) | Kanata, Ontario, Canada |  | 2026-11-06 |
+| Bank of Montreal | [Quantitative Analyst, Summer 2027 (Co-op/Internship) - 4 Months](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Quantitative-Analyst--Summer-2027--Co-op-Internship----4-Months_R260031097) | Toronto, ON, CAN |  | 2026-11-06 |
+| Varian | [Embedded Software Developer Co-op](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Embedded-Software-Developer-Co-op_R-31948) | YOW B |  | 2026-11-06 |
+| Acumatica | [Intern Developer/ Stagiaire développeur](https://jobs.smartrecruiters.com/Acumatica/744000159911799) | Montreal, QC, Canada |  | 2026-11-05 |
+| Flynn Group of Companies | [Service Apprentice – Door hardware/Locksmith Specialist – Sudbury](https://jobs.lever.co/flynncompanies/638e1754-d970-4a50-99f0-9d39e927c43c) | Sudbury, ON |  | 2026-11-05 |
 | Rambus | [Security Engineering Intern](https://careers-rambus.icims.com/jobs/23123/security-engineering-intern/job) | Vught, NL |  | 2026-11-04 |
 | American Express | [Campus Undergraduate Summer Internship Program 2027 – International Card Services & Global](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016084) | Toronto, ON, Canada |  | 2026-11-04 |
 | Wolters Kluwer | [Développeur(se) Front-End - Stage](https://wk.wd3.myworkdayjobs.com/External/job/CAN---Sherbrooke/Dveloppeur-se--Front-End---Stage_R0060874) | CAN - Sherbrooke |  | 2026-11-04 |
@@ -617,7 +607,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | American Express | [Campus Undergraduate Winter Internship Program 2027 – International Card Services & Global](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015817) | Toronto, ON, Canada |  | 2026-11-02 |
 | American Express | [Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology S](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016035) | Toronto, ON, Canada |  | 2026-11-02 |
 | AtkinsRéalis | [Rail Infrastructure Co-op Student - Winter 2027](https://slihrms.wd3.myworkdayjobs.com/Careers/job/CABCVancouver-733-Seymour-St/Rail-Infrastructure-Co-op-Student---Winter-2027_R-165988) | CA.BC.Vancouver. 733 Seymour St. |  | 2026-11-02 |
-| Intel | [GPU & AI Accelerator Hardware Design Undergraduate Intern](https://intel.wd1.myworkdayjobs.com/External/job/Canada-Toronto/GPU---AI-Accelerator-Hardware-Design-Undergraduate-Intern_JR0287539) | Canada, Toronto |  | 2026-11-02 |
 | Rockwell Automation | [Co-op, User Experience - Robotics](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569) | Waterloo, Ontario, Canada |  | 2026-11-02 |
 | Tecsys Inc. | [Intern - Developer](https://apply.workable.com/j/D61D5FB9AB) | Montreal, Quebec, Canada |  | 2026-11-02 |
 | Ubisoft | [Développeur·euse logiciel en exploitation de modèles d’apprentissage automatique](https://jobs.smartrecruiters.com/Ubisoft2/744000158757249) | Montreal, QC, Canada |  | 2026-10-30 |
@@ -650,24 +639,25 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Molson Coors | [Data Insights Apprentice](https://careers.molsoncoors.com/us/en/job/40190) 🆕 | Burton on Trent, GB-STS, United Kingdom |  | 2026-11-07 |
-| Amazon | [Data Centre Support Engineer Apprentice - London and Surrounding Areas (18-months Fixed Te](https://www.amazon.jobs/en/jobs/10598580/data-centre-support-engineer-apprentice-london-and-surrounding-areas-18-months-fixed-term-contract) 🆕 | Hemel Hempstead, GB |  | 2026-11-06 |
-| Amazon | [DevOps Apprentice - Thames Valley Locations (24 Months Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598582/devops-apprentice-thames-valley-locations-24-months-fixed-term-contract) 🆕 | Thames Valley, POST-BER, GB |  | 2026-11-06 |
-| Amazon | [DevOps Apprentice - London Locations (24 Months Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598581/devops-apprentice-london-locations-24-months-fixed-term-contract) 🆕 | London, GB |  | 2026-11-06 |
-| Amazon | [Software Development Engineer Apprentice (48-Month Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract) 🆕 | Edinburgh, MLN, GB |  | 2026-11-06 |
-| Amazon | [IT Apprentice - 18 month Fixed Term Contract](https://www.amazon.jobs/en/jobs/10598586/it-apprentice-18-month-fixed-term-contract) 🆕 | London, GB |  | 2026-11-06 |
-| Amazon | [Software Development Engineer Apprentice (42-Month Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract) 🆕 | Swansea, GB; London, GB |  | 2026-11-06 |
-| Cummins | [Placement Student - Data Analytics](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440904) 🆕 | Darlington, County Durham, United Kingdom |  | 2026-11-06 |
-| Roche | [Industrial Placement Student - Data Expert, Integration & Delivery, Data Capability, DDC, ](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915) 🆕 | Welwyn |  | 2026-11-06 |
-| Palantir Technologies | [Software Engineer, Internship - Sovereign AI Systems](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e) 🆕 | London, United Kingdom |  | 2026-11-05 |
-| PA Consulting | [2027 Apprentice - Digital (Software Development) - London](https://jobs.smartrecruiters.com/PAConsulting/744000159900154) 🆕 | London, United Kingdom |  | 2026-11-05 |
-| Smiths Group | [Data Analyst Apprentice](https://jobs.smartrecruiters.com/SmithsGroup2/744000159869599) 🆕 | Slough, England, United Kingdom |  | 2026-11-05 |
-| Davidson Kempner for LinkedIn | [Quantitative Research Intern (London)](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8926928002) 🆕 | London |  | 2026-11-05 |
-| PA Consulting | [2027 Apprentice - Digital (Software Development) - Belfast](https://jobs.smartrecruiters.com/PAConsulting/744000159817990) 🆕 | Belfast, United Kingdom |  | 2026-11-05 |
-| PA Consulting | [2027 Apprentice - Digital (Data and Decision Intelligence) - Belfast](https://jobs.smartrecruiters.com/PAConsulting/744000159814115) 🆕 | Belfast, United Kingdom |  | 2026-11-05 |
-| PA Consulting | [2027 Apprentice - Digital (Software Development) - Manchester](https://jobs.smartrecruiters.com/PAConsulting/744000159818139) 🆕 | Manchester, United Kingdom |  | 2026-11-05 |
-| PA Consulting | [2027 Apprentice - Digital (Data and Decision Intelligence) – London](https://jobs.smartrecruiters.com/PAConsulting/744000159816244) 🆕 | London, United Kingdom |  | 2026-11-05 |
-| Baringa | [UK Summer Internship 2027 - Solutions AI LAB](https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101) 🆕 | London, United Kingdom |  | 2026-11-05 |
+| Molson Coors | [Data Insights Apprentice](https://careers.molsoncoors.com/us/en/job/40190) 🆕 | Burton on Trent, GB-STS, United Kingdom |  | 2026-11-08 |
+| Apple | [Intern - Software Automation Engineer](https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer) 🆕 | Cork, Ireland |  | 2026-11-06 |
+| Amazon | [Data Centre Support Engineer Apprentice - London and Surrounding Areas (18-months Fixed Te](https://www.amazon.jobs/en/jobs/10598580/data-centre-support-engineer-apprentice-london-and-surrounding-areas-18-months-fixed-term-contract) | Hemel Hempstead, GB |  | 2026-11-06 |
+| Amazon | [DevOps Apprentice - Thames Valley Locations (24 Months Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598582/devops-apprentice-thames-valley-locations-24-months-fixed-term-contract) | Thames Valley, POST-BER, GB |  | 2026-11-06 |
+| Amazon | [DevOps Apprentice - London Locations (24 Months Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598581/devops-apprentice-london-locations-24-months-fixed-term-contract) | London, GB |  | 2026-11-06 |
+| Amazon | [Software Development Engineer Apprentice (48-Month Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract) | Edinburgh, MLN, GB |  | 2026-11-06 |
+| Amazon | [IT Apprentice - 18 month Fixed Term Contract](https://www.amazon.jobs/en/jobs/10598586/it-apprentice-18-month-fixed-term-contract) | London, GB |  | 2026-11-06 |
+| Amazon | [Software Development Engineer Apprentice (42-Month Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598613/software-development-engineer-apprentice-42-month-fixed-term-contract) | Swansea, GB; London, GB |  | 2026-11-06 |
+| Cummins | [Placement Student - Data Analytics](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440904) | Darlington, County Durham, United Kingdom |  | 2026-11-06 |
+| Roche | [Industrial Placement Student - Data Expert, Integration & Delivery, Data Capability, DDC, ](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915) | Welwyn |  | 2026-11-06 |
+| Palantir Technologies | [Software Engineer, Internship - Sovereign AI Systems](https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e) | London, United Kingdom |  | 2026-11-05 |
+| PA Consulting | [2027 Apprentice - Digital (Software Development) - London](https://jobs.smartrecruiters.com/PAConsulting/744000159900154) | London, United Kingdom |  | 2026-11-05 |
+| Smiths Group | [Data Analyst Apprentice](https://jobs.smartrecruiters.com/SmithsGroup2/744000159869599) | Slough, England, United Kingdom |  | 2026-11-05 |
+| Davidson Kempner for LinkedIn | [Quantitative Research Intern (London)](https://job-boards.greenhouse.io/5364856uhdfnvbkldfnbhrpkdfgbdvtyhro/jobs/8926928002) | London |  | 2026-11-05 |
+| PA Consulting | [2027 Apprentice - Digital (Software Development) - Belfast](https://jobs.smartrecruiters.com/PAConsulting/744000159817990) | Belfast, United Kingdom |  | 2026-11-05 |
+| PA Consulting | [2027 Apprentice - Digital (Data and Decision Intelligence) - Belfast](https://jobs.smartrecruiters.com/PAConsulting/744000159814115) | Belfast, United Kingdom |  | 2026-11-05 |
+| PA Consulting | [2027 Apprentice - Digital (Software Development) - Manchester](https://jobs.smartrecruiters.com/PAConsulting/744000159818139) | Manchester, United Kingdom |  | 2026-11-05 |
+| PA Consulting | [2027 Apprentice - Digital (Data and Decision Intelligence) – London](https://jobs.smartrecruiters.com/PAConsulting/744000159816244) | London, United Kingdom |  | 2026-11-05 |
+| Baringa | [UK Summer Internship 2027 - Solutions AI LAB](https://job-boards.eu.greenhouse.io/baringa/jobs/5028472101) | London, United Kingdom |  | 2026-11-05 |
 | Cummins | [Placement Student - IT Networks](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440674) | Darlington, County Durham, United Kingdom |  | 2026-11-05 |
 | JPMorgan Chase | [2027 Machine Learning Center of Excellence (NLP) - Internship](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210806793) | LONDON, United Kingdom |  | 2026-11-05 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8651323002/) | London, GB |  | 2026-11-04 |
@@ -695,12 +685,14 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Barclays | [2027 Technology Developer Degree Apprenticeship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431) | Northampton, Barclays Campus, Pavilion Drive |  | 2026-11-02 |
 | Barclays | [2027 Technology Developer Degree Apprenticeship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443) | Knutsford, Radbroke Hall |  | 2026-11-02 |
 | Barclays | [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) | Knutsford, Radbroke Hall |  | 2026-11-02 |
+| Apple | [Intern, Site Reliability Engineer, iCloud](https://jobs.apple.com/en-us/details/200691892/intern-site-reliability-engineer-icloud) | London, United Kingdom |  | 2026-10-30 |
 | Abbott | [Internship IT](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Longford/Internship-IT_31166440) | Longford, Longford, Ireland; Ireland - Longford |  | 2026-10-30 |
 | IBM | [Early Associate Data Insights, Analytics & Technology Intern (12-Week Summer Internship)](https://careers.ibm.com/careers/JobDetail?jobId=138998) | London, GB |  | 2026-10-30 |
 | General Motors | [Java Software Engineer Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1) | Dublin, Ireland |  | 2026-10-30 |
 | Talos | [Software Engineer Intern, Trading](https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d) | London |  | 2026-10-29 |
 | Talos | [Software Engineer Intern, Infrastructure](https://jobs.ashbyhq.com/Talos-Trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935) | London |  | 2026-10-29 |
 | Gearset | [Software Engineering Internship (10 weeks)](https://jobs.ashbyhq.com/gearset/637b4805-e079-4bbd-91e8-96af81dd288f) | Cambridge |  | 2026-10-29 |
+| Apple | [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation) | Cambridge, United Kingdom |  | 2026-10-29 |
 | Cummins | [Placement Student - B Platform Controls](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440125) | Darlington, County Durham, United Kingdom |  | 2026-10-29 |
 | MBDA | [Software Engineer - Summer Placement 2027](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Summer-Placement-2027_R37759) | Stevenage |  | 2026-10-29 |
 | MBDA | [Radio Frequency Systems Engineer - Summer Placement 2027](https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Radio-Frequency-Systems-Engineer---Summer-Placement-2027_R38308) | Bristol |  | 2026-10-29 |
@@ -718,12 +710,13 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Capgemini | [Développeuse / Développeur Full Stack IA - Stage](https://careers.capgemini.com/job/Lille-D%C3%A9veloppeuse-D%C3%A9veloppeur-Full-Stack-IA-Stage/1441431433/) 🆕 | Lille, FR; Nantes, FR |  | 2026-11-07 |
-| Capgemini | [Ingénieure / Ingénieur DevOps - Stage](https://careers.capgemini.com/job/Bourogne-Ing%C3%A9nieure-Ing%C3%A9nieur-DevOps-Stage/1427146833/) 🆕 | Bourogne, FR; Cesson Sevigne, FR |  | 2026-11-07 |
-| Capgemini | [Développeuse / Développeur Fullstack .Net - Stage](https://careers.capgemini.com/job/Nancy-D%C3%A9veloppeuse-D%C3%A9veloppeur-Fullstack-_Net-Stage/1427141533/) 🆕 | Nancy, FR |  | 2026-11-07 |
-| Capgemini | [Développeuse / Développeur Cloud - Stage](https://careers.capgemini.com/job/Issy-les-Moulineaux-D%C3%A9veloppeuse-D%C3%A9veloppeur-Cloud-Stage/1438313333/) 🆕 | Issy-les-Moulineaux, FR |  | 2026-11-07 |
-| Capgemini | [Ingénieure DevOps / Ingénieur DevOps - Stage](https://careers.capgemini.com/job/Lyon-Ing%C3%A9nieure-DevOps-Ing%C3%A9nieur-DevOps-Stage/1438324333/) 🆕 | Lyon, FR; Issy-les-Moulineaux, FR |  | 2026-11-07 |
-| Capgemini | [Développeuse / Développeur logiciel - Stage](https://careers.capgemini.com/job/Toulouse-D%C3%A9veloppeuse-D%C3%A9veloppeur-logiciel-Stage/1447670933/) 🆕 | Toulouse, FR; Issy-les-Moulineaux, FR; Lyon, FR |  | 2026-11-07 |
+| Capgemini | [Développeuse / Développeur Full Stack - Stage](https://careers.capgemini.com/job/Lille-D%C3%A9veloppeuse-D%C3%A9veloppeur-Full-Stack-Stage/1435839233/) 🆕 | Lille, FR; Aix-en-Provence, FR; Mérignac, FR +2 more |  | 2026-11-08 |
+| Capgemini | [Ingénieure / Ingénieur base de données - Stage](https://careers.capgemini.com/job/Merignac-Ing%C3%A9nieure-Ing%C3%A9nieur-base-de-donn%C3%A9es-Stage/1442742233/) 🆕 | Merignac, FR |  | 2026-11-08 |
+| Capgemini | [Développeuse / Développeur Java - Stage](https://careers.capgemini.com/job/Aix-en-Provence-D%C3%A9veloppeuse-D%C3%A9veloppeur-Java-Stage/1437030433/) 🆕 | Aix-en-Provence, FR; Pau, FR; Montbonnot-St-Martin, FR +1 more |  | 2026-11-08 |
+| Capgemini | [Développeuse / Développeur PHP - Stage](https://careers.capgemini.com/job/Nantes-D%C3%A9veloppeuse-D%C3%A9veloppeur-PHP-Stage/1441515933/) 🆕 | Nantes, FR |  | 2026-11-08 |
+| Capgemini | [Développeuse / Développeur logiciel PLM - Stage](https://careers.capgemini.com/job/Toulouse-D%C3%A9veloppeuse-D%C3%A9veloppeur-logiciel-PLM-Stage/1434004133/) 🆕 | Toulouse, FR; Issy-les-Moulineaux, FR |  | 2026-11-08 |
+| Capgemini | [Développeuse / Développeur Full Stack IA - Stage](https://careers.capgemini.com/job/Lyon-D%C3%A9veloppeuse-D%C3%A9veloppeur-Fullstack-IA-STAGE/1426046933/) 🆕 | Nantes, FR; Lyon, FR |  | 2026-11-08 |
+| AXA | [Werkstudent:in Gen AI Specialist im 24h Contact Center der AXA Schweiz (all genders)](https://careers.axa.com/jobs/27978) 🆕 | WINTERTHUR, Switzerland |  | 2026-11-07 |
 | Atos | [Stage cybersécurité des protocoles réseaux sans-fil H/F](https://jobs.atos.net/job/Aix-en-Provence-Stage-cybers%C3%A9curit%C3%A9-des-protocoles-r%C3%A9seaux-sans-fil-HF/1443355233/) 🆕 | Aix en Provence, FR |  | 2026-11-07 |
 | Mistral | [AI Scientist Intern - (Internship, Masters or Phd)](https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97) 🆕 | Paris |  | 2026-11-06 |
 | Antin Infrastructure Partners | [Luxembourg - Reporting & Analytics - Intern](https://antininfrastructurepartners-1655458195.teamtailor.com/jobs/8684540-luxembourg-reporting-analytics-intern) 🆕 | Luxembourg, Luxembourg |  | 2026-11-06 |
@@ -758,40 +751,42 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | ATLAS | [Werkstudent (m/w/d) IT-Produktmanagement mit Schwerpunkt Wissensmanagement](https://jobs.smartrecruiters.com/ATLAS4/744000160140988) 🆕 | Frankfurt am Main, Hessen, Germany |  | 2026-11-06 |
 | Bosch Group | [Pflichtpraktikum Data Management Fertigung](https://jobs.smartrecruiters.com/BoschGroup/744000160136057) 🆕 | Immenstadt im Allgäu, BY, Germany; Abstatt, BW, Germany |  | 2026-11-06 |
 | EVERIENCE | [Ingénieur commercial (avec un 1er stage ou alternance en prospection commerciale dans l'IT](https://jobs.smartrecruiters.com/EVERIENCE/744000160131719) 🆕 | Nanterre, Île-de-France, France |  | 2026-11-06 |
-| EssilorLuxottica | [Digital Management & AI Intern](https://careers.essilorluxottica.com/job/Rovereto-Digital-Management-&-AI-Intern/1419697333/) 🆕 | Rovereto, IT |  | 2026-11-06 |
-| GE HealthCare | [Software Engineer Intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613) 🆕 | Krakow, Lesser Poland, Poland |  | 2026-11-06 |
-| Siemens Healthineers | [Werkstudent*in (w/m/d) Generative AI-Solutions im Bereich R&D](https://careers.siemens-healthineers.com/global/en/job/P-101170) 🆕 | Germany |  | 2026-11-06 |
-| Airbus | [STAGE 2027 - Développeur Fullstack & Ingénieur AI – Outillage FinOps pour les Clouds Souve](https://ag.wd3.myworkdayjobs.com/Airbus/job/Antibes-Area/STAGE-2027---Dveloppeur-Fullstack---Ingnieur-AI---Outillage-FinOps-pour-les-Clouds-Souverains_JR10434929) 🆕 | Antibes Area |  | 2026-11-06 |
-| Airbus | [Werkstudent (d/m/w) im Bereich Material Data Management](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--m-w-d--im-Bereich-Material-Data-Management_JR10397455) 🆕 | Manching |  | 2026-11-06 |
-| Airbus | [Working Student (d/f/m) – Digital (IT) Infrastructure Demand Management](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Working-Student--d-f-m----Digital--IT--Infrastructure-Demand-Management_JR10454718) 🆕 | München Area |  | 2026-11-06 |
-| Airbus | [STAGE 2027 - Etude des outils pour modéliser et gérer une infrastructure IT (h/f)​](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/STAGE-2027---Etude-des-outils-pour-modliser-et-grer-une-infrastructure-IT--h-f--_JR10434919) 🆕 | Toulouse Area |  | 2026-11-06 |
-| Airbus | [Stage 2027 - Stagiaire en Réparation Avionique et Data Management (F/H)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Stage-2027---Stagiaire-en-Rparation-Avionique-et-Data-Management--F-H-_JR10447794) 🆕 | Toulouse Area |  | 2026-11-06 |
-| Airbus | [Werkstudent (d/m/w) im Bereich Robotics & Automation](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen/Werkstudent--d-m-w--im-Bereich-Robotics---Automation_JR10452276) 🆕 | Bremen |  | 2026-11-06 |
-| Hewlett Packard Enterprise | [AI and Data Intern](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829) 🆕 | Las Rozas, Madrid, Spain |  | 2026-11-06 |
-| Valeo | [Becario/a de Automatización e Integración IT/OT (Industria 4.0)](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Becario-a-de-Automatizacin-e-Integracin-IT-OT--Industria-40-_REQ2026082682) 🆕 | Martos |  | 2026-11-06 |
-| Motorola | [Intern Software Developer C/C++](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-C-C--_R70432) 🆕 | Krakow, Poland |  | 2026-11-06 |
-| Procter & Gamble | [Analytics & Insights Internship](https://pg.wd5.myworkdayjobs.com/1000/job/ROTTERDAM-OFFICE/Analytics---Insights-Internship_R000162247) 🆕 | ROTTERDAM OFFICE |  | 2026-11-06 |
-| Intel | [Software Design Engineer Intern for Physical Design (m/f/d)](https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937) 🆕 | Germany, Munich |  | 2026-11-06 |
-| ASML | [Computer Science / Artificial Intelligence internship: AI delivery control tower](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--AI-delivery-control-tower_J-00356606) 🆕 | Veldhoven, Netherlands |  | 2026-11-06 |
-| ASML | [Computer Science / Engineering internship: performance data platform](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Delft-Netherlands/Computer-Science---Engineering-internship--performance-data-platform_J-00356806) 🆕 | Delft, Netherlands |  | 2026-11-06 |
-| ASML | [Business Innovation / Security Management internship: physical security innovation funnel](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Innovation-Management---Physical-Security-internship--security-innovation-funnel-design_J-00341203) 🆕 | Veldhoven, Netherlands |  | 2026-11-06 |
-| Ingredion | [Working Student Automation & AI (m/f/d)](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Wesenberg/Working-Student-Automation---AI--m-f-d-_Req-40842) 🆕 | Wesenberg |  | 2026-11-06 |
-| Safran.AI | [Stage - Deep Learning Scientist (H/F)](https://jobs.lever.co/safran-ai/3ff52c39-28d5-41d4-958c-c16001777e7a) 🆕 | Paris |  | 2026-11-05 |
-| Keysight Technologies, Inc. | [Machine Learning — PhD Intern (Benchmarking for Inverse Design and Optimization)](https://jobs.keysight.com/jobs/55049) 🆕 | Barcelona, Spain |  | 2026-11-05 |
-| Bosch Group | [Pflichtpraktikum im Bereich Full-Stack Developer](https://jobs.smartrecruiters.com/BoschGroup/744000159903541) 🆕 | Stuttgart, BW, Germany |  | 2026-11-05 |
-| Alta Ares | [ML Engineer - Internship](https://jobs.ashbyhq.com/alta-ares/1b5bbaef-5f12-4844-b9a3-e4ee826fa454) 🆕 | Paris |  | 2026-11-05 |
-| Bosch Group | [AI & Cloud Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159889329) 🆕 | Sofia, Bosch Digital, Sofia City Province, Bulgaria |  | 2026-11-05 |
-| ALTEN | [Stage Innovation : Ingénieur Génie Logiciel / Intelligence Artificielle (domaine spatial)](https://jobs.smartrecruiters.com/ALTEN/744000159887425) 🆕 | Sèvres, IDF, France |  | 2026-11-05 |
-| AXA | [Internship - Data & Actuary CAT NAT](https://careers.axa.com/jobs/30272) 🆕 | PARIS, France |  | 2026-11-05 |
-| Wabtec | [Working Student – AI Engineering (m/w/d)](https://jobs.smartrecruiters.com/Wabtec/3743990016649246) 🆕 | Munich, BA, Germany |  | 2026-11-05 |
-| Bertelsmann-Jobs | [Duales Studium Software Engineering (B.Sc.)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159864679) 🆕 | Gütersloh, Nordrhein-Westfalen, Germany |  | 2026-11-05 |
-| Global Property Research B.V. | [Intern (m/f/d) Equity Index Structuring – EIS infrastructure](https://solactive.jobs.personio.de/job/2877017) 🆕 | Amsterdam |  | 2026-11-05 |
-| Bosch Group | [Praktikum Software Development (w/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000159859240) 🆕 | Wien, Wien, Austria |  | 2026-11-05 |
-| Eurofins | [IT Internship (3-month or 6-month opportunity)](https://jobs.smartrecruiters.com/Eurofins/744000159842115) 🆕 | Brussels, Brussels, Belgium |  | 2026-11-05 |
-| REXEL | [Stage - Data Scientist (H/F)](https://jobs.smartrecruiters.com/REXEL1/744000159840894) 🆕 | Paris, IDF, France |  | 2026-11-05 |
-| SIXT | [Duales Studium Software Engineering – in Kooperation mit der DHBW Stuttgart](https://jobs.smartrecruiters.com/SIXT/744000159837290) 🆕 | Stuttgart, BW, Germany; Munich, BY, Germany |  | 2026-11-05 |
-| Delta Electronics | [IT Intern](https://jobs.smartrecruiters.com/DeltaElectronics/744000159827080) 🆕 | Hoofddorp, NH, Netherlands |  | 2026-11-05 |
-| RTE | [Stage - Chargé de projets Intelligence Artificielle et Data F/H](https://jobs.smartrecruiters.com/RTE1/744000159826809) 🆕 | Toulouse, Occitanie, France; Morières-lès-Avignon, Provence-Alpes-Côte d'Azur, France |  | 2026-11-05 |
+| EssilorLuxottica | [Digital Management & AI Intern](https://careers.essilorluxottica.com/job/Rovereto-Digital-Management-&-AI-Intern/1419697333/) | Rovereto, IT |  | 2026-11-06 |
+| GE HealthCare | [Software Engineer Intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Krakow/Software-Engineer-Intern_R4040613) | Krakow, Lesser Poland, Poland |  | 2026-11-06 |
+| Siemens Healthineers | [Werkstudent*in (w/m/d) Generative AI-Solutions im Bereich R&D](https://careers.siemens-healthineers.com/global/en/job/P-101170) | Germany |  | 2026-11-06 |
+| Airbus | [STAGE 2027 - Développeur Fullstack & Ingénieur AI – Outillage FinOps pour les Clouds Souve](https://ag.wd3.myworkdayjobs.com/Airbus/job/Antibes-Area/STAGE-2027---Dveloppeur-Fullstack---Ingnieur-AI---Outillage-FinOps-pour-les-Clouds-Souverains_JR10434929) | Antibes Area |  | 2026-11-06 |
+| Airbus | [Werkstudent (d/m/w) im Bereich Material Data Management](https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--m-w-d--im-Bereich-Material-Data-Management_JR10397455) | Manching |  | 2026-11-06 |
+| Airbus | [Working Student (d/f/m) – Digital (IT) Infrastructure Demand Management](https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Working-Student--d-f-m----Digital--IT--Infrastructure-Demand-Management_JR10454718) | München Area |  | 2026-11-06 |
+| Airbus | [STAGE 2027 - Etude des outils pour modéliser et gérer une infrastructure IT (h/f)​](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/STAGE-2027---Etude-des-outils-pour-modliser-et-grer-une-infrastructure-IT--h-f--_JR10434919) | Toulouse Area |  | 2026-11-06 |
+| Airbus | [Stage 2027 - Stagiaire en Réparation Avionique et Data Management (F/H)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Stage-2027---Stagiaire-en-Rparation-Avionique-et-Data-Management--F-H-_JR10447794) | Toulouse Area |  | 2026-11-06 |
+| Airbus | [Werkstudent (d/m/w) im Bereich Robotics & Automation](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen/Werkstudent--d-m-w--im-Bereich-Robotics---Automation_JR10452276) | Bremen |  | 2026-11-06 |
+| Hewlett Packard Enterprise | [AI and Data Intern](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Las-Rozas-Madrid-Spain/AI-and-Data-Intern_1218829) | Las Rozas, Madrid, Spain |  | 2026-11-06 |
+| Valeo | [Becario/a de Automatización e Integración IT/OT (Industria 4.0)](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Martos/Becario-a-de-Automatizacin-e-Integracin-IT-OT--Industria-40-_REQ2026082682) | Martos |  | 2026-11-06 |
+| Motorola | [Intern Software Developer C/C++](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer-C-C--_R70432) | Krakow, Poland |  | 2026-11-06 |
+| Intel | [Software Design Engineer Intern for Physical Design (m/f/d)](https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Design-Engineer-Intern-for-Physical-Design--m-f-d-_JR0288937) | Germany, Munich |  | 2026-11-06 |
+| Procter & Gamble | [Analytics & Insights Internship](https://pg.wd5.myworkdayjobs.com/1000/job/ROTTERDAM-OFFICE/Analytics---Insights-Internship_R000162247) | ROTTERDAM OFFICE |  | 2026-11-06 |
+| ASML | [Computer Science / Artificial Intelligence internship: AI delivery control tower](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Artificial-Intelligence-internship--AI-delivery-control-tower_J-00356606) | Veldhoven, Netherlands |  | 2026-11-06 |
+| ASML | [Computer Science / Engineering internship: performance data platform](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Delft-Netherlands/Computer-Science---Engineering-internship--performance-data-platform_J-00356806) | Delft, Netherlands |  | 2026-11-06 |
+| ASML | [Business Innovation / Security Management internship: physical security innovation funnel](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Innovation-Management---Physical-Security-internship--security-innovation-funnel-design_J-00341203) | Veldhoven, Netherlands |  | 2026-11-06 |
+| Ingredion | [Working Student Automation & AI (m/f/d)](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Wesenberg/Working-Student-Automation---AI--m-f-d-_Req-40842) | Wesenberg |  | 2026-11-06 |
+| Apple | [Cellular Baseband Security Research Intern](https://jobs.apple.com/en-us/details/200693660/cellular-baseband-security-research-intern) | Paris, France |  | 2026-11-05 |
+| Safran.AI | [Stage - Deep Learning Scientist (H/F)](https://jobs.lever.co/safran-ai/3ff52c39-28d5-41d4-958c-c16001777e7a) | Paris |  | 2026-11-05 |
+| Keysight Technologies, Inc. | [Machine Learning — PhD Intern (Benchmarking for Inverse Design and Optimization)](https://jobs.keysight.com/jobs/55049) | Barcelona, Spain |  | 2026-11-05 |
+| Bosch Group | [Pflichtpraktikum im Bereich Full-Stack Developer](https://jobs.smartrecruiters.com/BoschGroup/744000159903541) | Stuttgart, BW, Germany |  | 2026-11-05 |
+| Alta Ares | [ML Engineer - Internship](https://jobs.ashbyhq.com/alta-ares/1b5bbaef-5f12-4844-b9a3-e4ee826fa454) | Paris |  | 2026-11-05 |
+| Bosch Group | [AI & Cloud Engineering Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159889329) | Sofia, Bosch Digital, Sofia City Province, Bulgaria |  | 2026-11-05 |
+| ALTEN | [Stage Innovation : Ingénieur Génie Logiciel / Intelligence Artificielle (domaine spatial)](https://jobs.smartrecruiters.com/ALTEN/744000159887425) | Sèvres, IDF, France |  | 2026-11-05 |
+| AXA | [Internship - Data & Actuary CAT NAT](https://careers.axa.com/jobs/30272) | PARIS, France |  | 2026-11-05 |
+| Wabtec | [Working Student – AI Engineering (m/w/d)](https://jobs.smartrecruiters.com/Wabtec/3743990016649246) | Munich, BA, Germany |  | 2026-11-05 |
+| Bertelsmann-Jobs | [Duales Studium Software Engineering (B.Sc.)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159864679) | Gütersloh, Nordrhein-Westfalen, Germany |  | 2026-11-05 |
+| Global Property Research B.V. | [Intern (m/f/d) Equity Index Structuring – EIS infrastructure](https://solactive.jobs.personio.de/job/2877017) | Amsterdam |  | 2026-11-05 |
+| Bosch Group | [Praktikum Software Development (w/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000159859240) | Wien, Wien, Austria |  | 2026-11-05 |
+| Apple | [Internship - Software Engineering - AI-Augmented Static Code Analysis](https://jobs.apple.com/en-us/details/200687209/internship-software-engineering-ai-augmented-static-code-analysis) | Munich, Germany |  | 2026-11-05 |
+| Eurofins | [IT Internship (3-month or 6-month opportunity)](https://jobs.smartrecruiters.com/Eurofins/744000159842115) | Brussels, Brussels, Belgium |  | 2026-11-05 |
+| REXEL | [Stage - Data Scientist (H/F)](https://jobs.smartrecruiters.com/REXEL1/744000159840894) | Paris, IDF, France |  | 2026-11-05 |
+| SIXT | [Duales Studium Software Engineering – in Kooperation mit der DHBW Stuttgart](https://jobs.smartrecruiters.com/SIXT/744000159837290) | Stuttgart, BW, Germany; Munich, BY, Germany |  | 2026-11-05 |
+| Delta Electronics | [IT Intern](https://jobs.smartrecruiters.com/DeltaElectronics/744000159827080) | Hoofddorp, NH, Netherlands |  | 2026-11-05 |
+| RTE | [Stage - Chargé de projets Intelligence Artificielle et Data F/H](https://jobs.smartrecruiters.com/RTE1/744000159826809) | Toulouse, Occitanie, France; Morières-lès-Avignon, Provence-Alpes-Côte d'Azur, France |  | 2026-11-05 |
 | Siemens Healthineers | [Werkstudent*in (w/m/d) Data Analytics, AI & Digital Transformation im Supply Chain Managem](https://careers.siemens-healthineers.com/global/en/job/P-101144) | Forchheim, Bavaria, Germany |  | 2026-11-05 |
 | Thermo Fisher Scientific | [Intern – Software/Firmware Test](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Firmware-Test_R-01374007) | Brno, Czechia |  | 2026-11-05 |
 | Thermo Fisher Scientific | [Internship - Build an agentic software refactoring workflow](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship---Build-an-agentic-software-refactoring-workflow_R-01374031-1) | Eindhoven, Netherlands |  | 2026-11-05 |
@@ -799,7 +794,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Thermo Fisher Scientific | [Internship Position: Data Processing and Microscopy Analysis Intern](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship-Position--Data-Processing-and-Microscopy-Analysis-Intern_R-01374054) | Eindhoven, Netherlands |  | 2026-11-05 |
 | GE Vernova | [Werkstudent im Bereich Software-Engineering (m/w/d)](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Berlin/Werkstudent-im-Bereich-Software-Engineering--m-w-d-_R5058035-1) | Berlin |  | 2026-11-05 |
 | ABB | [Internship - Full Stack Software Developer](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Genova-Genova-Italy/Internship---Full-Stack-Software-Developer_JR00049311) | Genova, Genova, Italy |  | 2026-11-05 |
-| Accenture | [SECURITY BECARIOS FY27](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-ID6---South-Building/SECURITY-BECARIOS-FY27_R00333127) | Malaga, I+D6 - South Building |  | 2026-11-05 |
 | NVIDIA | [Software Engineering Intern, Physics Simulation - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Software-Engineering-Intern--Physics-Simulation---2027_JR2029066) | Switzerland, Zurich |  | 2026-11-05 |
 | Amgen | [Data & Analytics Intern](https://amgen.wd1.myworkdayjobs.com/Careers/job/Netherlands---Breda/Data---Analytics-Intern_R-261001) | Netherlands - Breda |  | 2026-11-05 |
 | Roche | [Business Partner Master Data Intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Budapest/Business-Partner-Master-Data-Intern_202611-128280) | Budapest |  | 2026-11-05 |
@@ -807,7 +801,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Zeiss | [Duales Studium – Praktische Informatik (m/w/x), Beginn Herbst 2027](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Jena/Duales-Studium---Praktische-Informatik--m-w-x---Beginn-Herbst-2027_JR_1054796) | Jena |  | 2026-11-05 |
 | Analog Devices | [Embedded Software Engineer Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116) | Romania, Cluj-Napoca, Decembrie |  | 2026-11-05 |
 | Intel | [Middleware Software Engineering Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Middleware-Software-Engineering-Intern--m-f-d-_JR0288635) | Germany, Munich |  | 2026-11-05 |
-| NXP Semiconductors | [Working Student (f/m/d) for Edge AI Technology Scouting and Evaluation](https://nxp.wd3.myworkdayjobs.com/careers/job/Munich/Working-Student--f-m-d--for-Edge-AI-Technology-Scouting-and-Evaluation_R-10065447) | Munich |  | 2026-11-05 |
 | ASML | [Computer Science / IT internship: Standardizing Test Automation with AI Assistance](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---IT-internship--Standardizing-Test-Automation-with-AI-Assistance_J-00356770) | Veldhoven, Netherlands |  | 2026-11-05 |
 | Natixis in Portugal | [IT Intern / Natixis Trainee Program 2027 S1](https://jobs.smartrecruiters.com/NatixisInPortugal/744000159699229) | Lisbon, Lisbon, Portugal; Porto, Porto, Portugal |  | 2026-11-04 |
 | Wavestone | [AI Strategy & Business Transformation - Stage de fin d'études (H/F)](https://jobs.smartrecruiters.com/Wavestone1/744000159667949) | Puteaux, IDF, France |  | 2026-11-04 |
@@ -839,14 +832,12 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Amazon | [2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition) | Bucharest, RO |  | 2026-11-04 |
 | Erste Digital GmbH | [Internship IT Workplace Support  (all humans)](https://erstedigital.recruitee.com/o/internship-it-workplace-support-all-humans) | Vienna, Wien, Austria |  | 2026-11-04 |
 | NVIDIA | [Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184) | Germany, Munich |  | 2026-11-04 |
-| Air Liquide | [Stage - Business & Data Analyst - Achats Europe H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Business---Data-Analyst---Achats-Europe-H-F_R10104219) | France, Paris |  | 2026-11-04 |
-| Ecolab | [IT Trainee](https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/IT-Trainee_R00302789) | ESP - Catalonia - Barcelona |  | 2026-11-04 |
 | Valeo | [Stage - Développeur mobile Unity - C#](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/Stage---Dveloppeur-mobile-Unity---C-_REQ2026082997) | Créteil |  | 2026-11-04 |
+| Ecolab | [IT Trainee](https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/IT-Trainee_R00302789) | ESP - Catalonia - Barcelona |  | 2026-11-04 |
+| Air Liquide | [Stage - Business & Data Analyst - Achats Europe H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Business---Data-Analyst---Achats-Europe-H-F_R10104219) | France, Paris |  | 2026-11-04 |
 | Sanofi | [Analytics and PowerBI Development Intern](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Praha/Analytics-and-PowerBI-Development-Intern_R2868855) | Praha |  | 2026-11-04 |
 | Zeiss | [Werkstudent - Machine Learning & datenbasierte Prozessmodellierung (m/w/x)](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent---Machine-Learning---datenbasierte-Prozessmodellierung--m-w-x-_JR_1054650) | Oberkochen |  | 2026-11-04 |
 | Procter & Gamble | [DevOps Engineer Trainee](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-PLANT--GO/DevOps-Engineer-Trainee_R000161777) | WARSAW PLANT & GO |  | 2026-11-04 |
-| NXP Semiconductors | [Working Student (f/m/d) Embedded Software Development](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Working-Student--f-m-d--Embedded-Software-Development_R-10064616-1) | Hamburg |  | 2026-11-04 |
-| NXP Semiconductors | [Working Student (f/m/d) LLM Wiki & Agentic AI Knowledge Systems](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Working-Student--f-m-d--AI-Enabled-Knowledge-and-Work-Systems_R-10064063) | Hamburg |  | 2026-11-04 |
 | ING | [Praktikant Data Governance, Privacy & AI Regulation (w/m/d)](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Frankfurt/Praktikant-Data-Governance--Privacy---AI-Regulation--w-m-d-_REQ-10123866) | Frankfurt |  | 2026-11-04 |
 | ASML | [Cyber Security / Information Management internship: security assurance & strategy](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Cyber-Security---Information-Management-internship--security-assurance---strategy_J-00355033) | Veldhoven, Netherlands |  | 2026-11-04 |
 | LEGO | [Embedded Systems Engineering Internship](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1) | Billund Project House |  | 2026-11-04 |
@@ -899,6 +890,7 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Alan | [Data Associate - Internship (6 months, flexible start)](https://jobs.ashbyhq.com/alan/042421fd-55af-40f2-85c0-20a2fb354c1e) | Paris, France |  | 2026-11-02 |
 | Stanley/Stella BE | [Supply Chain & Data Analyst Intern](https://stanley-stella.jobs.personio.de/job/2871432) | Belgium (HQ) |  | 2026-11-02 |
 | OCTO Technology | [Stage - Coach Lean IT et Excellence Opérationnelle dans les programmes de delivery - F/H/N](https://jobs.smartrecruiters.com/OCTOTechnology/744000159112619) | Paris, IDF, France |  | 2026-11-02 |
+| Apple | [Internship -  Machine Learning Research (recurrent models / generative models /  interpret](https://jobs.apple.com/en-us/details/200692642/internship-machine-learning-research-recurrent-models-generative-models-interpretability) | Barcelona, Spain |  | 2026-11-02 |
 | Bertelsmann-Jobs | [Trainee IT-Consulting Energiewirtschaft (m/w/d)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159065599) | Leipzig, Sachsen, Germany; Rostock, Mecklenburg-Vorpommern, Germany; Köln, Nordrhein-Westfalen, Germany |  | 2026-11-02 |
 | Schneider Electric | [Prácticas en Project Management – Cloud & Services Provider STP27](https://se.jibeapply.com/jobs/140414) | San Sebastian de los Reyes, Spain |  | 2026-11-02 |
 | Schneider Electric | [Project Engineering – Data Centers Intern STP27](https://se.jibeapply.com/jobs/140084) | Sant Boi de Llobregat, Spain |  | 2026-11-02 |
@@ -912,15 +904,14 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | NVIDIA | [Relational Foundation Model Intern, Modern Data Stack – 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829) | Germany, Remote |  | 2026-11-02 |
 | Chanel | [STAGE - Data science, modélisation prédictive & analyse d’images](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Pantin/STAGE---Data-science--modlisation-prdictive---analyse-d-images_JOBREQ00118591) | Pantin |  | 2026-11-02 |
 | Chanel | [STAGE - COORDINATEUR(EUSE) GOUVERNANCE IT, IA & DATA VISUALISATION - HORLOGERIE JOAILLERIE](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE---COORDINATEUR-EUSE--GOUVERNANCE-IT--IA---DATA-VISUALISATION---HORLOGERIE-JOAILLERIE---JANVIER-2027---H-F-X_JOBREQ00118468) | Paris |  | 2026-11-02 |
-| Ecolab | [Power BI & Data Analytics Trainee](https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/Project-Engineer-Trainee_R00306859) | ESP - Catalonia - Barcelona |  | 2026-11-02 |
 | Valeo | [Technical Trainee - Data Operator](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Prague/Technical-Trainee---Data-Operator_REQ2026082417) | Prague |  | 2026-11-02 |
+| Ecolab | [Power BI & Data Analytics Trainee](https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/Project-Engineer-Trainee_R00306859) | ESP - Catalonia - Barcelona |  | 2026-11-02 |
 | Motorola | [Intern Software Developer (React/JS)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879) | Krakow, Poland |  | 2026-11-02 |
 | Intel | [DevOps Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633) | Poland, Gdansk |  | 2026-11-02 |
 | Wolters Kluwer | [Duales Studium Bachelor der Wirtschaftsinformatik - Data Science (m/w/d)](https://wk.wd3.myworkdayjobs.com/External/job/DEU---Ludwigsburg-Kammererstr/Duales-Studium-Bachelor-der-Wirtschaftsinformatik---Data-Science--m-w-d-_R0058190) | DEU - Ludwigsburg, Kammererstr |  | 2026-11-02 |
 | Flexion Robotics | [Internship - Robotics Manipulation](https://apply.workable.com/j/D59C7722BC) | Zürich, Zurich, Switzerland |  | 2026-11-02 |
 | Quandela | [Product Management for a Quantum Computing Learning Platform Intern (H1/2027)](https://apply.workable.com/j/7DE1AD7FB0) | Massy, Île-de-France, France |  | 2026-11-02 |
 | Tensordyne | [Working Student - LLM Inference Performance](https://job-boards.greenhouse.io/tensordyne/jobs/8926410002) | Munich, Germany |  | 2026-11-01 |
-| AXA | [Security Risk analyst (F/H) - stage](https://careers.axa.com/jobs/37095) | NANTERRE, France |  | 2026-10-31 |
 | NVIDIA | [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775) | Germany, Munich |  | 2026-10-31 |
 | NVIDIA | [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) | Poland, Warsaw |  | 2026-10-31 |
 | ACT-ON | [Stage- Développement Full Stack- Fin d'étude - Pré-embauche](https://jobs.smartrecruiters.com/ACT-ON/744000158773810) | Neuilly-sur-Seine, IDF, France |  | 2026-10-30 |
@@ -952,6 +943,7 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Sia | [Stage - Data Protection](https://jobs.smartrecruiters.com/Sia/744000158526059) | Milano, Lombardia, Italy |  | 2026-10-29 |
 | Continental Group Sector ContiTech | [Duales Studium - AI Management and Digitalization B. Sc.  (m/w/d)](https://jobs.smartrecruiters.com/ContinentalGroupSectorContiTech/744000158525959) | Eschborn, HE, Germany |  | 2026-10-29 |
 | Continental Group Sector ContiTech | [Duales Studium - IT Management and SAP Consulting B. Sc.  (m/w/d)](https://jobs.smartrecruiters.com/ContinentalGroupSectorContiTech/744000158524264) | Eschborn, HE, Germany |  | 2026-10-29 |
+| Apple | [Internship - Machine Learning Research - Speech-to-Speech Translation](https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation) | Aachen, Germany |  | 2026-10-29 |
 | Aumovio | [IT Trainee](https://jobs.smartrecruiters.com/Aumovio/744000158510759) | Zvolen, Banskobystrický kraj, Slovakia (Slovak Republic) |  | 2026-10-29 |
 | NielsenIQ | [NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d)](https://jobs.smartrecruiters.com/NielsenIQ/744000158474470) | Frankfurt, HE, Germany |  | 2026-10-29 |
 | Reonic | [AI Product Manager Intern - (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c) | Augsburg |  | 2026-10-29 |
@@ -968,7 +960,6 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Zeiss | [Praktikum im Projektmanagement – Global IT Transformation Projekt (m/w/x)](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Aalen/Praktikum-im-Projektmanagement---Global-IT-Transformation-Projekt--m-w-x-_JR_1054352) | Aalen |  | 2026-10-29 |
 | Procter & Gamble | [Working Student IT (m/f/d)](https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Working-Student-IT--m-f-d-_R000159368) | Schwalbach Am Taunus |  | 2026-10-29 |
 | Procter & Gamble | [IT Internship (m/f/d)](https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/IT-Internship--m-f-d-_R000157342) | Schwalbach Am Taunus |  | 2026-10-29 |
-| NXP Semiconductors | [Working Student (f/m/d) Embedded Network Software Engineer - Automotive Ethernet](https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Working-Student--f-m-d--Embedded-Network-Software-Engineer---Automotive-Ethernet_R-10067322) | Hamburg |  | 2026-10-29 |
 | Nissan Global | [Generative AI & Software Engineering Intern](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Barcelona-ZF/Generative-AI---Software-Engineering-Intern_R00215499-1) | Barcelona ZF |  | 2026-10-29 |
 | ROCKWOOL Group | [IT Trainee](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Pozna/IT-Trainee_R0036969) | Poznań |  | 2026-10-29 |
 | Solactive AG | [Working Student Data Engineering](https://solactive.jobs.personio.de/job/2865855) | Dresden |  | 2026-10-28 |
@@ -996,14 +987,13 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | GE Vernova | [Stage ingénieur traitement de données diélectriques](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Villeurbanne/Stage-ingnieur-traitement-de-donnes-dilectriques_R5057271-1) | Villeurbanne |  | 2026-10-27 |
 | Roche | [Internship - Software and Data Engineer (for 12 months in Rotkreuz)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501) | Rotkreuz |  | 2026-10-27 |
 | KION Group | [Duales Studium - Bachelor (B.Sc.) Informatik 2027](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Frankfurt-am-Main-Germany/Duales-Studium---Bachelor--BSc--Wirtschaftsinformatik-2027_JR-0095994) | Frankfurt am Main, Germany |  | 2026-10-27 |
-| Air Liquide | [STAGE ENERGIE MANAGEMENT - DATA - INNOVATION F/H](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Bagneux-Symbiose---Management---ALFI-LI/STAGE-ENERGIE-MANAGEMENT---DATA---INNOVATION-F-H_R10103982) | Bagneux Symbiose - Management - ALFI LI |  | 2026-10-27 |
 | Valeo | [Alternant(e) – Ingénieur Cloud & Tests Logiciels – Digital Key (F/H)](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/Alternant-e----Ingnieur-Cloud---Tests-Logiciels---Digital-Key--F-H-_REQ2026082684-1) | Créteil |  | 2026-10-27 |
 | Valeo | [Alternant(e) – Logiciel embarqué / Conception / Génie logiciel (F/H)](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/CRETEIL---CRE1/Alternant-e----Logiciel-embarqu---Conception---Gnie-logiciel--F-H-_REQ2026082683-1) | CRETEIL - CRE1 |  | 2026-10-27 |
-| Motorola | [Intern DevOps Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906) | Krakow, Poland |  | 2026-10-27 |
+| Air Liquide | [STAGE ENERGIE MANAGEMENT - DATA - INNOVATION F/H](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Bagneux-Symbiose---Management---ALFI-LI/STAGE-ENERGIE-MANAGEMENT---DATA---INNOVATION-F-H_R10103982) | Bagneux Symbiose - Management - ALFI LI |  | 2026-10-27 |
 | Zeiss | [Internship in AI & Machine Learning (f/m/x)](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317) | Karlsruhe |  | 2026-10-27 |
+| Motorola | [Intern DevOps Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906) | Krakow, Poland |  | 2026-10-27 |
 | Procter & Gamble | [Supply Chain Network – Internship (m/f/d)](https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Supply-Chain-Network---Internship--m-f-d-_R000153895) | Schwalbach Am Taunus |  | 2026-10-27 |
 | Procter & Gamble | [Analytics & Insights Internship (m/f/d)](https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Analytics---Insights-Internship--m-f-d-_R000150319) | Schwalbach Am Taunus |  | 2026-10-27 |
-| NXP Semiconductors | [Internship: Software Toolchain & Debugger Development (f/m/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Student-Position--Software-Toolchain---Debugger-Development--f-m-d-_R-10064613) | Gratkorn |  | 2026-10-27 |
 | BorgWarner | [IT Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bascharage---Luxembourg/IT-Intern_R2026-4069) | Bascharage - Luxembourg |  | 2026-10-27 |
 | Pierre Fabre | [Chargé(e) de consolidation Data et BDD Ingrédients Actifs – Stage - H/F](https://pierrefabre.wd3.myworkdayjobs.com/External_Career_Site/job/Haute-Garonne-31/Charg-e--de-consolidation-Data-et-BDD-Ingrdients-Actifs---Stage---H-F_JR114192) | Haute Garonne (31) |  | 2026-10-27 |
 | Pierre Fabre | [Data scientist / Chémoinformaticien(ne) – Stage - H/F](https://pierrefabre.wd3.myworkdayjobs.com/External_Career_Site/job/Haute-Garonne-31/Data-scientist---Stage---H-F_JR114082) | Haute Garonne (31) |  | 2026-10-27 |
@@ -1023,14 +1013,12 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | TYTAN Technologies GmbH | [Working Student - Interceptor Data Analytics (m/f/d)](https://tytantechnologiesgmbh.recruitee.com/o/working-student-interceptor-data-analytics-mfd) | Munich, Bayern, Germany |  | 2026-10-26 |
 | ABB | [Internship - OT Cybersecurity](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Genova-Genova-Italy/Internship---Cybersecurity-for-OT-Systems_JR00042894) | Genova, Genova, Italy |  | 2026-10-26 |
 | Chanel | [STAGE - Assistant Chargé de Projet Data & Amélioration Continue](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Pantin/STAGE---Assistant-Charg-de-Projet-Data---Amlioration-Continue_JOBREQ00118355-3) | Pantin |  | 2026-10-26 |
-| Heartbeat AI GmbH | [Werkstudent:in AI & Automation - Energy (m/w/d)](https://1komma5grad.jobs.personio.de/job/2859433) | Berlin |  | 2026-10-24 |
 
 ## India
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
 | Honeywell | [Intern Bachelors AI](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161176) | Bengaluru, Karnataka, India |  | 2026-11-05 |
-| United Airlines | [Intern - Data Analytics](https://ual-pro.taleo.net/careersection/10400/jobdetail.ftl?job=GGN00002711) | Gurugram, Haryana, India |  | 2026-11-04 |
 | Gallagher | [Trainee- Risk Analytics](https://jobs.ajg.com/jobs/59840) | Mumbai, India |  | 2026-11-02 |
 | Karya | [Research Engineering Intern, AI Evaluations](https://job-boards.greenhouse.io/karya/jobs/5469564008) | Bengaluru, India |  | 2026-11-02 |
 | Airbus | [Technical Data Authoring Intern - Airframe](https://ag.wd3.myworkdayjobs.com/Airbus/job/Bangalore-Area/Technical-Data-Authoring-Intern---Airframe_JR10449374) | Bangalore Area |  | 2026-10-29 |
@@ -1048,32 +1036,33 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632392002/) 🆕 | Singapore, SG; Hong Kong, HK |  | 2026-11-07 |
+| Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8617298002/) 🆕 | Singapore, SG; Hong Kong, HK |  | 2026-11-08 |
+| Carousell Group | [Fullstack Engineer Intern](https://jobs.smartrecruiters.com/CarousellGroup/744000160442269) 🆕 | Ho Chi Minh City, Ho Chi Minh, Vietnam |  | 2026-11-07 |
 | NVIDIA | [AI Infrastructure and Frameworks Intern, Cosmos Lab - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Infrastructure-and-Frameworks-Intern--Cosmos-Lab---2027_JR2029468) 🆕 | China, Shanghai |  | 2026-11-07 |
 | NVIDIA | [System Software Engineer Intern, Autonomous Vehicles - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/System-Software-Engineer-Intern--Autonomous-Vehicles---2027_JR2028172) 🆕 | China, Shenzhen; China, Shanghai |  | 2026-11-07 |
 | Point72 | [2027 MI Data Research & AI Intern - APAC](https://boards.greenhouse.io/point72/jobs/8899753002?gh_jid=8899753002) 🆕 | Hong Kong, Singapore, Japan |  | 2026-11-06 |
-| Volvo Group | [Intern - Product Platform](https://jobs.volvogroup.com/job/Ji'nan-Intern-Product-Platform-250102/1166467855/) 🆕 | Ji'nan, CN |  | 2026-11-06 |
-| Seagate Technology, LLC | [GFIT Intern, AI Software Development](https://seagatecareers.com/job/Bayan-Baru-GFIT-Intern%2C-AI-Software-Development/1448033900/) 🆕 | Bayan Baru, MY |  | 2026-11-06 |
-| Seagate Technology, LLC | [Data Trust Security Analysis Intern, Cryptography (Postgraduate Internship)](https://seagatecareers.com/job/Shugart-Data-Trust-Security-Analysis-Intern%2C-Cryptography-%28Postgraduate-Internship%29/1447981100/) 🆕 | Shugart, SG |  | 2026-11-06 |
-| Agoda | [(Cooperative Internship 2027) Infrastructure Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335941) 🆕 | Bangkok |  | 2026-11-06 |
-| Bertelsmann-Jobs | [AIP Intern - IT Support Track](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613) 🆕 | Kuala Lumpur, Malaysia |  | 2026-11-06 |
-| Agoda | [(Summer Internship 2027) Infrastructure Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8358261) 🆕 | Bangkok |  | 2026-11-06 |
-| Agoda | [(Cooperative Internship 2027) Full-stack Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8358252) 🆕 | Bangkok based |  | 2026-11-06 |
-| Agoda | [(Summer Internship 2027) Full-stack Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335922) 🆕 | Bangkok based |  | 2026-11-06 |
-| Agoda | [(Summer Internship 2027) Supply Full-stack Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335924) 🆕 | Bangkok based |  | 2026-11-06 |
-| Agoda | [(Cooperative Internship 2027) Data Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335925) 🆕 | Bangkok based |  | 2026-11-06 |
-| Amazon | [Cloud Hardware Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10598506/cloud-hardware-dev-engineer-intern) 🆕 | Hsinchu, TW; Taipei, TPE, TW |  | 2026-11-06 |
-| IBM | [Application Developer-Cloud FullStack Intern](https://careers.ibm.com/careers/JobDetail?jobId=140156) 🆕 | BANGKOK, TH |  | 2026-11-06 |
-| Ralliant | [AI Application Development Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11213) 🆕 | Shanghai, China |  | 2026-11-06 |
-| ABB | [Admin Support Intern (Robotics Workshop, Hi-Tech Park Q9, HCM)](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ho-Chi-Minh-City-Viet-Nam/Admin-Support-Intern--Robotics-Workshop--Hi-Tech-Park-Q9--HCM-_JR00052232) 🆕 | Ho Chi Minh City, Viet Nam |  | 2026-11-06 |
-| PricewaterhouseCoopers (PwC) | [Data Analytics Intern](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bangkok/Data-Analytics-Intern_772781WD) 🆕 | Bangkok |  | 2026-11-06 |
-| NVIDIA | [System Software Intern, Embedded Power Management - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153) 🆕 | Taiwan, Taipei |  | 2026-11-06 |
-| NVIDIA | [AI Developer Technology Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818) 🆕 | China, Shenzhen |  | 2026-11-06 |
-| Tencent | [Tencent Cloud – Solution Architecture Intern, Gen AI & Cloud(Indoensia)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Indonesia-Jakarta/Tencent-Cloud---Solution-Architecture-Intern--Gen-AI---Cloud-Indoensia-_R108354) 🆕 | Indonesia-Jakarta |  | 2026-11-06 |
-| Tencent | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Atago-Mori-Tower/NLP-Research-Intern_R108352-1) 🆕 | Japan-Tokyo-Atago Mori Tower |  | 2026-11-06 |
-| Tencent | [Unreal Engine Programmer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/New-Zealand-Auckland/Unreal-Engine-Programmer-Intern_R108355-1) 🆕 | New Zealand-Auckland; Australia-New South Wales-Sydney |  | 2026-11-06 |
-| Logitech | [AI-Assisted Materials Engineering Intern](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Assisted-Materials-Engineering-Intern_148667) 🆕 | Hsinchu, Taiwan |  | 2026-11-06 |
-| Bosch Group | [Intern, AIot Software Developer](https://jobs.smartrecruiters.com/BoschGroup/744000159821219) 🆕 | Singapore, Singapore |  | 2026-11-05 |
+| Seagate Technology, LLC | [GFIT Intern, AI Software Development](https://seagatecareers.com/job/Bayan-Baru-GFIT-Intern%2C-AI-Software-Development/1448033900/) | Bayan Baru, MY |  | 2026-11-06 |
+| Seagate Technology, LLC | [Data Trust Security Analysis Intern, Cryptography (Postgraduate Internship)](https://seagatecareers.com/job/Shugart-Data-Trust-Security-Analysis-Intern%2C-Cryptography-%28Postgraduate-Internship%29/1447981100/) | Shugart, SG |  | 2026-11-06 |
+| Volvo Group | [Intern - Product Platform](https://jobs.volvogroup.com/job/Ji'nan-Intern-Product-Platform-250102/1166467855/) | Ji'nan, CN |  | 2026-11-06 |
+| Agoda | [(Cooperative Internship 2027) Infrastructure Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335941) | Bangkok |  | 2026-11-06 |
+| Bertelsmann-Jobs | [AIP Intern - IT Support Track](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160077613) | Kuala Lumpur, Malaysia |  | 2026-11-06 |
+| Agoda | [(Summer Internship 2027) Infrastructure Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8358261) | Bangkok |  | 2026-11-06 |
+| Agoda | [(Cooperative Internship 2027) Full-stack Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8358252) | Bangkok based |  | 2026-11-06 |
+| Agoda | [(Summer Internship 2027) Full-stack Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335922) | Bangkok based |  | 2026-11-06 |
+| Agoda | [(Summer Internship 2027) Supply Full-stack Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335924) | Bangkok based |  | 2026-11-06 |
+| Agoda | [(Cooperative Internship 2027) Data Internship BKK](https://job-boards.greenhouse.io/agoda/jobs/8335925) | Bangkok based |  | 2026-11-06 |
+| Amazon | [Cloud Hardware Dev Engineer Intern](https://www.amazon.jobs/en/jobs/10598506/cloud-hardware-dev-engineer-intern) | Hsinchu, TW; Taipei, TPE, TW |  | 2026-11-06 |
+| IBM | [Application Developer-Cloud FullStack Intern](https://careers.ibm.com/careers/JobDetail?jobId=140156) | BANGKOK, TH |  | 2026-11-06 |
+| Ralliant | [AI Application Development Intern](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11213) | Shanghai, China |  | 2026-11-06 |
+| ABB | [Admin Support Intern (Robotics Workshop, Hi-Tech Park Q9, HCM)](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ho-Chi-Minh-City-Viet-Nam/Admin-Support-Intern--Robotics-Workshop--Hi-Tech-Park-Q9--HCM-_JR00052232) | Ho Chi Minh City, Viet Nam |  | 2026-11-06 |
+| PricewaterhouseCoopers (PwC) | [Data Analytics Intern](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bangkok/Data-Analytics-Intern_772781WD) | Bangkok |  | 2026-11-06 |
+| NVIDIA | [System Software Intern, Embedded Power Management - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Intern--Embedded-Power-Management---2027_JR2029153) | Taiwan, Taipei |  | 2026-11-06 |
+| NVIDIA | [AI Developer Technology Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shenzhen/AI-Developer-Technology-Engineering-Intern---2027_JR2024818) | China, Shenzhen |  | 2026-11-06 |
+| Tencent | [Tencent Cloud – Solution Architecture Intern, Gen AI & Cloud(Indoensia)](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Indonesia-Jakarta/Tencent-Cloud---Solution-Architecture-Intern--Gen-AI---Cloud-Indoensia-_R108354) | Indonesia-Jakarta |  | 2026-11-06 |
+| Tencent | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Japan-Tokyo-Atago-Mori-Tower/NLP-Research-Intern_R108352-1) | Japan-Tokyo-Atago Mori Tower |  | 2026-11-06 |
+| Tencent | [Unreal Engine Programmer Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/New-Zealand-Auckland/Unreal-Engine-Programmer-Intern_R108355-1) | New Zealand-Auckland; Australia-New South Wales-Sydney |  | 2026-11-06 |
+| Logitech | [AI-Assisted Materials Engineering Intern](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Assisted-Materials-Engineering-Intern_148667) | Hsinchu, Taiwan |  | 2026-11-06 |
+| Bosch Group | [Intern, AIot Software Developer](https://jobs.smartrecruiters.com/BoschGroup/744000159821219) | Singapore, Singapore |  | 2026-11-05 |
 | Schneider Electric | [AI Intern](https://se.jibeapply.com/jobs/140885) | Samut Prakan, Thailand; China |  | 2026-11-05 |
 | Emerson Electric | [Software Engineering Intern](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013296) | Shanghai, Shanghai, China |  | 2026-11-05 |
 | Medtronic | [QA Lab Intern](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Shanghai-Shanghai-China/QA-Lab-Intern_R81378) | Shanghai, Shanghai, China |  | 2026-11-05 |
@@ -1087,6 +1076,7 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8623868002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8623733002/) | Hong Kong, HK |  | 2026-11-04 |
 | Western Digital | [Internship - Software Development (Embedded)](https://jobs.smartrecruiters.com/WesternDigital/744000159562109) | Petaling Jaya, Selangor, Malaysia |  | 2026-11-04 |
+| Apple | [Software Engineer Intern (Full-Stack & AI Agents) - Shanghai](https://jobs.apple.com/en-us/details/200690042/software-engineer-intern-full-stack-ai-agents-shanghai) | Shanghai, China |  | 2026-11-04 |
 | Logitech | [(Spring Internship) AI Application Intern, 2027](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Application-Intern--2027_148647-1) | Hsinchu, Taiwan |  | 2026-11-04 |
 | Schonfeld | [2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8350719) | Hong Kong, Hong Kong |  | 2026-11-03 |
 | Bosch Group | [(Internship Program Q1 2027) Fullstack Engineer Intern (Java/NodeJS/Python/Django/React/.N](https://jobs.smartrecruiters.com/BoschGroup/744000159328650) | Ho Chi Minh, Vietnam |  | 2026-11-03 |
@@ -1100,6 +1090,7 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Procter & Gamble | [Dream Internship – Consumer Analytics, Insights & Research Intern](https://pg.wd5.myworkdayjobs.com/1000/job/Bangkok/Dream-Internship---Consumer-Analytics--Insights---Research-Intern_R000162074) | Bangkok |  | 2026-11-03 |
 | Philips | [MR Software Intern](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/MR-Software-Intern_594544) | Suzhou |  | 2026-11-03 |
 | PolicyStreet | [Data Analyst Intern](https://apply.workable.com/j/663C612DC3) | Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia |  | 2026-11-03 |
+| Apple | [Generative AI Research Intern - Image-to-Video Diffusion](https://jobs.apple.com/en-us/details/200691801/generative-ai-research-intern-image-to-video-diffusion) | Beijing, China |  | 2026-11-02 |
 | Activate Interactive Pte Ltd | [Data Science Intern - IN26008](https://apply.workable.com/j/2F769F90A0) | Singapore, Singapore, Singapore |  | 2026-11-02 |
 | Procter & Gamble | [Dream Internship – IT Intern](https://pg.wd5.myworkdayjobs.com/1000/job/Bangkok/Dream-Internship---IT-Intern_R000162082) | Bangkok |  | 2026-11-01 |
 | Western Digital | [Internship - Data Engineering](https://jobs.smartrecruiters.com/WesternDigital/744000158655189) | Petaling Jaya, Selangor, Malaysia |  | 2026-10-30 |
@@ -1114,6 +1105,7 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Logitech | [(Spring Internship) AI Automation Test Intern Engineer, 2027](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/AI-Automation-Test-Intern-Engineer_148639) | Hsinchu, Taiwan |  | 2026-10-30 |
 | Logitech | [Spring Internship, Value Engineering Analytics Intern](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship--Value-Engineering-Analytics-Intern_148640) | Hsinchu, Taiwan |  | 2026-10-30 |
 | QCP | [Intern, Software QA Engineer (Jan - Jun 2027)](https://apply.workable.com/j/35303820C3) | Singapore, Singapore, Singapore |  | 2026-10-30 |
+| Apple | [Subject Matter Expert - Data Science, Intern](https://jobs.apple.com/en-us/details/200689651/subject-matter-expert-data-science-intern) | Shenzhen, China |  | 2026-10-29 |
 | Keysight Technologies, Inc. | [Product Engineer Intern](https://jobs.keysight.com/jobs/53460) | Penang, Malaysia |  | 2026-10-29 |
 | Schneider Electric | [Data and AI Intern](https://se.jibeapply.com/jobs/137761) | China |  | 2026-10-29 |
 | NVIDIA | [Chip Level Defect Localization and Failure Analysis Engineer - RDSS Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/Chip-Level-Defect-Localization-and-Failure-Analysis-Engineer---RDSS-Intern_JR2028296) | Taiwan, Hsinchu |  | 2026-10-29 |
@@ -1124,12 +1116,16 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | Ambiq Micro, Inc. | [Embedded Software Intern](https://job-boards.greenhouse.io/ambiqmicroinc/jobs/4404902009) | Singapore |  | 2026-10-28 |
 | Motorola | [Software Engineer Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Software-Engineer-Intern_R70137) | Penang, Malaysia; Ho Chi Minh, Vietnam |  | 2026-10-28 |
 | Schonfeld | [2027 AI Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/schonfeld/jobs/8311595) | Hong Kong, Hong Kong |  | 2026-10-27 |
+| AccorHotel | [Security Intern](https://jobs.smartrecruiters.com/AccorHotel/744000157968754) | Makati City, NCR, Philippines |  | 2026-10-27 |
 | Aumovio | [Software Engineer (Software Integrator) Intern (IDA:00070)](https://jobs.smartrecruiters.com/Aumovio/744000157968589) | Singapore, Singapore |  | 2026-10-27 |
 | NielsenIQ | [Data Operation Analyst Intern (Mandarin Speaker)](https://jobs.smartrecruiters.com/NielsenIQ/744000157965649) | KL Eco City Bangsar, 14, Malaysia |  | 2026-10-27 |
+| AccorHotel | [IT Admin Intern](https://jobs.smartrecruiters.com/AccorHotel/744000157963309) | Makati City, NCR, Philippines |  | 2026-10-27 |
 | Experian | [Software Engineering Intern](https://jobs.smartrecruiters.com/Experian/744000157956149) | Cyberjaya, Selangor, Malaysia |  | 2026-10-27 |
+| Apple | [Engineering Intern (AI/ML & Automation) for Hardware - Shanghai](https://jobs.apple.com/en-us/details/200688974/engineering-intern-ai-ml-automation-for-hardware-shanghai) | Shanghai, China |  | 2026-10-27 |
 | Schneider Electric | [Data Engineering Intern](https://se.jibeapply.com/jobs/137271) | Cavite, Philippines |  | 2026-10-27 |
 | Motorola | [Pricing & Analytics Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Pricing---Analytics-Intern_R70031) | Penang, Malaysia |  | 2026-10-27 |
 | Marvell | [Product Engineer Intern - Bachelor's Degree Summer 2027](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Singapore/Product-Engineer-Intern---Bachelor-s-Degree-Summer-2027_2603840) | Singapore |  | 2026-10-27 |
+| Apple | [Machine Learning and AI Safety Research Intern](https://jobs.apple.com/en-us/details/200690892/machine-learning-and-ai-safety-research-intern) | Beijing, China |  | 2026-10-26 |
 | Moloco | [Machine Learning Engineer Intern (3-month Internship)](https://job-boards.greenhouse.io/moloco/jobs/8044892003) | Seoul, Korea |  | 2026-10-26 |
 | Smiths Group | [IT & Digital Solutions Intern (Paid Internship)](https://jobs.smartrecruiters.com/SmithsGroup2/744000157739440) | Johor Bahru, Johor, Malaysia |  | 2026-10-26 |
 | Caterpillar | [Software Intern](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Intern_R0000401086) | Wuxi, Jiangsu |  | 2026-10-26 |
@@ -1141,8 +1137,8 @@ Most roles this fortnight: NVIDIA (51), Airbus (49), IBM (42), Booz Allen (42), 
 | --- | --- | --- | --- | --- |
 | Schaeffler Technologies AG & Co. KG | [Master Data Intern](https://jobs.schaeffler.com/job/Puebla-Huejotzingo-Master-Data-Intern-74160/1455305233/) 🆕 | Puebla Huejotzingo, MX |  | 2026-11-07 |
 | Welcome to the Jungle | [Intern Data Engineer Brazil](https://job-boards.greenhouse.io/artefactjobs/jobs/8931797002) 🆕 | Avenida das Nações Unidas, 12901,11° andar São Paulo |  | 2026-11-06 |
-| Schneider Electric | [IT Developer Intern](https://se.jibeapply.com/jobs/138330) 🆕 | Apodaca, Mexico |  | 2026-11-06 |
-| Schneider Electric | [Data Analytics intern](https://se.jibeapply.com/jobs/131463) 🆕 | Tlaxcala, Mexico |  | 2026-11-06 |
+| Schneider Electric | [IT Developer Intern](https://se.jibeapply.com/jobs/138330) | Apodaca, Mexico |  | 2026-11-06 |
+| Schneider Electric | [Data Analytics intern](https://se.jibeapply.com/jobs/131463) | Tlaxcala, Mexico |  | 2026-11-06 |
 | Hunt Oil Company | [Data Analytics Intern](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/679) | San Vicente de Canete, Lima, Peru |  | 2026-11-05 |
 | Accenture | [Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00369515) | Belen |  | 2026-11-05 |
 | KION Group | [Planning Automation/Analytics Intern](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Guadalupe-Mexico/Planning-Automation-Analytics-Intern_JR-0098613-1) | Guadalupe, Mexico |  | 2026-11-05 |
