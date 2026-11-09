@@ -1,26 +1,140 @@
 {
-"builtAt": "2026-11-08T04:28:30+00:00",
+"builtAt": "2026-11-09T04:34:20+00:00",
 "days": 14,
 "newgrad": {
 "United States": [
 {
 "company": "Capgemini",
-"title": "Junior Fullstack Developer (.NET Core/Angular)",
-"location": "Buenos Aires, AR",
+"title": "Associate Data Scientist",
+"location": "Houston, TX, US",
 "_locs": [
-"Buenos Aires, AR"
+"Houston, TX, US"
 ],
 "allLocations": [
-"Buenos Aires, AR"
+"Houston, TX, US"
+],
+"remote": null,
+"salaryMin": 46000.0,
+"salaryMax": 111000.0,
+"salaryCurrency": "USD",
+"salaryInterval": "year",
+"url": "https://careers.capgemini.com/job/Houston%2C-TX-Associate-Data-Scientist-TX-77001/1433639533/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "Junior Salesforce Developer",
+"location": "Atlanta, GA, US",
+"_locs": [
+"Atlanta, GA, US"
+],
+"allLocations": [
+"Atlanta, GA, US"
+],
+"remote": null,
+"salaryMin": 54380.0,
+"salaryMax": 99650.0,
+"salaryCurrency": "USD",
+"salaryInterval": "year",
+"url": "https://careers.capgemini.com/job/Atlanta%2C-GA-Junior-Salesforce-Developer-GA-30301/1424989033/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "Talento sin límites: Java Developer Junior - Personas con Discapacidad",
+"location": "Bogota, CO",
+"_locs": [
+"Bogota, CO"
+],
+"allLocations": [
+"Bogota, CO"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Buenos-Aires-Junior-Fullstack-Developer-%28_NET-CoreAngular%29/1388364433/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
+"url": "https://careers.capgemini.com/job/Bogota-Talento-sin-l%C3%ADmites-Java-Developer-Junior-Personas-con-Discapacidad/1402618233/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
 "ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "Junior Full Stack Java Developer - Tableau",
+"location": "Dallas, TX, US",
+"_locs": [
+"Dallas, TX, US"
+],
+"allLocations": [
+"Dallas, TX, US"
+],
+"remote": null,
+"salaryMin": 56186.0,
+"salaryMax": 87556.0,
+"salaryCurrency": "USD",
+"salaryInterval": "year",
+"url": "https://careers.capgemini.com/job/Dallas%2C-TX-Junior-Full-Stack-Java-Developer-Tableau-TX-75201/1440575133/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Shield AI",
+"title": "Engineer I, Software - Perception - New Grad - 6135",
+"location": "Washington, D.C.",
+"_locs": [
+"Washington, D.C."
+],
+"allLocations": [
+"Washington, D.C."
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7",
+"publishedAt": "2026-11-08T17:42:32.139+00:00",
+"ats": "ashby"
+},
+{
+"company": "Shield AI",
+"title": "Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125",
+"location": "Washington, D.C.",
+"_locs": [
+"Washington, D.C."
+],
+"allLocations": [
+"Washington, D.C."
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/29917792-e504-4cb5-9e70-9d74212d3b1f",
+"publishedAt": "2026-11-08T17:30:14.670+00:00",
+"ats": "ashby"
+},
+{
+"company": "Shield AI",
+"title": "Engineer I, Software - Autonomy Capabilities - New Grad - 6129",
+"location": "United States",
+"_locs": [
+"United States"
+],
+"allLocations": [
+"United States"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10",
+"publishedAt": "2026-11-08T17:21:05.630+00:00",
+"ats": "ashby"
 },
 {
 "company": "General Dynamics",
@@ -357,7 +471,7 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-IT-Specialist-I-Early-Career-Leadership-Development-Program-NC/1448364400/",
+"url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-IT-Specialist-I-Early-Career-Leadership-Development-Program-NC/1448366200/",
 "publishedAt": "2026-11-06T04:08:38.760239+00:00",
 "ats": "successfactors"
 },
@@ -420,25 +534,6 @@
 "ats": "talentbrew"
 },
 {
-"company": "Charles Schwab",
-"title": "Associate Software Engineer",
-"location": "Austin, Texas, United States",
-"_locs": [
-"Austin, Texas, United States"
-],
-"allLocations": [
-"Austin, Texas, United States"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.schwabjobs.com/job/austin/associate-software-engineer/33727/101977388560",
-"publishedAt": "2026-11-06",
-"ats": "talentbrew"
-},
-{
 "company": "UnitedHealth Group",
 "title": "Associate Software Engineer",
 "location": "Minneapolis, Minnesota, United States",
@@ -479,25 +574,6 @@
 "ats": "talentbrew"
 },
 {
-"company": "Amentum",
-"title": "Early Career Spaceflight Hardware Propulsion Engineer",
-"location": "US-TX-Houston",
-"_locs": [
-"US-TX-Houston"
-],
-"allLocations": [
-"US-TX-Houston"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Early-Career-Spaceflight-Hardware-Propulsion-Engineer_R0171914-11",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
 "company": "Cleveland Clinic",
 "title": "Data Scientist I - Center for Diagnostics and Artificial Intelligence",
 "location": "Remote Location",
@@ -513,6 +589,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Data-Scientist-I---Center-for-Diagnostics-and-Artificial-Intelligence_356735",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Amentum",
+"title": "Early Career Spaceflight Hardware Propulsion Engineer",
+"location": "US-TX-Houston",
+"_locs": [
+"US-TX-Houston"
+],
+"allLocations": [
+"US-TX-Houston"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Early-Career-Spaceflight-Hardware-Propulsion-Engineer_R0171914-11",
 "publishedAt": "2026-11-06",
 "ats": "workday"
 },
@@ -754,25 +849,6 @@
 "ats": "workday"
 },
 {
-"company": "General Motors",
-"title": "Entry Level Mainframe Systems Engineer",
-"location": "Warren, Michigan, United States of America",
-"_locs": [
-"Warren, Michigan, United States of America"
-],
-"allLocations": [
-"Warren, Michigan, United States of America"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202623745",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
 "company": "Guidehouse",
 "title": "Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027",
 "location": "US - NC, Charlotte",
@@ -792,6 +868,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "General Motors",
+"title": "Entry Level Mainframe Systems Engineer",
+"location": "Warren, Michigan, United States of America",
+"_locs": [
+"Warren, Michigan, United States of America"
+],
+"allLocations": [
+"Warren, Michigan, United States of America"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202623745",
 "publishedAt": "2026-11-06",
 "ats": "workday"
 },
@@ -1206,23 +1301,42 @@
 "ats": "oracle"
 },
 {
-"company": "Dell Technologies",
-"title": "Hardware Engineer 1",
-"location": "Austin, TX, United States",
+"company": "Northrop Grumman",
+"title": "2027 Associate Systems Engineer (AHT) - Dulles VA",
+"location": "United States-Virginia-Dulles",
 "_locs": [
-"Austin, TX, United States"
+"United States-Virginia-Dulles"
 ],
 "allLocations": [
-"Austin, TX, United States"
+"United States-Virginia-Dulles"
 ],
 "remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298141",
+"salaryMin": 76200.0,
+"salaryMax": 114400.0,
+"salaryCurrency": "USD",
+"salaryInterval": "year",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Systems-Engineer--AHT----Dulles-VA_R10259487",
 "publishedAt": "2026-11-05",
-"ats": "oracle"
+"ats": "workday"
+},
+{
+"company": "Northrop Grumman",
+"title": "2027 Associate Cyber Systems Engineer - Roy UT",
+"location": "United States-Utah-Roy",
+"_locs": [
+"United States-Utah-Roy"
+],
+"allLocations": [
+"United States-Utah-Roy"
+],
+"remote": null,
+"salaryMin": 65800.0,
+"salaryMax": 98800.0,
+"salaryCurrency": "USD",
+"salaryInterval": "year",
+"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Cyber-Systems-Engineer---Roy-UT_R10259435",
+"publishedAt": "2026-11-05",
+"ats": "workday"
 },
 {
 "company": "RTX",
@@ -1301,40 +1415,22 @@
 "ats": "workday"
 },
 {
-"company": "Northrop Grumman",
-"title": "2027 Associate Systems Engineer (AHT) - Dulles VA",
-"location": "United States-Virginia-Dulles",
+"company": "Bank of America",
+"title": "Data Scientist I",
+"location": "Charlotte",
 "_locs": [
-"United States-Virginia-Dulles"
+"Charlotte"
 ],
 "allLocations": [
-"United States-Virginia-Dulles"
+"Charlotte",
+"Atlanta"
 ],
 "remote": null,
-"salaryMin": 76200.0,
-"salaryMax": 114400.0,
-"salaryCurrency": "USD",
-"salaryInterval": "year",
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Systems-Engineer--AHT----Dulles-VA_R10259487",
-"publishedAt": "2026-11-05",
-"ats": "workday"
-},
-{
-"company": "Northrop Grumman",
-"title": "2027 Associate Cyber Systems Engineer - Roy UT",
-"location": "United States-Utah-Roy",
-"_locs": [
-"United States-Utah-Roy"
-],
-"allLocations": [
-"United States-Utah-Roy"
-],
-"remote": null,
-"salaryMin": 65800.0,
-"salaryMax": 98800.0,
-"salaryCurrency": "USD",
-"salaryInterval": "year",
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Cyber-Systems-Engineer---Roy-UT_R10259435",
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ghr.wd1.myworkdayjobs.com/US-EMPLSV/job/Charlotte/Data-Scientist-I_26041127-3",
 "publishedAt": "2026-11-05",
 "ats": "workday"
 },
@@ -1383,26 +1479,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--Software-Developer_R0249796",
-"publishedAt": "2026-11-05",
-"ats": "workday"
-},
-{
-"company": "Bank of America",
-"title": "Data Scientist I",
-"location": "Charlotte",
-"_locs": [
-"Charlotte"
-],
-"allLocations": [
-"Charlotte",
-"Atlanta"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ghr.wd1.myworkdayjobs.com/US-EMPLSV/job/Charlotte/Data-Scientist-I_26041127-3",
 "publishedAt": "2026-11-05",
 "ats": "workday"
 },
@@ -1704,25 +1780,6 @@
 "url": "https://apply.workable.com/j/E8AF3CDFB3",
 "publishedAt": "2026-11-05",
 "ats": "workable"
-},
-{
-"company": "Pacific Northwest National Laboratory",
-"title": "Early Career Software Engineer",
-"location": "Richland, Washington",
-"_locs": [
-"Richland, Washington"
-],
-"allLocations": [
-"Richland, Washington"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": 83100.0,
-"salaryCurrency": "USD",
-"salaryInterval": "year",
-"url": "https://careers.pnnl.gov/jobs/12900",
-"publishedAt": "2026-11-04T22:17:00+0000",
-"ats": "radancy"
 },
 {
 "company": "NBCUniversal",
@@ -2410,25 +2467,6 @@
 "ats": "oracle"
 },
 {
-"company": "Northrop Grumman",
-"title": "2027 Converting Associate Embedded Software Engineer - Roy UT",
-"location": "United States-Utah-Roy",
-"_locs": [
-"United States-Utah-Roy"
-],
-"allLocations": [
-"United States-Utah-Roy"
-],
-"remote": null,
-"salaryMin": 65800.0,
-"salaryMax": 98800.0,
-"salaryCurrency": "USD",
-"salaryInterval": "year",
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Converting-Associate-Embedded-Software-Engineer---Roy-UT_R10259300",
-"publishedAt": "2026-11-04",
-"ats": "workday"
-},
-{
 "company": "Booz Allen",
 "title": "Software and Documentation Support Engineer, Junior",
 "location": "Port Hueneme, CA",
@@ -2625,25 +2663,6 @@
 "url": "https://apply.workable.com/j/649D50A2B8",
 "publishedAt": "2026-11-04",
 "ats": "workable"
-},
-{
-"company": "Shield AI",
-"title": "Software Development Engineer - New Graduate",
-"location": "San Diego, California",
-"_locs": [
-"San Diego, California"
-],
-"allLocations": [
-"San Diego, California"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c0735824-2b3c-46a2-a888-99e7376a9606",
-"publishedAt": "2026-11-03T22:12:25.680+00:00",
-"ats": "ashby"
 },
 {
 "company": "Cirrus",
@@ -3063,44 +3082,6 @@
 "ats": "workday"
 },
 {
-"company": "Northrop Grumman",
-"title": "2027 Associate Software Engineer - Boulder CO",
-"location": "United States-Colorado-Boulder",
-"_locs": [
-"United States-Colorado-Boulder"
-],
-"allLocations": [
-"United States-Colorado-Boulder"
-],
-"remote": null,
-"salaryMin": 76200.0,
-"salaryMax": 114400.0,
-"salaryCurrency": "USD",
-"salaryInterval": "year",
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
-"company": "Booz Allen",
-"title": "Software Engineer, Junior",
-"location": "Albuquerque, NM",
-"_locs": [
-"Albuquerque, NM"
-],
-"allLocations": [
-"Albuquerque, NM"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
 "company": "Bank of America",
 "title": "Client Quantitative Analyst I",
 "location": "Jacksonville",
@@ -3120,6 +3101,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://ghr.wd1.myworkdayjobs.com/US-EMPLSV/job/Jacksonville/Client-Quantitative-Analyst-I_26034513",
+"publishedAt": "2026-11-03",
+"ats": "workday"
+},
+{
+"company": "Booz Allen",
+"title": "Software Engineer, Junior",
+"location": "Albuquerque, NM",
+"_locs": [
+"Albuquerque, NM"
+],
+"allLocations": [
+"Albuquerque, NM"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700",
 "publishedAt": "2026-11-03",
 "ats": "workday"
 },
@@ -4920,25 +4920,6 @@
 "ats": "oracle"
 },
 {
-"company": "O'Reilly Auto Parts",
-"title": "IT Support Analyst I",
-"location": "Headquarters",
-"_locs": [
-"Headquarters"
-],
-"allLocations": [
-"Headquarters"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/IT-Support-Analyst-I_R208830",
-"publishedAt": "2026-10-27",
-"ats": "workday"
-},
-{
 "company": "Nationwide Children's Hospital",
 "title": "IT Project Scientist I - Research Data Navigation",
 "location": "431 S 18th St, Columbus, OH",
@@ -4992,6 +4973,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Hardware-Power-Engineer-1_JR003062",
+"publishedAt": "2026-10-27",
+"ats": "workday"
+},
+{
+"company": "O'Reilly Auto Parts",
+"title": "IT Support Analyst I",
+"location": "Headquarters",
+"_locs": [
+"Headquarters"
+],
+"allLocations": [
+"Headquarters"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://oreillyauto.wd1.myworkdayjobs.com/oreilly/job/Headquarters/IT-Support-Analyst-I_R208830",
 "publishedAt": "2026-10-27",
 "ats": "workday"
 },
@@ -5065,8 +5065,7 @@
 "title": "Security Engineer, 2027 Graduate U.S.",
 "location": "Seattle, Washington",
 "_locs": [
-"Seattle, Washington",
-"Seattle, WA, US"
+"Seattle, Washington"
 ],
 "allLocations": [
 "Seattle, Washington"
@@ -5153,374 +5152,6 @@
 "url": "https://job-boards.greenhouse.io/twitch/jobs/8917377002",
 "publishedAt": "2026-10-26T13:09:20-04:00",
 "ats": "greenhouse"
-},
-{
-"company": "General Dynamics Mission Systems",
-"title": "Software Engineer – Entry Level",
-"location": "Manassas, VA, US",
-"_locs": [
-"Manassas, VA, US"
-],
-"allLocations": [
-"Manassas, VA, US"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers-gdms.icims.com/jobs/75792/software-engineer-%e2%80%93-entry-level/job",
-"publishedAt": "2026-10-26T04:00:00.000Z",
-"ats": "icims"
-},
-{
-"company": "JPMorgan Chase",
-"title": "2027 Machine Learning Center of Excellence (Quant AI) - Summer Associate",
-"location": "Palo Alto, CA, United States",
-"_locs": [
-"Palo Alto, CA, United States"
-],
-"allLocations": [
-"Palo Alto, CA, United States"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803936",
-"publishedAt": "2026-10-26",
-"ats": "oracle"
-},
-{
-"company": "Amentum",
-"title": "Junior Web Developer",
-"location": "US-VA-Dahlgren",
-"_locs": [
-"US-VA-Dahlgren"
-],
-"allLocations": [
-"US-VA-Dahlgren"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-VA-Dahlgren/Junior-Web-Developer_R0172603",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Northrop Grumman",
-"title": "Associate Software Engineer / Software Engineer",
-"location": "United States-Alabama-Huntsville",
-"_locs": [
-"United States-Alabama-Huntsville"
-],
-"allLocations": [
-"United States-Alabama-Huntsville"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10257599",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Applied Materials",
-"title": "Global Software Support Engineer I",
-"location": "Austin,TX",
-"_locs": [
-"Austin,TX"
-],
-"allLocations": [
-"Austin,TX"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Global-Software-Support-Engineer-I_R2629992",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Cisco",
-"title": "ASIC Design Verification Engineer I (Full Time) - United States",
-"location": "San Jose, California, US",
-"_locs": [
-"San Jose, California, US"
-],
-"allLocations": [
-"San Jose, California, US",
-"RTP, North Carolina, US",
-"Carlsbad, California, US"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-Design-Verification-Engineer-I--Full-Time----United-States_2025368-1",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "The Home Depot",
-"title": "Associate Data Scientist - Generative BI",
-"location": "STORE SUPPORT CENTER, ATLANTA - 9090",
-"_locs": [
-"STORE SUPPORT CENTER, ATLANTA - 9090"
-],
-"allLocations": [
-"STORE SUPPORT CENTER, ATLANTA - 9090"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Generative-BI_Req192214",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "The Home Depot",
-"title": "Associate Data Scientist, Merchandise Execution Team (MET)",
-"location": "STORE SUPPORT CENTER, ATLANTA - 9090",
-"_locs": [
-"STORE SUPPORT CENTER, ATLANTA - 9090"
-],
-"allLocations": [
-"STORE SUPPORT CENTER, ATLANTA - 9090"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://homedepot.wd5.myworkdayjobs.com/CareerDepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist--Merchandise-Execution-Team--MET-_Req197209",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "RELX",
-"title": "Software Management Analyst I",
-"location": "USA - Raleigh, NC (RDU)",
-"_locs": [
-"USA - Raleigh, NC (RDU)"
-],
-"allLocations": [
-"USA - Raleigh, NC (RDU)",
-"Dayton, OH (Springboro Pk)"
-],
-"remote": null,
-"salaryMin": 53900.0,
-"salaryMax": 89800.0,
-"salaryCurrency": "USD",
-"salaryInterval": "year",
-"url": "https://relx.wd3.myworkdayjobs.com/relx/job/USA---Raleigh-NC-RDU/Software-Management-Analyst-I_R119922-1",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Teledyne",
-"title": "Associate Software Engineer",
-"location": "US - Huntsville, AL",
-"_locs": [
-"US - Huntsville, AL"
-],
-"allLocations": [
-"US - Huntsville, AL"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Baxter International",
-"title": "Research Scientist I",
-"location": "Round Lake, Illinois",
-"_locs": [
-"Round Lake, Illinois"
-],
-"allLocations": [
-"Round Lake, Illinois"
-],
-"remote": null,
-"salaryMin": 104000.0,
-"salaryMax": 143000.0,
-"salaryCurrency": "USD",
-"salaryInterval": "year",
-"url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Research-Scientist-I_JR-210052-1",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "The Aerospace Corporation",
-"title": "2027 Quantum Photonics Scientist - Engineer I",
-"location": "El Segundo, CA",
-"_locs": [
-"El Segundo, CA"
-],
-"allLocations": [
-"El Segundo, CA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://aero.wd5.myworkdayjobs.com/External/job/El-Segundo-CA/XMLNAME-2027-Quantum-Photonics-Scientist---Engineer-I_R016929",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Sierra Nevada Corporation",
-"title": "Systems Security Engineer I",
-"location": "Lone Tree, CO",
-"_locs": [
-"Lone Tree, CO"
-],
-"allLocations": [
-"Lone Tree, CO"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Security-Engineer-I_R0031267",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Travelers",
-"title": "Data Engineer I (AWS, Databricks)",
-"location": "GA - Atlanta",
-"_locs": [
-"GA - Atlanta"
-],
-"allLocations": [
-"GA - Atlanta"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://travelers.wd5.myworkdayjobs.com/External/job/GA---Atlanta/Data-Engineer-I--AWS--Databricks-_R-53262",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Travelers",
-"title": "Data Engineer I (Databricks, MLOps)",
-"location": "CT - Hartford",
-"_locs": [
-"CT - Hartford"
-],
-"allLocations": [
-"CT - Hartford",
-"MN - St. Paul"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--MLOps-_R-53249",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Travelers",
-"title": "Data Engineer I - Cloud Data Modernization - AWS, Databricks, DBT, SQL, AI",
-"location": "CT - Hartford",
-"_locs": [
-"CT - Hartford"
-],
-"allLocations": [
-"CT - Hartford",
-"MN - St. Paul"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I---Cloud-Data-Modernization---AWS--Databricks--DBT--SQL--AI_R-52933",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Travelers",
-"title": "Data Engineer I (AWS, Python, SQL)",
-"location": "CT - Hartford",
-"_locs": [
-"CT - Hartford"
-],
-"allLocations": [
-"CT - Hartford",
-"MN - St. Paul"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--SQL-_R-52876",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "LexisNexis Legal & Professional",
-"title": "Software Management Analyst I",
-"location": "USA - Raleigh, NC (RDU)",
-"_locs": [
-"USA - Raleigh, NC (RDU)"
-],
-"allLocations": [
-"USA - Raleigh, NC (RDU)",
-"Dayton, OH (Springboro Pk)"
-],
-"remote": null,
-"salaryMin": 53900.0,
-"salaryMax": 89800.0,
-"salaryCurrency": "USD",
-"salaryInterval": "year",
-"url": "https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/USA---Raleigh-NC-RDU/Software-Management-Analyst-I_R119922",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "maxRTE",
-"title": "Network & Security Engineer I",
-"location": "United States",
-"_locs": [
-"United States"
-],
-"allLocations": [
-"United States"
-],
-"remote": true,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.workable.com/j/42807B9BF3",
-"publishedAt": "2026-10-26",
-"ats": "workable"
 }
 ],
 "Canada": [
@@ -5827,25 +5458,6 @@
 "ats": "workable"
 },
 {
-"company": "Linamar",
-"title": "Application Developer, Junior",
-"location": "Guelph, ON, Canada",
-"_locs": [
-"Guelph, ON, Canada"
-],
-"allLocations": [
-"Guelph, ON, Canada"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://fa-epmd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3001/job/14747",
-"publishedAt": "2026-11-02",
-"ats": "oracle"
-},
-{
 "company": "AtkinsRéalis",
 "title": "Rail Infrastructure Student (Summer 2027)",
 "location": "CA.ON.Toronto.191 The West Mall",
@@ -6016,161 +5628,27 @@
 "url": "https://careers.planview.com/jobs/5182",
 "publishedAt": "2026-10-26T22:29:00+0000",
 "ats": "radancy"
-},
-{
-"company": "Royal Bank of Canada",
-"title": "Developer, RBC Amplify 2027, Vancouver",
-"location": "VANCOUVER, British Columbia, Canada",
-"_locs": [
-"VANCOUVER, British Columbia, Canada"
-],
-"allLocations": [
-"VANCOUVER, British Columbia, Canada"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/VANCOUVER-British-Columbia-Canada/Developer--RBC-Amplify-2027--Vancouver_R-0000191199-2",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Royal Bank of Canada",
-"title": "développeur, RBC amplifie 2027, Montréal / Developer, RBC Amplify 2027, Montreal",
-"location": "MONTRÉAL, Quebec, Canada",
-"_locs": [
-"MONTRÉAL, Quebec, Canada"
-],
-"allLocations": [
-"MONTRÉAL, Quebec, Canada"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/MONTRAL-Quebec-Canada/dveloppeur--RBC-amplifie-2027--Montral---Developer--RBC-Amplify-2027--Montreal_R-0000191206",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Royal Bank of Canada",
-"title": "Developer, RBC Amplify 2027, Toronto",
-"location": "TORONTO, Ontario, Canada",
-"_locs": [
-"TORONTO, Ontario, Canada"
-],
-"allLocations": [
-"TORONTO, Ontario, Canada"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/Developer--RBC-Amplify-2027--Toronto_R-0000191193",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Royal Bank of Canada",
-"title": "Developer, RBC Amplify 2027, Calgary",
-"location": "CALGARY, Alberta, Canada",
-"_locs": [
-"CALGARY, Alberta, Canada"
-],
-"allLocations": [
-"CALGARY, Alberta, Canada"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Developer--RBC-Amplify-2027--Calgary_R-0000191202",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Royal Bank of Canada",
-"title": "Data Engineer, RBC Amplify 2027, Calgary",
-"location": "CALGARY, Alberta, Canada",
-"_locs": [
-"CALGARY, Alberta, Canada"
-],
-"allLocations": [
-"CALGARY, Alberta, Canada"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/CALGARY-Alberta-Canada/Data-Engineer--RBC-Amplify-2027--Calgary_R-0000191201-2",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Royal Bank of Canada",
-"title": "Data Engineer, RBC Amplify 2027, Vancouver",
-"location": "410 GEORGIA ST W, FLOOR 3:VANCOUVER",
-"_locs": [
-"410 GEORGIA ST W, FLOOR 3:VANCOUVER"
-],
-"allLocations": [
-"410 GEORGIA ST W, FLOOR 3:VANCOUVER"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/410-GEORGIA-ST-W-FLOOR-3VANCOUVER/Data-Engineer--RBC-Amplify-2027--Vancouver_R-0000191198-2",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Motorola",
-"title": "Junior Software Engineer, Emergency Call Handling",
-"location": "Gatineau, Canada",
-"_locs": [
-"Gatineau, Canada"
-],
-"allLocations": [
-"Gatineau, Canada",
-"Ottawa, Canada"
-],
-"remote": null,
-"salaryMin": 70000.0,
-"salaryMax": 90000.0,
-"salaryCurrency": "CAD",
-"salaryInterval": "year",
-"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Gatineau-Canada/Junior-Software-Engineer--Emergency-Call-Handling_R67731",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "UK & Ireland": [
 {
-"company": "Capgemini",
-"title": "Graduate Software Engineering Programme September 2027",
-"location": "Telford, GB",
+"company": "Nominal",
+"title": "Graduate Software Engineer/Mission Dev Engineer - London",
+"location": "London, United Kingdom",
 "_locs": [
-"Telford, GB"
+"London, United Kingdom"
 ],
 "allLocations": [
-"Telford, GB"
+"London, United Kingdom"
 ],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-September-2027/1443172033/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
+"remote": false,
+"salaryMin": 86000.0,
+"salaryMax": 120000.0,
+"salaryCurrency": "GBP",
+"salaryInterval": "year",
+"url": "https://jobs.gem.com/nominal/am9icG9zdDq-S-CZabzn1Br_Eg1-thRF",
+"publishedAt": "2026-11-09T03:26:14.930Z",
+"ats": "gem"
 },
 {
 "company": "Kraken",
@@ -7030,263 +6508,179 @@
 "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/ET-2027---Graduate-Scheme--Data--Tech---Transformation_JR260761",
 "publishedAt": "2026-10-27",
 "ats": "workday"
-},
-{
-"company": "Leonardo",
-"title": "Graduate FPGA/Firmware Engineer",
-"location": "GB - Edinburgh",
-"_locs": [
-"GB - Edinburgh"
-],
-"allLocations": [
-"GB - Edinburgh",
-"GB - Newcastle"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-FPGA-Firmware-Engineer_R0034561",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Leonardo",
-"title": "Graduate Firmware Engineer",
-"location": "GB - Luton - Cap. Green 300",
-"_locs": [
-"GB - Luton - Cap. Green 300"
-],
-"allLocations": [
-"GB - Luton - Cap. Green 300"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Firmware-Engineer_R0032900",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Leonardo",
-"title": "Graduate Software Engineer",
-"location": "GB - Edinburgh",
-"_locs": [
-"GB - Edinburgh"
-],
-"allLocations": [
-"GB - Edinburgh"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Graduate-Software-Engineer_R0033861",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Leonardo",
-"title": "Graduate Systems Engineer",
-"location": "GB - Basildon",
-"_locs": [
-"GB - Basildon",
-"GB - Southampton"
-],
-"allLocations": [
-"GB - Basildon"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Graduate-Systems-Engineer_R0034612",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Leonardo",
-"title": "Graduate Product Security Engineer",
-"location": "GB - Luton - Cap. Green 300",
-"_locs": [
-"GB - Luton - Cap. Green 300"
-],
-"allLocations": [
-"GB - Luton - Cap. Green 300",
-"GB - Lincoln",
-"GB - Southampton",
-"GB - Basildon",
-"GB - Bristol - Coldharbour Lane"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Product-Security-Engineer_R0034173",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Motorola",
-"title": "Graduate Systems Engineer - Mobile MDT",
-"location": "Glasgow, UK (ZUK118)",
-"_locs": [
-"Glasgow, UK (ZUK118)"
-],
-"allLocations": [
-"Glasgow, UK (ZUK118)",
-"United Kingdom Offsite (ZUK99)"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Systems-Engineer--Guardian-Mobile-_R65951",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "RELX",
-"title": "Tech Accelerate Graduate Program - Software Engineer",
-"location": "London Wall",
-"_locs": [
-"London Wall"
-],
-"allLocations": [
-"London Wall"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://relx.wd3.myworkdayjobs.com/relx/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818-1",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Teledyne",
-"title": "Business Graduate – Business Analytics",
-"location": "UK - Lincoln",
-"_locs": [
-"UK - Lincoln"
-],
-"allLocations": [
-"UK - Lincoln"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Lincoln/Business-Graduate---Finance---Business-Analytics_REQ37176",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "LexisNexis Risk Solutions",
-"title": "Tech Accelerate Graduate Program - Software Engineer",
-"location": "London Wall",
-"_locs": [
-"London Wall"
-],
-"allLocations": [
-"London Wall"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "Europe": [
 {
 "company": "Capgemini",
-"title": "Associate Data Scientist",
-"location": "Bertrange, LU",
+"title": "Junior Java Developer",
+"location": "Iasi, RO",
 "_locs": [
-"Bertrange, LU",
+"Iasi, RO"
+],
+"allLocations": [
+"Iasi, RO"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.capgemini.com/job/Iasi-Junior-Java-Developer/1387960133/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "Junior Cloud Platform Engineer",
+"location": "Lisboa, PT",
+"_locs": [
 "Lisboa, PT"
 ],
 "allLocations": [
-"Bertrange, LU"
+"Lisboa, PT"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Bertrange-Associate-Data-Scientist/1235356901/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
+"url": "https://careers.capgemini.com/job/Lisboa-Junior-Cloud-Platform-Engineer/1431013233/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
 "ats": "successfactors"
 },
 {
 "company": "Capgemini",
-"title": "Junior Python Developer",
-"location": "Iasi, RO",
+"title": "Ingénieure / Ingénieur Logiciel Junior",
+"location": "Cesson Sevigne, FR",
 "_locs": [
-"Iasi, RO"
+"Cesson Sevigne, FR"
 ],
 "allLocations": [
-"Iasi, RO"
+"Cesson Sevigne, FR"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Iasi-Junior-Python-Developer/1427338033/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
+"url": "https://careers.capgemini.com/job/Cesson-Sevigne-Ing%C3%A9nieure-Ing%C3%A9nieur-Logiciel-Junior/1411938833/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
 "ats": "successfactors"
 },
 {
 "company": "Capgemini",
-"title": "Junior IT Support Agent (with Dutch)",
-"location": "Katowice, PL",
+"title": "Associate Data Engineer",
+"location": "Aix-en-Provence, FR",
 "_locs": [
-"Katowice, PL"
+"Aix-en-Provence, FR"
 ],
 "allLocations": [
-"Katowice, PL"
+"Aix-en-Provence, FR"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Katowice-Junior-IT-Support-Agent-%28with-Dutch%29/1443252533/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
+"url": "https://careers.capgemini.com/job/Aix-en-Provence-Associate-Data-Engineer/1195599501/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
 "ats": "successfactors"
 },
 {
 "company": "Capgemini",
-"title": "Junior ServiceNow Developer",
-"location": "Iasi, RO",
+"title": "JR Sourcing - Software Engineer",
+"location": "Issy-les-Moulineaux, FR",
 "_locs": [
-"Iasi, RO"
+"Issy-les-Moulineaux, FR"
 ],
 "allLocations": [
-"Iasi, RO"
+"Issy-les-Moulineaux, FR"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Iasi-Junior-ServiceNow-Developer/1443401133/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
+"url": "https://careers.capgemini.com/job/Issy-les-Moulineaux-JR-Sourcing-Software-Engineer/1424334633/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
 "ats": "successfactors"
+},
+{
+"company": "Airbus",
+"title": "Cyber Security - SOC Integrator & UseCase Factory Specialist - #CORE DIGITAL CAMPUS",
+"location": "Albacete",
+"_locs": [
+"Albacete"
+],
+"allLocations": [
+"Albacete"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/Cyber-Security---SOC-Integrator---UseCase-Factory-Specialist----CORE-DIGITAL-CAMPUS_JR10442347",
+"publishedAt": "2026-11-09",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "#CORE DIGITAL CAMPUS Platform Engineer",
+"location": "Albacete",
+"_locs": [
+"Albacete"
+],
+"allLocations": [
+"Albacete"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--CORE-DIGITAL-CAMPUS-Platform-Engineer_JR10450439",
+"publishedAt": "2026-11-09",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "#DIGITAL CAMPUS - Observability IT operation specialist",
+"location": "Albacete",
+"_locs": [
+"Albacete"
+],
+"allLocations": [
+"Albacete"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--DIGITAL-CAMPUS---Observability-IT-operation-specialist_JR10450677",
+"publishedAt": "2026-11-09",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "#DIGITAL CAMPUS - Solution Architect for Scientific Computing",
+"location": "Albacete",
+"_locs": [
+"Albacete"
+],
+"allLocations": [
+"Albacete"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--DIGITAL-CAMPUS---Solution-Architect-for-Scientific-Computing_JR10446661",
+"publishedAt": "2026-11-09",
+"ats": "workday"
 },
 {
 "company": "Capgemini",
@@ -7304,25 +6698,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://careers.capgemini.com/job/Katowice-Junior-Infrastructure-Engineer-%28with-German%29/1418151833/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Capgemini",
-"title": "Junior .NET Developer",
-"location": "Wrocław, PL",
-"_locs": [
-"Wrocław, PL"
-],
-"allLocations": [
-"Wrocław, PL"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Wroc%C5%82aw-Junior-_NET-Developer/1453874933/",
 "publishedAt": "2026-11-08T04:27:54.745918+00:00",
 "ats": "successfactors"
 },
@@ -7435,25 +6810,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "Airbus",
-"title": "#Discover I 2027-2028 AI Repair Solutions",
-"location": "Sevilla - Tablada",
-"_locs": [
-"Sevilla - Tablada"
-],
-"allLocations": [
-"Sevilla - Tablada"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-AI-Repair-Solutions_JR10455556",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
 "company": "Cisco",
 "title": "Junior Platform Software Engineer (Go or Python), Core Platform - Splunk",
 "location": "Krakow, Poland",
@@ -7488,6 +6844,44 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://tsys.wd1.myworkdayjobs.com/TSYS/job/ZAGREB--CROATIA/Junior-Software-Developer_R0076037",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "#Discover I 2027-2028 AI Repair Solutions",
+"location": "Sevilla - Tablada",
+"_locs": [
+"Sevilla - Tablada"
+],
+"allLocations": [
+"Sevilla - Tablada"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-AI-Repair-Solutions_JR10455556",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Accenture",
+"title": "Data & AI Graduate Programme '27",
+"location": "Lisbon",
+"_locs": [
+"Lisbon"
+],
+"allLocations": [
+"Lisbon"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon/Data---AI-Graduate-Programme--27_R00369211",
 "publishedAt": "2026-11-06",
 "ats": "workday"
 },
@@ -7706,25 +7100,6 @@
 "ats": "phenom"
 },
 {
-"company": "Accenture",
-"title": "Junior Data Analyst – Adobe Experience Platform & CJA",
-"location": "Malaga, I+D6 - South Building",
-"_locs": [
-"Malaga, I+D6 - South Building"
-],
-"allLocations": [
-"Malaga, I+D6 - South Building"
-],
-"remote": true,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-ID6---South-Building/Junior-Data-Analyst---Adobe-Experience-Platform---CJA_14274319",
-"publishedAt": "2026-11-05",
-"ats": "workday"
-},
-{
 "company": "Cisco",
 "title": "Junior Software Engineer, Metadata Catalog - Splunk",
 "location": "Krakow, Poland",
@@ -7798,6 +7173,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/VESZPREM---VES2/Junior-Hardware-mrnk_REQ2026079752",
+"publishedAt": "2026-11-05",
+"ats": "workday"
+},
+{
+"company": "Accenture",
+"title": "Junior Data Analyst – Adobe Experience Platform & CJA",
+"location": "Malaga, I+D6 - South Building",
+"_locs": [
+"Malaga, I+D6 - South Building"
+],
+"allLocations": [
+"Malaga, I+D6 - South Building"
+],
+"remote": true,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Malaga-ID6---South-Building/Junior-Data-Analyst---Adobe-Experience-Platform---CJA_14274319",
 "publishedAt": "2026-11-05",
 "ats": "workday"
 },
@@ -7990,44 +7384,6 @@
 "ats": "oracle"
 },
 {
-"company": "Airbus",
-"title": "SNR 2027 - Security & Gouvernance (ALL GENDER)",
-"location": "Nantes Area",
-"_locs": [
-"Nantes Area"
-],
-"allLocations": [
-"Nantes Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Nantes-Area/SNR-2027---Security---Gouvernance--ALL-GENDER-_JR10454435",
-"publishedAt": "2026-11-04",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "Junior Software Platform Integration Engineer",
-"location": "Getafe Area",
-"_locs": [
-"Getafe Area"
-],
-"allLocations": [
-"Getafe Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Senior-Software-Platform-Integration-Engineer_JR10430082-1",
-"publishedAt": "2026-11-04",
-"ats": "workday"
-},
-{
 "company": "Mastercard",
 "title": "Junior Network Provisioning Engineer",
 "location": "Waterloo, Belgium",
@@ -8062,6 +7418,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Torino---Cso-Francia/VEL---Ground-Support-Systems--GSS--SW-Developer-Junior_R0034565",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "SNR 2027 - Security & Gouvernance (ALL GENDER)",
+"location": "Nantes Area",
+"_locs": [
+"Nantes Area"
+],
+"allLocations": [
+"Nantes Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Nantes-Area/SNR-2027---Security---Gouvernance--ALL-GENDER-_JR10454435",
 "publishedAt": "2026-11-04",
 "ats": "workday"
 },
@@ -9242,86 +8617,9 @@
 "url": "https://jobs.smartrecruiters.com/METGroup/744000157734679",
 "publishedAt": "2026-10-26T07:44:18.656Z",
 "ats": "smartrecruiters"
-},
-{
-"company": "AXI Holding Services",
-"title": "Junior Netwerk en Security Engineer",
-"location": "Mechelen, Antwerpen, België",
-"_locs": [
-"Mechelen, Antwerpen, België"
-],
-"allLocations": [
-"AXI Digital",
-"Netleaf"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.axi.be/o/junior-netwerk-en-security-engineer",
-"publishedAt": "2026-10-26 10:04:28 UTC",
-"ats": "recruitee"
-},
-{
-"company": "Fortinet",
-"title": "Junior Systems Engineer",
-"location": "Zürich, ZH, Switzerland",
-"_locs": [
-"Zürich, ZH, Switzerland"
-],
-"allLocations": [
-"Zürich, ZH, Switzerland"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24761",
-"publishedAt": "2026-10-26",
-"ats": "oracle"
-},
-{
-"company": "Freudenberg Group",
-"title": "Computer Science Expert - system integration 2027 (m/f/d)",
-"location": "Weinheim",
-"_locs": [
-"Weinheim"
-],
-"allLocations": [
-"Weinheim"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://freudenberg.wd3.myworkdayjobs.com/freudenberg-group/job/Weinheim/Ausbildung-zum-Fachinformatiker-in-der-Fachrichtung-Systemintegration-2027--m-w-d-_R_00101232",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "India": [
-{
-"company": "Capgemini",
-"title": "Associate Data Modeller",
-"location": "Noida, IN",
-"_locs": [
-"Noida, IN"
-],
-"allLocations": [
-"Noida, IN"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Noida-Associate-Data-Modeller/1427815033/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
-},
 {
 "company": "Capgemini",
 "title": "Associate Software Engineer",
@@ -9517,8 +8815,7 @@
 "title": "Analyst I Software Engineering",
 "location": "IND - MH - MUMBAI",
 "_locs": [
-"IND - MH - MUMBAI",
-"IND - HR - NOIDA"
+"IND - MH - MUMBAI"
 ],
 "allLocations": [
 "IND - MH - MUMBAI"
@@ -10026,44 +9323,6 @@
 "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/06014",
 "publishedAt": "2026-10-27",
 "ats": "oracle"
-},
-{
-"company": "Amgen",
-"title": "Associate Data Engineer",
-"location": "India - Hyderabad",
-"_locs": [
-"India - Hyderabad"
-],
-"allLocations": [
-"India - Hyderabad"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Engineer_R-256205",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Amgen",
-"title": "Associate Data Science",
-"location": "India - Hyderabad",
-"_locs": [
-"India - Hyderabad"
-],
-"allLocations": [
-"India - Hyderabad"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Science_R-248367",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "Asia-Pacific": [
@@ -10081,28 +9340,26 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8646746002/",
-"publishedAt": "2026-11-08T04:28:30+00:00",
+"url": "https://www.janestreet.com/join-jane-street/position/8637960002/",
+"publishedAt": "2026-11-09T04:34:20+00:00",
 "ats": "janestreet"
 },
 {
-"company": "Capgemini",
-"title": "Junior Software Engineer (C++ Middleware & Interfaces)",
-"location": "Singapore, SG",
+"company": "Deloitte NZ",
+"title": "2027 Graduate | Digital Assurance - Analytics | Auckland",
+"location": "Auckland, Auckland, New Zealand",
 "_locs": [
-"Singapore, SG"
+"Auckland, Auckland, New Zealand"
 ],
-"allLocations": [
-"Singapore, SG"
-],
-"remote": null,
+"allLocations": null,
+"remote": false,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Singapore-Junior-Software-Engineer-%28C%2B%2B-Middleware-&-Interfaces%29/1451965233/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
+"url": "https://jobs.smartrecruiters.com/DeloitteNZ/6000000001557987",
+"publishedAt": "2026-11-08T21:10:51.093Z",
+"ats": "smartrecruiters"
 },
 {
 "company": "Endava",
@@ -10362,23 +9619,6 @@
 "url": "https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/Chengdu---China/IT-Software-Engineer-CN-Campus-_R-2091",
 "publishedAt": "2026-11-05",
 "ats": "workday"
-},
-{
-"company": "Deloitte NZ",
-"title": "2027 Graduate | Digital Assurance - Analytics | Auckland",
-"location": "Auckland, Auckland, New Zealand",
-"_locs": [
-"Auckland, Auckland, New Zealand"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/DeloitteNZ/6000000001550437",
-"publishedAt": "2026-11-04T23:46:15.110Z",
-"ats": "smartrecruiters"
 },
 {
 "company": "Jane Street",
@@ -10785,25 +10025,6 @@
 "ats": "workable"
 },
 {
-"company": "Axos Bank",
-"title": "Jr. QA Engineer",
-"location": "Manila, Philippines",
-"_locs": [
-"Manila, Philippines"
-],
-"allLocations": [
-"Manila, Philippines"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Intermediate-QA-Automation-Engineer_JR5544",
-"publishedAt": "2026-10-30",
-"ats": "workday"
-},
-{
 "company": "NVIDIA",
 "title": "Custom SOC ASIC Engineer - New College Grad 2027",
 "location": "China, Shanghai",
@@ -10955,25 +10176,6 @@
 "ats": "workday"
 },
 {
-"company": "Axos Bank",
-"title": "Jr. Site Reliability Engineer",
-"location": "Manila, Philippines",
-"_locs": [
-"Manila, Philippines"
-],
-"allLocations": [
-"Manila, Philippines"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Manila-Philippines/Jr-Site-Reliability-Engineer_JR5713",
-"publishedAt": "2026-10-27",
-"ats": "workday"
-},
-{
 "company": "Thoughtworks",
 "title": "Associate-Graduate:Developer",
 "location": "Singapore, Singapore",
@@ -11010,146 +10212,47 @@
 "url": "https://jobs.ashbyhq.com/halter/8dd5861e-2cd6-437f-a89b-50e72f169623",
 "publishedAt": "2026-10-26T05:00:53.704+00:00",
 "ats": "ashby"
-},
-{
-"company": "Sitemate",
-"title": "Junior Full Stack Engineer - Hybrid",
-"location": "Melbourne Office",
-"_locs": [
-"Melbourne Office"
-],
-"allLocations": [
-"Melbourne Office",
-"Sydney Office"
-],
-"remote": false,
-"salaryMin": 85000.0,
-"salaryMax": 115000.0,
-"salaryCurrency": "AUD",
-"salaryInterval": "year",
-"url": "https://jobs.ashbyhq.com/Sitemate/d108a38b-3454-4f92-ad9e-763d0e68d23f",
-"publishedAt": "2026-10-26T01:03:34.415+00:00",
-"ats": "ashby"
-},
-{
-"company": "Boston Consulting Group",
-"title": "Forward Deployed AI Scientist, GC Campus (For 2027 intake) - BCG X",
-"location": "Hong Kong, Greater China",
-"_locs": [
-"Hong Kong, Greater China"
-],
-"allLocations": [
-"Hong Kong, Greater China",
-"Taipei, Greater China",
-"Shanghai, Greater China",
-"Shenzhen, Greater China"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://studenttalent.bcg.com/careerhub/explore/jobs/790317676512?post_onboarding_pid=790317676512&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom",
-"publishedAt": "2026-10-26T00:00:00+00:00",
-"ats": "phenom"
-},
-{
-"company": "Citi",
-"title": "Technology- Cyber Security, Full Time Analyst, Philippines 2027",
-"location": "City of Taguig, NCR, PH",
-"_locs": [
-"City of Taguig, NCR, PH"
-],
-"allLocations": [
-"City of Taguig, NCR, PH"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.citi.com/job/city-of-taguig/technology-cyber-security-full-time-analyst-philippines-2027/287/102455436896",
-"publishedAt": "2026-10-26",
-"ats": "talentbrew"
-},
-{
-"company": "Citi",
-"title": "Technology-Infrastructure, Full Time Analyst, Philippines 2027",
-"location": "City of Taguig, NCR, PH",
-"_locs": [
-"City of Taguig, NCR, PH"
-],
-"allLocations": [
-"City of Taguig, NCR, PH"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.citi.com/job/city-of-taguig/technology-infrastructure-full-time-analyst-philippines-2027/287/102455436176",
-"publishedAt": "2026-10-26",
-"ats": "talentbrew"
-},
-{
-"company": "Citi",
-"title": "Reference Data Management Junior Analyst  - APAC Shift",
-"location": "City of Taguig, NCR, PH",
-"_locs": [
-"City of Taguig, NCR, PH"
-],
-"allLocations": [
-"City of Taguig, NCR, PH"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.citi.com/job/city-of-taguig/reference-data-management-junior-analyst-apac-shift/287/102161064736",
-"publishedAt": "2026-10-26",
-"ats": "talentbrew"
-},
-{
-"company": "NVIDIA",
-"title": "ASIC Engineer, Networking Chip Design - New College Grad 2027",
-"location": "China, Shanghai",
-"_locs": [
-"China, Shanghai"
-],
-"allLocations": [
-"China, Shanghai"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Engineer--Networking-Chip-Design---New-College-Grad-2027_JR2028456",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "NVIDIA",
-"title": "ASIC Physical Design Engineer - New College Grad 2027",
-"location": "China, Shanghai",
-"_locs": [
-"China, Shanghai"
-],
-"allLocations": [
-"China, Shanghai"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Physical-Design-Engineer---New-College-Grad-2027_JR2028452",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "Latin America": [
+{
+"company": "Capgemini",
+"title": "Jr Embedded Engineer (AUTOSAR) - Remote",
+"location": "Aguascalientes, MX",
+"_locs": [
+"Aguascalientes, MX"
+],
+"allLocations": [
+"Aguascalientes, MX"
+],
+"remote": true,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.capgemini.com/job/Aguascalientes-Jr-Embedded-Engineer-%28AUTOSAR%29-Remote/1449634833/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "ABL - Developer APIS & Microservices Jr",
+"location": "Aguascalientes, MX",
+"_locs": [
+"Aguascalientes, MX"
+],
+"allLocations": [
+"Aguascalientes, MX"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.capgemini.com/job/Aguascalientes-ABL-Developer-APIS-&-Microservices-Jr/1450517233/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
 {
 "company": "Capgemini",
 "title": "Jr Automotive Embedded Software Engineer (AUTOSAR) - Onsite in Querétaro",
@@ -11228,25 +10331,6 @@
 },
 {
 "company": "Capgemini",
-"title": "Capgemini Internal - AI Engineer Jr",
-"location": "Aguascalientes, MX",
-"_locs": [
-"Aguascalientes, MX"
-],
-"allLocations": [
-"Aguascalientes, MX"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Aguascalientes-Capgemini-Internal-AI-Engineer-Jr/1437291233/",
-"publishedAt": "2026-11-06T04:08:38.760239+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Capgemini",
 "title": "Junior Software Test Engineer",
 "location": "Aguascalientes, MX",
 "_locs": [
@@ -11282,25 +10366,6 @@
 "url": "https://jobs.volvogroup.com/job/Curitiba-Entry-Level-Data-Scientist-Affirmative-Opportunity-for-People-with-Disabilities-81260-900/1373493055/",
 "publishedAt": "2026-11-06T04:08:38.760239+00:00",
 "ats": "successfactors"
-},
-{
-"company": "Banco Bilbao Vizcaya Argentaria",
-"title": "DATA SPECIALIST ANALYST I",
-"location": "Lima, San Isidro",
-"_locs": [
-"Lima, San Isidro"
-],
-"allLocations": [
-"Lima, San Isidro"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/DATA-SPECIALIST-ANALYST-I_JR00118350",
-"publishedAt": "2026-11-06",
-"ats": "workday"
 },
 {
 "company": "Ingram Micro",
@@ -11356,25 +10421,6 @@
 "url": "https://jobs.smartrecruiters.com/BoschGroup/744000159862638",
 "publishedAt": "2026-11-05T13:03:17.605Z",
 "ats": "smartrecruiters"
-},
-{
-"company": "Banco Bilbao Vizcaya Argentaria",
-"title": "SOFTWARE SOLUTIONS DEVELOPMENT ANALYST I",
-"location": "Lima, San Isidro",
-"_locs": [
-"Lima, San Isidro"
-],
-"allLocations": [
-"Lima, San Isidro"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://bbva.wd3.myworkdayjobs.com/BBVA/job/Lima-San-Isidro/SOFTWARE-SOLUTIONS-DEVELOPMENT-ANALYST-I_JR00117859-1",
-"publishedAt": "2026-11-05",
-"ats": "workday"
 },
 {
 "company": "Marsh McLennan",
@@ -11466,25 +10512,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/So-Paulo/Jr-Analyst--QA-Compliance_JR-212243",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
-"company": "Nissan Global",
-"title": "Security Jr Analyst",
-"location": "NTC, Rio de Janeiro – Brasil",
-"_locs": [
-"NTC, Rio de Janeiro – Brasil"
-],
-"allLocations": [
-"NTC, Rio de Janeiro – Brasil"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/NTC-Rio-de-Janeiro--Brasil/Security-Jr-Analyst_R00215877-1",
 "publishedAt": "2026-11-03",
 "ats": "workday"
 },
@@ -11599,25 +10626,6 @@
 "url": "https://apply.workable.com/j/361C1FC669",
 "publishedAt": "2026-10-27",
 "ats": "workable"
-},
-{
-"company": "DXC Technology",
-"title": "Analyst I Data Engineering",
-"location": "CHL - RM - SANTIAGO",
-"_locs": [
-"CHL - RM - SANTIAGO"
-],
-"allLocations": [
-"CHL - RM - SANTIAGO"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/CHL---RM---SANTIAGO/Analyst-I-Data-Engineering_51592033",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "Remote, other": [
@@ -11739,6 +10747,76 @@
 "United States": [
 {
 "company": "Jane Street",
+"title": "Machine Learning Researcher (Summer Internship)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.janestreet.com/join-jane-street/position/8384490002/",
+"publishedAt": "2026-11-09T04:34:20+00:00",
+"ats": "janestreet"
+},
+{
+"company": "Jane Street",
+"title": "Quantitative Researcher (Summer Internship)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
+"publishedAt": "2026-11-09T04:34:20+00:00",
+"ats": "janestreet"
+},
+{
+"company": "Citadel",
+"title": "Quantitative Research Analyst Intern",
+"location": "United States",
+"_locs": [
+"United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-us/",
+"publishedAt": "2026-11-09T04:34:20+00:00",
+"ats": "citadel"
+},
+{
+"company": "Capgemini",
+"title": "Werkstudent AI Adoption (w/m/d)",
+"location": "Berlin, DE",
+"_locs": [
+"Berlin, DE"
+],
+"allLocations": [
+"Berlin, DE"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.capgemini.com/job/Berlin-Werkstudent-AI-Adoption-%28wmd%29/1454881533/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Jane Street",
 "title": "Quantitative Trader (Summer Internship)",
 "location": "New York, NY, US",
 "_locs": [
@@ -11790,25 +10868,6 @@
 },
 {
 "company": "Capgemini",
-"title": "Praktikant / Werkstudent Web/Mobile Developer (w/m/d)",
-"location": "Stuttgart, DE",
-"_locs": [
-"Stuttgart, DE"
-],
-"allLocations": [
-"Stuttgart, DE"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Stuttgart-Praktikant-Werkstudent-WebMobile-Developer-%28wmd%29/1281269601/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Capgemini",
 "title": "Duales Studium Informatik Bachelor of Science (w/m/d)",
 "location": "Frankfurt, DE",
 "_locs": [
@@ -11844,6 +10903,25 @@
 "url": "https://careers.capgemini.com/job/Erfurt-Duales-Studium-zum-Bachelor-of-Engineering-Praktische-Informatik-%28wmd%29/1273496101/",
 "publishedAt": "2026-11-08T04:27:54.745918+00:00",
 "ats": "successfactors"
+},
+{
+"company": "Samsung",
+"title": "ePro Business & Data Analyst Intern",
+"location": "6625 Excellence Way, Plano, TX, USA",
+"_locs": [
+"6625 Excellence Way, Plano, TX, USA"
+],
+"allLocations": [
+"6625 Excellence Way, Plano, TX, USA"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996",
+"publishedAt": "2026-11-08",
+"ats": "workday"
 },
 {
 "company": "Jane Street",
@@ -11898,25 +10976,6 @@
 },
 {
 "company": "Cintas",
-"title": "IT Intern - Security, Governance, Risk, & Compliance",
-"location": "Mason, OH, US",
-"_locs": [
-"Mason, OH, US"
-],
-"allLocations": [
-"Mason, OH, US"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/",
-"publishedAt": "2026-11-07T04:29:20.317620+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Cintas",
 "title": "IT Intern - SAP BASIS",
 "location": "Mason, OH, US",
 "_locs": [
@@ -11931,6 +10990,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://careers.cintas.com/job/Mason-IT-Intern-SAP-BASIS-OH-45040/1448629500/",
+"publishedAt": "2026-11-07T04:29:20.317620+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Cintas",
+"title": "IT Intern - Security, Governance, Risk, & Compliance",
+"location": "Mason, OH, US",
+"_locs": [
+"Mason, OH, US"
+],
+"allLocations": [
+"Mason, OH, US"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.cintas.com/job/Mason-IT-Intern-Security%2C-Governance%2C-Risk%2C-&-Compliance-OH-45040/1448473300/",
 "publishedAt": "2026-11-07T04:29:20.317620+00:00",
 "ats": "successfactors"
 },
@@ -12067,23 +11145,6 @@
 "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
 "publishedAt": "2026-11-06T23:14:17.184000+00:00",
 "ats": "lever"
-},
-{
-"company": "Microsoft",
-"title": "Research Intern - AI & Human Systems",
-"location": "New York, New York, United States; Cambridge, Massachusetts, United States",
-"_locs": [
-"New York, New York, United States; Cambridge, Massachusetts, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-"publishedAt": "2026-11-06T22:58:21+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Parspec",
@@ -12657,25 +11718,6 @@
 "ats": "greenhouse"
 },
 {
-"company": "Gannett Fleming",
-"title": "Intern - Data Analytics",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": [
-"New York, NY, US"
-],
-"remote": null,
-"salaryMin": 21.0,
-"salaryMax": 28.0,
-"salaryCurrency": "USD",
-"salaryInterval": "hour",
-"url": "https://careers-gannettfleming.icims.com/jobs/15085/intern---data-analytics/job",
-"publishedAt": "2026-11-06T05:00:00.000Z",
-"ats": "icims"
-},
-{
 "company": "SAS",
 "title": "Summer 2027 - Data Scientist Intern",
 "location": "Cary HQ, NC, US",
@@ -12714,40 +11756,6 @@
 "ats": "lever"
 },
 {
-"company": "Jane Street",
-"title": "Hardware Engineer (FPGA/ASIC) (Summer Internship)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
-"publishedAt": "2026-11-06T04:09:21+00:00",
-"ats": "janestreet"
-},
-{
-"company": "Jane Street",
-"title": "Machine Learning Engineer (Summer Internship)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
-"publishedAt": "2026-11-06T04:09:21+00:00",
-"ats": "janestreet"
-},
-{
 "company": "Citadel",
 "title": "Quantitative Trader Equity Quantitative Research Intern",
 "location": "United States",
@@ -12780,25 +11788,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://careers.cintas.com/job/Mason-IT-Intern-Desktop-OH-45040/1448096500/",
-"publishedAt": "2026-11-06T04:08:38.760239+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Capgemini",
-"title": "Werkstudent Software Engineering (w/m/d)",
-"location": "Berlin, DE",
-"_locs": [
-"Berlin, DE"
-],
-"allLocations": [
-"Berlin, DE"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Berlin-Werkstudent-Software-Engineering-%28wmd%29/1281529601/",
 "publishedAt": "2026-11-06T04:08:38.760239+00:00",
 "ats": "successfactors"
 },
@@ -13082,46 +12071,6 @@
 "ats": "workday"
 },
 {
-"company": "Cushman & Wakefield",
-"title": "Mechatronics & Robotics Apprentice",
-"location": "Client Site - USA - CA - Rialto - 1568 N LINDEN AVE",
-"_locs": [
-"Client Site - USA - CA - Rialto - 1568 N LINDEN AVE",
-"Client Site - USA - CA - Rancho Cordova - 3300 Rancho Cordova Pkwy",
-"Client Site - USA - MA - North Andover - 1450 Osgood Landing"
-],
-"allLocations": [
-"Client Site - USA - CA - Rialto - 1568 N LINDEN AVE"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---CA---Rialto---1568-N-LINDEN-AVE/Mechatronics---Robotics-Apprentice_R342649",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
-"company": "Hitachi",
-"title": "Full Stack Developer Intern",
-"location": "Dallas, Texas, United States",
-"_locs": [
-"Dallas, Texas, United States"
-],
-"allLocations": [
-"Dallas, Texas, United States"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Full-Stack-Developer-Intern_R0149426",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
 "company": "Uhaul",
 "title": "Data Analyst Spring Internship",
 "location": "Phoenix, Arizona",
@@ -13156,6 +12105,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Hitachi",
+"title": "Full Stack Developer Intern",
+"location": "Dallas, Texas, United States",
+"_locs": [
+"Dallas, Texas, United States"
+],
+"allLocations": [
+"Dallas, Texas, United States"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Dallas-Texas-United-States/Full-Stack-Developer-Intern_R0149426",
 "publishedAt": "2026-11-06",
 "ats": "workday"
 },
@@ -13240,8 +12208,7 @@
 "title": "Systems Engineering Intern - Summer",
 "location": "CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA",
 "_locs": [
-"CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA",
-"CAN05: CCS-Charlotte, 5900 Northwoods Business Parkway, Charlotte, NC, 28269 USA"
+"CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA"
 ],
 "allLocations": [
 "CAG01: CTD-Athens, 700 Olympic Drive, Athens, GA, 30601 USA"
@@ -13511,6 +12478,27 @@
 "ats": "workday"
 },
 {
+"company": "Cushman & Wakefield",
+"title": "Mechatronics & Robotics Apprentice",
+"location": "Client Site - USA - CA - Rialto - 1568 N LINDEN AVE",
+"_locs": [
+"Client Site - USA - CA - Rialto - 1568 N LINDEN AVE",
+"Client Site - USA - CA - Rancho Cordova - 3300 Rancho Cordova Pkwy",
+"Client Site - USA - MA - North Andover - 1450 Osgood Landing"
+],
+"allLocations": [
+"Client Site - USA - CA - Rialto - 1568 N LINDEN AVE"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://cw.wd1.myworkdayjobs.com/External/job/Client-Site---USA---CA---Rialto---1568-N-LINDEN-AVE/Mechatronics---Robotics-Apprentice_R342649",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
 "company": "ASM",
 "title": "Intern, Product Intelligence Engineering (AI/ML)",
 "location": "US > Arizona > Phoenix",
@@ -13528,25 +12516,6 @@
 "url": "https://www.asm.com/open-vacancies/?gh_jid=5029228101",
 "publishedAt": "2026-11-05T23:17:49-05:00",
 "ats": "greenhouse"
-},
-{
-"company": "State Farm",
-"title": "Summer 2027 Intern-P&C Actuarial & Underwriting Modeling - Data Scientist",
-"location": "Bloomington, Illinois; Richardson, Texas; Tempe, Arizona; Dunwoody, Georgia",
-"_locs": [
-"Bloomington, Illinois; Richardson, Texas; Tempe, Arizona; Dunwoody, Georgia"
-],
-"allLocations": [
-"Bloomington, Illinois; Richardson, Texas; Tempe, Arizona; Dunwoody, Georgia"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.statefarm.com/jobs/46227",
-"publishedAt": "2026-11-05T22:25:00+0000",
-"ats": "radancy"
 },
 {
 "company": "Red Wing Shoe Company",
@@ -14272,21 +13241,40 @@
 "ats": "workday"
 },
 {
-"company": "Northrop Grumman",
-"title": "2027 Systems Engineer Intern - Cape Canaveral FL",
-"location": "United States-Florida-Cape Canaveral",
+"company": "Fresenius Medical Care",
+"title": "Software Engineering Co-op",
+"location": "Lawrence, MA, USA",
 "_locs": [
-"United States-Florida-Cape Canaveral"
+"Lawrence, MA, USA"
 ],
 "allLocations": [
-"United States-Florida-Cape Canaveral"
+"Lawrence, MA, USA"
 ],
-"remote": null,
-"salaryMin": 18.5,
-"salaryMax": 33.5,
-"salaryCurrency": "USD",
-"salaryInterval": "hour",
-"url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Cape-Canaveral/XMLNAME-2027-Systems-Engineer-Intern---Cape-Canaveral-FL_R10251849",
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
+"publishedAt": "2026-11-05",
+"ats": "workday"
+},
+{
+"company": "Fresenius Medical Care",
+"title": "Embedded Software Co-Op",
+"location": "Lawrence, MA, USA",
+"_locs": [
+"Lawrence, MA, USA"
+],
+"allLocations": [
+"Lawrence, MA, USA"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960",
 "publishedAt": "2026-11-05",
 "ats": "workday"
 },
@@ -14344,44 +13332,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Dayton-OH/University---2027-Summer-Games-Software-Developer-Intern---Dayton--OH_R0252345",
-"publishedAt": "2026-11-05",
-"ats": "workday"
-},
-{
-"company": "Fresenius Medical Care",
-"title": "Software Engineering Co-op",
-"location": "Lawrence, MA, USA",
-"_locs": [
-"Lawrence, MA, USA"
-],
-"allLocations": [
-"Lawrence, MA, USA"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Software-Engineering-Co-op_R0271309",
-"publishedAt": "2026-11-05",
-"ats": "workday"
-},
-{
-"company": "Fresenius Medical Care",
-"title": "Embedded Software Co-Op",
-"location": "Lawrence, MA, USA",
-"_locs": [
-"Lawrence, MA, USA"
-],
-"allLocations": [
-"Lawrence, MA, USA"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960",
 "publishedAt": "2026-11-05",
 "ats": "workday"
 },
@@ -14539,25 +13489,6 @@
 "ats": "workday"
 },
 {
-"company": "Centene",
-"title": "Provider Data Management Undergraduate Summer Intern",
-"location": "Remote-IL",
-"_locs": [
-"Remote-IL"
-],
-"allLocations": [
-"Remote-IL"
-],
-"remote": true,
-"salaryMin": 18.0,
-"salaryMax": 26.0,
-"salaryCurrency": "USD",
-"salaryInterval": "hour",
-"url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-IL/Provider-Data-Management-Undergraduate-Summer-Intern_1667855",
-"publishedAt": "2026-11-05",
-"ats": "workday"
-},
-{
 "company": "PayPal",
 "title": "Cybersecurity Intern - Summer 2027",
 "location": "San Jose, California, United States of America",
@@ -14702,6 +13633,25 @@
 "ats": "workday"
 },
 {
+"company": "Security Risk Advisors",
+"title": "IT Systems Co-op (Drexel 2027)",
+"location": "Philadelphia, Pennsylvania, United States",
+"_locs": [
+"Philadelphia, Pennsylvania, United States"
+],
+"allLocations": [
+"Philadelphia, Pennsylvania, United States"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.workable.com/j/6D9E25A1DE",
+"publishedAt": "2026-11-05",
+"ats": "workable"
+},
+{
 "company": "Seagate Technology, LLC",
 "title": "Hardware Engineering Design Summer Internship",
 "location": "Shakopee, MN, US",
@@ -14831,23 +13781,6 @@
 "url": "https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f",
 "publishedAt": "2026-11-04T18:47:59.896+00:00",
 "ats": "ashby"
-},
-{
-"company": "Citadel",
-"title": "Machine Learning Researcher PhD Intern",
-"location": "United States",
-"_locs": [
-"United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
-"publishedAt": "2026-11-04T18:01:55+00:00",
-"ats": "citadel"
 },
 {
 "company": "D. E. Shaw",
@@ -15244,25 +14177,6 @@
 "ats": "workday"
 },
 {
-"company": "Booz Allen",
-"title": "University, AI RAN Telecommunications Engineer Intern",
-"location": "McLean, VA",
-"_locs": [
-"McLean, VA"
-],
-"allLocations": [
-"McLean, VA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
-"publishedAt": "2026-11-04",
-"ats": "workday"
-},
-{
 "company": "ABB",
 "title": "AI Engineering, ERP Intern- Summer 2027",
 "location": "USA, NC, Cary",
@@ -15301,6 +14215,25 @@
 "ats": "workday"
 },
 {
+"company": "Booz Allen",
+"title": "University, AI RAN Telecommunications Engineer Intern",
+"location": "McLean, VA",
+"_locs": [
+"McLean, VA"
+],
+"allLocations": [
+"McLean, VA"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
 "company": "NVIDIA",
 "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027",
 "location": "US, CA, Santa Clara",
@@ -15316,6 +14249,27 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Leidos",
+"title": "Software Engineering & AI Intern",
+"location": "6314 Remote/Teleworker US",
+"_locs": [
+"6314 Remote/Teleworker US"
+],
+"allLocations": [
+"6314 Remote/Teleworker US",
+"Odenton, MD",
+"Shiloh, IL"
+],
+"remote": true,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
 "publishedAt": "2026-11-04",
 "ats": "workday"
 },
@@ -15355,27 +14309,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://parsons.wd5.myworkdayjobs.com/Search/job/US---VA-Centreville/AI-ML-Engineering-Intern-Summer-2027_R188194",
-"publishedAt": "2026-11-04",
-"ats": "workday"
-},
-{
-"company": "Leidos",
-"title": "Software Engineering & AI Intern",
-"location": "6314 Remote/Teleworker US",
-"_locs": [
-"6314 Remote/Teleworker US"
-],
-"allLocations": [
-"6314 Remote/Teleworker US",
-"Odenton, MD",
-"Shiloh, IL"
-],
-"remote": true,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00196220",
 "publishedAt": "2026-11-04",
 "ats": "workday"
 },
@@ -15933,8 +14866,7 @@
 "title": "Software Intern Engineer",
 "location": "Taunton, MA, US",
 "_locs": [
-"Taunton, MA, US",
-"Dedham, MA, US"
+"Taunton, MA, US"
 ],
 "allLocations": [
 "Taunton, MA, US"
@@ -16043,23 +14975,6 @@
 },
 {
 "company": "IBM",
-"title": "Quantum Data Scientist Intern - 2027",
-"location": "Yorktown Heights, US",
-"_locs": [
-"Yorktown Heights, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.ibm.com/careers/JobDetail?jobId=132776",
-"publishedAt": "2026-11-03",
-"ats": "ibm"
-},
-{
-"company": "IBM",
 "title": "Software Developer Intern/Tucson-AZ",
 "location": "TUCSON, US",
 "_locs": [
@@ -16072,6 +14987,23 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://careers.ibm.com/careers/JobDetail?jobId=130092",
+"publishedAt": "2026-11-03",
+"ats": "ibm"
+},
+{
+"company": "IBM",
+"title": "Quantum Data Scientist Intern - 2027",
+"location": "Yorktown Heights, US",
+"_locs": [
+"Yorktown Heights, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.ibm.com/careers/JobDetail?jobId=132776",
 "publishedAt": "2026-11-03",
 "ats": "ibm"
 },
@@ -16167,25 +15099,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/298216",
-"publishedAt": "2026-11-03",
-"ats": "oracle"
-},
-{
-"company": "Dell Technologies",
-"title": "Dell Technologies Services Undergraduate Analytics Intern",
-"location": "TX, United States",
-"_locs": [
-"TX, United States"
-],
-"allLocations": [
-"TX, United States"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299074",
 "publishedAt": "2026-11-03",
 "ats": "oracle"
 },
@@ -17154,82 +16067,6 @@
 "ats": "greenhouse"
 },
 {
-"company": "Alaska Airlines",
-"title": "Intern - Software Delivery Platform (Summer 2027)",
-"location": "WA-SeaTac, USA",
-"_locs": [
-"WA-SeaTac, USA"
-],
-"allLocations": [
-"WA-SeaTac, USA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://corporatejobs-alaskaair.icims.com/jobs/21508/intern---software-delivery-platform-%28summer-2027%29/job",
-"publishedAt": "2026-11-02T05:00:00.000Z",
-"ats": "icims"
-},
-{
-"company": "Alaska Airlines",
-"title": "Intern - Cybersecurity Threat Defense (Summer 2027)",
-"location": "WA-SeaTac, USA",
-"_locs": [
-"WA-SeaTac, USA"
-],
-"allLocations": [
-"WA-SeaTac, USA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://corporatejobs-alaskaair.icims.com/jobs/21502/intern---cybersecurity-threat-defense-%28summer-2027%29/job",
-"publishedAt": "2026-11-02T05:00:00.000Z",
-"ats": "icims"
-},
-{
-"company": "Alaska Airlines",
-"title": "Intern - Software Engineer (Summer 2027)",
-"location": "WA-SeaTac, USA",
-"_locs": [
-"WA-SeaTac, USA"
-],
-"allLocations": [
-"WA-SeaTac, USA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://corporatejobs-alaskaair.icims.com/jobs/21277/intern---software-engineer-%28summer-2027%29/job",
-"publishedAt": "2026-11-02T05:00:00.000Z",
-"ats": "icims"
-},
-{
-"company": "Alaska Airlines",
-"title": "Intern - Network Planning (Summer 2027)",
-"location": "WA-SeaTac, USA",
-"_locs": [
-"WA-SeaTac, USA"
-],
-"allLocations": [
-"WA-SeaTac, USA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://corporatejobs-alaskaair.icims.com/jobs/21205/intern---network-planning-%28summer-2027%29/job",
-"publishedAt": "2026-11-02T05:00:00.000Z",
-"ats": "icims"
-},
-{
 "company": "Enterprise Holdings",
 "title": "Management Trainee - St. Cloud",
 "location": "Saint Cloud, MN, US",
@@ -17477,25 +16314,6 @@
 "ats": "workday"
 },
 {
-"company": "Booz Allen",
-"title": "University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI",
-"location": "Detroit, MI",
-"_locs": [
-"Detroit, MI"
-],
-"allLocations": [
-"Detroit, MI"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
-"publishedAt": "2026-11-02",
-"ats": "workday"
-},
-{
 "company": "Applied Materials",
 "title": "Summer 2027 Data Intelligence/Technical Program Management Intern- Master's (Santa Clara, CA)",
 "location": "Santa Clara,CA",
@@ -17530,6 +16348,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Software-Engineer-Intern--Bachelor-s-Master-s--Santa-Clara--CA-_R2630003",
+"publishedAt": "2026-11-02",
+"ats": "workday"
+},
+{
+"company": "Booz Allen",
+"title": "University - 2027 Summer Games Data Scientist Intern - Royal Oak, MI",
+"location": "Detroit, MI",
+"_locs": [
+"Detroit, MI"
+],
+"allLocations": [
+"Detroit, MI"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Data-Scientist-Intern---Royal-Oak--MI_R0252783",
 "publishedAt": "2026-11-02",
 "ats": "workday"
 },
@@ -18711,6 +17548,25 @@
 "ats": "workday"
 },
 {
+"company": "University of Miami",
+"title": "Data Science & AI Intern",
+"location": "Miami, FL",
+"_locs": [
+"Miami, FL"
+],
+"allLocations": [
+"Miami, FL"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144",
+"publishedAt": "2026-10-30",
+"ats": "workday"
+},
+{
 "company": "Salesforce",
 "title": "AI Labs Summer Internship, Emerging Talent",
 "location": "California - San Francisco",
@@ -18747,25 +17603,6 @@
 "salaryCurrency": "USD",
 "salaryInterval": "hour",
 "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer--Security-Government-_JR364911-1",
-"publishedAt": "2026-10-30",
-"ats": "workday"
-},
-{
-"company": "University of Miami",
-"title": "Data Science & AI Intern",
-"location": "Miami, FL",
-"_locs": [
-"Miami, FL"
-],
-"allLocations": [
-"Miami, FL"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102144",
 "publishedAt": "2026-10-30",
 "ats": "workday"
 },
@@ -19146,6 +17983,23 @@
 "ats": "radancy"
 },
 {
+"company": "Microsoft",
+"title": "Applied Scientist: Internship Opportunities, Turing",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557050150",
+"publishedAt": "2026-10-29T13:10:43+00:00",
+"ats": "microsoft"
+},
+{
 "company": "First Citizens Bank",
 "title": "2027 Summer Intern - AI Adoption (Raleigh, NC)",
 "location": "Raleigh, North Carolina",
@@ -19367,25 +18221,6 @@
 "ats": "oracle"
 },
 {
-"company": "Amentum",
-"title": "Systems Engineer for SLS Upper Stage (ES3)",
-"location": "US-AL-Huntsville",
-"_locs": [
-"US-AL-Huntsville"
-],
-"allLocations": [
-"US-AL-Huntsville"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-AL-Huntsville/Systems-Engineer-for-SLS-Upper-Stage--ES3-_R0174258",
-"publishedAt": "2026-10-29",
-"ats": "workday"
-},
-{
 "company": "Micron Technology",
 "title": "Intern - ASIC Digital Design",
 "location": "Minneapolis, MN",
@@ -19401,6 +18236,25 @@
 "salaryCurrency": "USD",
 "salaryInterval": "hour",
 "url": "https://micron.wd1.myworkdayjobs.com/External/job/Minneapolis-MN/Intern---ASIC-Digital-Design_JR112163",
+"publishedAt": "2026-10-29",
+"ats": "workday"
+},
+{
+"company": "Amentum",
+"title": "Systems Engineer for SLS Upper Stage (ES3)",
+"location": "US-AL-Huntsville",
+"_locs": [
+"US-AL-Huntsville"
+],
+"allLocations": [
+"US-AL-Huntsville"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-AL-Huntsville/Systems-Engineer-for-SLS-Upper-Stage--ES3-_R0174258",
 "publishedAt": "2026-10-29",
 "ats": "workday"
 },
@@ -21522,8 +20376,7 @@
 "title": "AI Research Intern (PhD), 2027 Summer U.S.",
 "location": "San Francisco, California",
 "_locs": [
-"San Francisco, California",
-"San Francisco, CA, US"
+"San Francisco, California"
 ],
 "allLocations": [
 "San Francisco, California"
@@ -21650,782 +20503,6 @@
 "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007",
 "publishedAt": "2026-10-26T10:48:00-04:00",
 "ats": "greenhouse"
-},
-{
-"company": "General Dynamics Mission Systems",
-"title": "Software Test Engineering Intern - Space and Embedded Crypto",
-"location": "Scottsdale, AZ, US",
-"_locs": [
-"Scottsdale, AZ, US"
-],
-"allLocations": [
-"Scottsdale, AZ, US"
-],
-"remote": true,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers-gdms.icims.com/jobs/75163/software-test-engineering-intern---space-and-embedded-crypto/job",
-"publishedAt": "2026-10-26T04:00:00.000Z",
-"ats": "icims"
-},
-{
-"company": "Tradeweb",
-"title": "Summer 2027 Human Resources Data & Analytics Internship",
-"location": "New York, NY, United States",
-"_locs": [
-"New York, NY, United States"
-],
-"allLocations": [
-"New York, NY, United States"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301987",
-"publishedAt": "2026-10-26",
-"ats": "oracle"
-},
-{
-"company": "ADT",
-"title": "Cybersecurity & Risk Intern",
-"location": "Boca Raton, FL, United States",
-"_locs": [
-"Boca Raton, FL, United States"
-],
-"allLocations": [
-"Boca Raton, FL, United States"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022588",
-"publishedAt": "2026-10-26",
-"ats": "oracle"
-},
-{
-"company": "Cargill",
-"title": "Software Engineer Intern Summer 2027 - Atlanta, GA",
-"location": "Atlanta, Georgia, United States",
-"_locs": [
-"Atlanta, Georgia, United States"
-],
-"allLocations": [
-"Atlanta, Georgia, United States"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.cargill.com/en/job/atlanta/software-engineer-intern-summer-2027-atlanta-ga/23251/98765470480",
-"publishedAt": "2026-10-26",
-"ats": "talentbrew"
-},
-{
-"company": "ABB",
-"title": "Systems Engineering Intern – Summer 2027",
-"location": "USA, OH, Cleveland",
-"_locs": [
-"USA, OH, Cleveland"
-],
-"allLocations": [
-"USA, OH, Cleveland"
-],
-"remote": null,
-"salaryMin": 20.0,
-"salaryMax": 34.0,
-"salaryCurrency": "USD",
-"salaryInterval": "hour",
-"url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00047388",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "ABB",
-"title": "IS Common Infrastructure Intern- Summer 2027",
-"location": "USA, NC, Cary",
-"_locs": [
-"USA, NC, Cary"
-],
-"allLocations": [
-"USA, NC, Cary"
-],
-"remote": null,
-"salaryMin": 20.0,
-"salaryMax": 34.0,
-"salaryCurrency": "USD",
-"salaryInterval": "hour",
-"url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Applied Materials",
-"title": "2027 Spring Data Scientist Co-op - Gloucester, MA",
-"location": "Gloucester,MA",
-"_locs": [
-"Gloucester,MA"
-],
-"allLocations": [
-"Gloucester,MA"
-],
-"remote": null,
-"salaryMin": 33.0,
-"salaryMax": 50.0,
-"salaryCurrency": "USD",
-"salaryInterval": "hour",
-"url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Spring-Data-Scientist-Co-op---Gloucester--MA_R2632146",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Highmark Health",
-"title": "Summer 2027 Cyber Risk Management Analyst Undergraduate Intern",
-"location": "Camp Hill PA, 17011, Center Street Building 1B",
-"_locs": [
-"Camp Hill PA, 17011, Center Street Building 1B"
-],
-"allLocations": [
-"Camp Hill PA, 17011, Center Street Building 1B"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Camp-Hill-PA-17011-Center-Street-Building-1B/Summer-2027-Cyber-Risk-Management-Analyst-Undergraduate-Intern_J286841",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Highmark Health",
-"title": "Summer 2027 Enterprise Master Data Management Analyst Graduate Intern",
-"location": "PA, Working at Home - Pennsylvania",
-"_locs": [
-"PA, Working at Home - Pennsylvania"
-],
-"allLocations": [
-"PA, Working at Home - Pennsylvania",
-"MD, Working at Home - Maryland",
-"WA, Working at Home - Washington",
-"NC, Working at Home - N Carolina",
-"LA, Working at Home - Louisiana",
-"KY, Working at Home - Kentucky",
-"KS, Working at Home - Kansas",
-"IN, Working at Home - Indiana",
-"IL, Working at Home - Illinois",
-"GA, Working at Home - Georgia",
-"IA, Working at Home - Iowa",
-"FL, Working at Home - Florida",
-"CO, Working at Home - Colorado",
-"CA, Working at Home - California",
-"DE, Working at Home - Delaware",
-"CT, Working at Home - Conneticut",
-"AR, Working at Home -  Arkansas",
-"AZ, Working at Home - Arizona",
-"AL, Working at Home - Alabama",
-"AK, Working at Home - Alaska",
-"NV, Working at Home - Nevada",
-"VT, Working at Home - Vermont",
-"TN, Working at Home -Tennessee",
-"ID, Working at Home - Idaho",
-"OK, Working at Home - Oklahoma",
-"HI, Working at Home - Hawaii",
-"MS, Working at Home - Mississippi",
-"UT, Working at Home - Utah",
-"NH, Working at Home - New Hampshire",
-"NM, Working at Home - New Mexico",
-"WY, Working at Home - Wyoming",
-"ND, Working at Home - North Dakota",
-"SD, Working at Home-South Dakota",
-"RI, Working at Home - Rhode Island",
-"WV, Working at Home - W Virginia",
-"MO, Working at Home - Montana",
-"TX, Working at Home - Texas",
-"DC, Working at Home - Dist of Col",
-"OH, Working at Home - Ohio",
-"NJ, Working at Home - New Jersey",
-"OR, Working at Home - Oregon",
-"SC, Working at Home-South Carolina",
-"MO, Working at Home - Missouri",
-"VA, Working at Home - Virginia",
-"MA, Working at Home -Massachusetts",
-"NE, Working at Home - Nebraska",
-"MN, Working at Home - Minnesota",
-"MI, Working at Home - Michigan",
-"WI, Working at Home - Wisconsin",
-"NY, Working at Home - New York",
-"ME, Working at Home - Maine"
-],
-"remote": true,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Enterprise-Master-Data-Management-Analyst-Graduate-Intern_J289856",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Highmark Health",
-"title": "Summer 2027 Data Analyst enGen Undergraduate Intern",
-"location": "Pittsburgh PA, 15222, PAP, Penn Avenue Place",
-"_locs": [
-"Pittsburgh PA, 15222, PAP, Penn Avenue Place"
-],
-"allLocations": [
-"Pittsburgh PA, 15222, PAP, Penn Avenue Place"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Highmark Health",
-"title": "Summer 2027 Software Engineer enGen Graduate Intern",
-"location": "PA, Working at Home - Pennsylvania",
-"_locs": [
-"PA, Working at Home - Pennsylvania"
-],
-"allLocations": [
-"PA, Working at Home - Pennsylvania",
-"MD, Working at Home - Maryland",
-"WA, Working at Home - Washington",
-"NC, Working at Home - N Carolina",
-"LA, Working at Home - Louisiana",
-"KY, Working at Home - Kentucky",
-"KS, Working at Home - Kansas",
-"IN, Working at Home - Indiana",
-"IL, Working at Home - Illinois",
-"GA, Working at Home - Georgia",
-"IA, Working at Home - Iowa",
-"FL, Working at Home - Florida",
-"CO, Working at Home - Colorado",
-"CA, Working at Home - California",
-"DE, Working at Home - Delaware",
-"CT, Working at Home - Conneticut",
-"AR, Working at Home -  Arkansas",
-"AZ, Working at Home - Arizona",
-"AL, Working at Home - Alabama",
-"AK, Working at Home - Alaska",
-"NV, Working at Home - Nevada",
-"VT, Working at Home - Vermont",
-"TN, Working at Home -Tennessee",
-"ID, Working at Home - Idaho",
-"OK, Working at Home - Oklahoma",
-"HI, Working at Home - Hawaii",
-"MS, Working at Home - Mississippi",
-"UT, Working at Home - Utah",
-"NH, Working at Home - New Hampshire",
-"NM, Working at Home - New Mexico",
-"WY, Working at Home - Wyoming",
-"ND, Working at Home - North Dakota",
-"SD, Working at Home-South Dakota",
-"RI, Working at Home - Rhode Island",
-"WV, Working at Home - W Virginia",
-"MO, Working at Home - Montana",
-"TX, Working at Home - Texas",
-"DC, Working at Home - Dist of Col",
-"OH, Working at Home - Ohio",
-"NJ, Working at Home - New Jersey",
-"OR, Working at Home - Oregon",
-"SC, Working at Home-South Carolina",
-"MO, Working at Home - Missouri",
-"VA, Working at Home - Virginia",
-"MA, Working at Home -Massachusetts",
-"NE, Working at Home - Nebraska",
-"MN, Working at Home - Minnesota",
-"MI, Working at Home - Michigan",
-"WI, Working at Home - Wisconsin",
-"NY, Working at Home - New York",
-"ME, Working at Home - Maine"
-],
-"remote": true,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Graduate-Intern_J289845",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Highmark Health",
-"title": "Summer 2027 Epic Systems Analyst / Epic AI enGen Undergraduate Internship",
-"location": "Pittsburgh PA, 15222, PAP, Penn Avenue Place",
-"_locs": [
-"Pittsburgh PA, 15222, PAP, Penn Avenue Place"
-],
-"allLocations": [
-"Pittsburgh PA, 15222, PAP, Penn Avenue Place"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Epic-Systems-Analyst---Epic-AI-enGen-Undergraduate-Internship_J289801",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Cisco",
-"title": "Hardware Engineer II (Co-op) - United States",
-"location": "San Jose, California, US",
-"_locs": [
-"San Jose, California, US"
-],
-"allLocations": [
-"San Jose, California, US"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II--Co-op----United-States_2025375",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Cisco",
-"title": "Hardware Engineer PhD (Intern) - United States",
-"location": "San Jose, California, US",
-"_locs": [
-"San Jose, California, US"
-],
-"allLocations": [
-"San Jose, California, US",
-"Carlsbad, California, US"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-PhD--Intern----United-States_2024991",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Wells Fargo",
-"title": "2027 Technology Summer Internship - Early Careers (Cybersecurity)",
-"location": "CHARLOTTE, NC",
-"_locs": [
-"CHARLOTTE, NC"
-],
-"allLocations": [
-"CHARLOTTE, NC",
-"PHOENIX, AZ",
-"CHANDLER, AZ"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Cybersecurity-_R-583417",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Wells Fargo",
-"title": "2027 Technology Summer Internship – Early Careers (Data Engineering)",
-"location": "CHARLOTTE, NC",
-"_locs": [
-"CHARLOTTE, NC"
-],
-"allLocations": [
-"CHARLOTTE, NC",
-"IRVING, TX",
-"ISELIN, NJ"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Data-Engineering-_R-583066",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Analog Devices",
-"title": "DevOps Co-Op",
-"location": "US, MA, Boston",
-"_locs": [
-"US, MA, Boston"
-],
-"allLocations": [
-"US, MA, Boston"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/DevOps-Co-Op_R267690",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Analog Devices",
-"title": "Embedded Systems Co-Op",
-"location": "US, MA, Boston",
-"_locs": [
-"US, MA, Boston"
-],
-"allLocations": [
-"US, MA, Boston"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Motorola",
-"title": "Presales Systems Engineer - Summer 2027 Internship",
-"location": "Brentwood, TN",
-"_locs": [
-"Brentwood, TN",
-"Allen, TX (TX139)"
-],
-"allLocations": [
-"Brentwood, TN",
-"Alpharetta, GA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Brentwood-TN/Presales-Systems-Engineer---Summer-2027_R70006",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Motorola",
-"title": "Presales Systems Engineering - Summer 2027 Internship",
-"location": "Waltham, MA",
-"_locs": [
-"Waltham, MA"
-],
-"allLocations": [
-"Waltham, MA",
-"Massachusetts, US Offsite"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Waltham-MA/Presales-Systems-Engineering---Summer-2027-Internship_R69779",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "General Motors",
-"title": "2027 Summer Intern, AI/ML Engineer, Mapping (PhD)",
-"location": "Warren, Michigan, United States of America",
-"_locs": [
-"Warren, Michigan, United States of America"
-],
-"allLocations": [
-"Warren, Michigan, United States of America"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Teledyne",
-"title": "EADSIM Software Engineering Intern (Summer 2027)",
-"location": "US - Huntsville, AL",
-"_locs": [
-"US - Huntsville, AL"
-],
-"allLocations": [
-"US - Huntsville, AL"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Teledyne",
-"title": "NHRC Software Engineering Internship (Summer 2027)",
-"location": "US - Huntsville, AL",
-"_locs": [
-"US - Huntsville, AL"
-],
-"allLocations": [
-"US - Huntsville, AL"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Nexstar",
-"title": "Unpaid Programming Intern",
-"location": "FL, Tampa",
-"_locs": [
-"FL, Tampa"
-],
-"allLocations": [
-"FL, Tampa"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://nexstar.wd5.myworkdayjobs.com/nexstar/job/FL-Tampa/Unpaid-Programming-Intern_REQ-43464",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "HNTB",
-"title": "Returning New Grad Software Engineer I (For Current/Previous HNTB Interns ONLY)",
-"location": "Tallahassee, FL",
-"_locs": [
-"Tallahassee, FL"
-],
-"allLocations": [
-"Tallahassee, FL",
-"Tampa, FL"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://hntb.wd5.myworkdayjobs.com/HNTB_Careers/job/Tallahassee-FL/Returning-New-Grad-Software-Engineer-I--For-Current-Previous-HNTB-Interns-ONLY-_R-32175-1",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Generac",
-"title": "Intern AI Engineering",
-"location": "Waukesha, WI - USA",
-"_locs": [
-"Waukesha, WI - USA"
-],
-"allLocations": [
-"Waukesha, WI - USA"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "ICF International",
-"title": "2027 Summer Intern, Software Developer (Reston, VA)",
-"location": "Reston, VA",
-"_locs": [
-"Reston, VA"
-],
-"allLocations": [
-"Reston, VA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Travelers",
-"title": "Business Insights & Analytics Leadership Development Program (BI&A LDP) Geospatial Intern",
-"location": "CT - Hartford",
-"_locs": [
-"CT - Hartford"
-],
-"allLocations": [
-"CT - Hartford",
-"MN - St. Paul"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Geospatial-Intern_R-52305",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Travelers",
-"title": "Business Insights & Analytics Leadership Development Program (BI&A LDP) Intern",
-"location": "CT - Hartford",
-"_locs": [
-"CT - Hartford"
-],
-"allLocations": [
-"CT - Hartford",
-"MN - St. Paul"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Business-Insights---Analytics-Leadership-Development-Program--BI-A-LDP--Intern_R-52304",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Nissan Global",
-"title": "Pricing and Cross Car Line Analytics Intern - Franklin, TN - Summer 2027",
-"location": "Franklin, Tennessee - United States of America",
-"_locs": [
-"Franklin, Tennessee - United States of America"
-],
-"allLocations": [
-"Franklin, Tennessee - United States of America"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Pricing-and-Cross-Car-Line-Analytics-Intern---Franklin--TN---Summer-2027_R00214245",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Axos Bank",
-"title": "AI Engineer Intern",
-"location": "HQ - San Diego, CA",
-"_locs": [
-"HQ - San Diego, CA"
-],
-"allLocations": [
-"HQ - San Diego, CA"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Axos Bank",
-"title": "Software Development Intern",
-"location": "HQ - San Diego, CA",
-"_locs": [
-"HQ - San Diego, CA"
-],
-"allLocations": [
-"HQ - San Diego, CA"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Axos Bank",
-"title": "Data Analyst Intern",
-"location": "Omaha, NE",
-"_locs": [
-"Omaha, NE"
-],
-"allLocations": [
-"Omaha, NE"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://axos.wd5.myworkdayjobs.com/Axos/job/Omaha-NE/Data-Intern_JR5642",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "pony.ai",
-"title": "Research Intern - Deep Learning",
-"location": "Fremont, California, United States",
-"_locs": [
-"Fremont, California, United States"
-],
-"allLocations": [
-"Fremont, California, United States"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.workable.com/j/4C1F53EF5D",
-"publishedAt": "2026-10-26",
-"ats": "workable"
-},
-{
-"company": "Skydio",
-"title": "PhD Autonomy Engineer Intern - Deep Learning / Computer Vision, 2027",
-"location": "San Mateo, California, United States",
-"_locs": [
-"San Mateo, California, United States"
-],
-"allLocations": [
-"San Mateo, California, United States"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.ashbyhq.com/skydio/f1a72f5b-6157-47c1-8de9-379a32c7419f",
-"publishedAt": "2026-10-25T23:03:11.566+00:00",
-"ats": "ashby"
 }
 ],
 "Canada": [
@@ -22794,13 +20871,13 @@
 {
 "company": "Global Relay",
 "title": "Co-op Java Developer - Winter 2027",
-"location": "Halifax, Nova Scotia, Canada",
+"location": "Vancouver, British Columbia, Canada",
 "_locs": [
-"Halifax, Nova Scotia, Canada",
-"Vancouver, British Columbia, Canada"
+"Vancouver, British Columbia, Canada",
+"Halifax, Nova Scotia, Canada"
 ],
 "allLocations": [
-"Halifax, NS"
+"Vancouver, BC"
 ],
 "remote": null,
 "salaryMin": 42000.0,
@@ -22833,19 +20910,19 @@
 {
 "company": "Global Relay",
 "title": "Co-op Software Development Engineer in Test (SDET) - Winter 2027",
-"location": "Vancouver, British Columbia, Canada",
+"location": "Halifax, Nova Scotia, Canada",
 "_locs": [
-"Vancouver, British Columbia, Canada",
-"Halifax, Nova Scotia, Canada"
+"Halifax, Nova Scotia, Canada",
+"Vancouver, British Columbia, Canada"
 ],
 "allLocations": [
-"Vancouver, BC"
+"Halifax, NS"
 ],
 "remote": null,
 "salaryMin": 42000.0,
 "salaryMax": 56400.0,
 "salaryCurrency": "CAD",
-"salaryInterval": "year",
+"salaryInterval": "month",
 "url": "https://www.globalrelay.com/careers/jobs?gh_jid=6241595004",
 "publishedAt": "2026-11-03T16:04:43-05:00",
 "ats": "greenhouse"
@@ -23476,8 +21553,7 @@
 "title": "Intern Cloud Developer, Platform Engineering",
 "location": "Ottawa, Canada",
 "_locs": [
-"Ottawa, Canada",
-"Ottawa, ON, CA"
+"Ottawa, Canada"
 ],
 "allLocations": [
 "Ottawa, Canada"
@@ -23490,44 +21566,6 @@
 "url": "https://kinaxis.jibeapply.com/jobs/35572",
 "publishedAt": "2026-10-26T14:18:00+0000",
 "ats": "radancy"
-},
-{
-"company": "Ford Motor Company",
-"title": "AI Strategy Intern",
-"location": "Oakville, ON, Canada",
-"_locs": [
-"Oakville, ON, Canada"
-],
-"allLocations": [
-"Oakville, ON, Canada"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73202",
-"publishedAt": "2026-10-26",
-"ats": "oracle"
-},
-{
-"company": "CIBC",
-"title": "AI Scientist Co-op",
-"location": "Toronto, ON",
-"_locs": [
-"Toronto, ON"
-],
-"allLocations": [
-"Toronto, ON"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://cibc.wd3.myworkdayjobs.com/search/job/Toronto-ON/AI-Scientist-Co-op_2622058-1",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "UK & Ireland": [
@@ -23548,8 +21586,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://careers.molsoncoors.com/us/en/job/40190",
-"publishedAt": "2026-11-08T00:42:40+00:00",
+"publishedAt": "2026-11-09T00:42:26+00:00",
 "ats": "phenom"
+},
+{
+"company": "Microsoft",
+"title": "Software Engineer Internship Opportunities",
+"location": "Dublin, Dublin, Ireland",
+"_locs": [
+"Dublin, Dublin, Ireland"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557038773",
+"publishedAt": "2026-11-08T11:33:43+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Apple",
@@ -23710,6 +21765,26 @@
 "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student-CS-CoE-DDC-Data-Capability_202610-124915",
 "publishedAt": "2026-11-06",
 "ats": "workday"
+},
+{
+"company": "Helical",
+"title": "Machine Learning Intern",
+"location": "London, England, United Kingdom",
+"_locs": [
+"London, England, United Kingdom"
+],
+"allLocations": [
+"London, England, United Kingdom",
+"Luxembourg, Luxembourg, Luxembourg"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.workable.com/j/88990169F9",
+"publishedAt": "2026-11-06",
+"ats": "workable"
 },
 {
 "company": "Palantir Technologies",
@@ -24687,187 +22762,130 @@
 "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Product-Cyber-Security---Undergraduate-Placement-2027_R37719",
 "publishedAt": "2026-10-27",
 "ats": "workday"
-},
-{
-"company": "Roche",
-"title": "Industrial Placement Student - Data Expert, Compliance by Design, Data Capability, DDC, Computational Sciences Center of Excellence",
-"location": "Welwyn",
-"_locs": [
-"Welwyn"
-],
-"allLocations": [
-"Welwyn"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "FTI Consulting",
-"title": "2027 Summer Internship, Cybersecurity",
-"location": "London, United Kingdom",
-"_locs": [
-"London, United Kingdom"
-],
-"allLocations": [
-"London, United Kingdom"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "FTI Consulting",
-"title": "2027 Summer Internship, Data & Analytics",
-"location": "London, United Kingdom",
-"_locs": [
-"London, United Kingdom"
-],
-"allLocations": [
-"London, United Kingdom"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "Europe": [
 {
 "company": "Capgemini",
-"title": "Développeuse / Développeur Full Stack - Stage",
-"location": "Lille, FR",
-"_locs": [
-"Lille, FR",
-"Aix-en-Provence, FR",
-"Mérignac, FR",
-"Nantes, FR",
-"Cesson Sevigne, FR"
-],
-"allLocations": [
-"Lille, FR"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Lille-D%C3%A9veloppeuse-D%C3%A9veloppeur-Full-Stack-Stage/1435839233/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Capgemini",
-"title": "Ingénieure / Ingénieur base de données - Stage",
+"title": "Ingénieure / Ingénieur Cybersécurité GRC - Stage",
 "location": "Merignac, FR",
 "_locs": [
-"Merignac, FR"
-],
-"allLocations": [
-"Merignac, FR"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Merignac-Ing%C3%A9nieure-Ing%C3%A9nieur-base-de-donn%C3%A9es-Stage/1442742233/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Capgemini",
-"title": "Développeuse / Développeur Java - Stage",
-"location": "Aix-en-Provence, FR",
-"_locs": [
-"Aix-en-Provence, FR",
-"Pau, FR",
-"Montbonnot-St-Martin, FR",
-"Valbonne, FR"
-],
-"allLocations": [
-"Aix-en-Provence, FR"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Aix-en-Provence-D%C3%A9veloppeuse-D%C3%A9veloppeur-Java-Stage/1437030433/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Capgemini",
-"title": "Développeuse / Développeur PHP - Stage",
-"location": "Nantes, FR",
-"_locs": [
-"Nantes, FR"
-],
-"allLocations": [
-"Nantes, FR"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Nantes-D%C3%A9veloppeuse-D%C3%A9veloppeur-PHP-Stage/1441515933/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
-"ats": "successfactors"
-},
-{
-"company": "Capgemini",
-"title": "Développeuse / Développeur logiciel PLM - Stage",
-"location": "Toulouse, FR",
-"_locs": [
+"Merignac, FR",
 "Toulouse, FR",
-"Issy-les-Moulineaux, FR"
+"Lille, FR",
+"Nantes, FR"
 ],
 "allLocations": [
-"Toulouse, FR"
+"Merignac, FR"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Toulouse-D%C3%A9veloppeuse-D%C3%A9veloppeur-logiciel-PLM-Stage/1434004133/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
+"url": "https://careers.capgemini.com/job/Lille-Ing%C3%A9nieure-Ing%C3%A9nieur-Cybers%C3%A9curit%C3%A9-GRC-Stage/1439625033/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
 "ats": "successfactors"
 },
 {
 "company": "Capgemini",
-"title": "Développeuse / Développeur Full Stack IA - Stage",
-"location": "Nantes, FR",
+"title": "Développeuse / Développeur logiciel - Stage",
+"location": "Issy-les-Moulineaux, FR",
 "_locs": [
-"Nantes, FR",
+"Issy-les-Moulineaux, FR",
+"Toulouse, FR",
 "Lyon, FR"
 ],
 "allLocations": [
-"Nantes, FR"
+"Issy-les-Moulineaux, FR"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.capgemini.com/job/Lyon-D%C3%A9veloppeuse-D%C3%A9veloppeur-Fullstack-IA-STAGE/1426046933/",
-"publishedAt": "2026-11-08T04:27:54.745918+00:00",
+"url": "https://careers.capgemini.com/job/Lyon-D%C3%A9veloppeuse-D%C3%A9veloppeur-logiciel-Stage/1447683433/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "Ingénieure DevOps / Ingénieur DevOps - Stage",
+"location": "Le Bourget-du-Lac, FR",
+"_locs": [
+"Le Bourget-du-Lac, FR",
+"Lyon, FR",
+"Montbonnot-Saint-Martin, FR",
+"Issy-les-Moulineaux, FR"
+],
+"allLocations": [
+"Le Bourget-du-Lac, FR"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.capgemini.com/job/Le-Bourget-du-Lac-Ing%C3%A9nieure-DevOps-Ing%C3%A9nieur-DevOps-Stage/1445685433/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "Intern Software Engineer (Java, Python, with German)",
+"location": "Wrocław, PL",
+"_locs": [
+"Wrocław, PL"
+],
+"allLocations": [
+"Wrocław, PL"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.capgemini.com/job/Wroc%C5%82aw-Intern-Software-Engineer-%28Java%2C-Python%2C-with-German%29/1179290501/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "Développeuse / Développeur Cloud - Stage",
+"location": "Issy-les-Moulineaux, FR",
+"_locs": [
+"Issy-les-Moulineaux, FR"
+],
+"allLocations": [
+"Issy-les-Moulineaux, FR"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.capgemini.com/job/Issy-les-Moulineaux-D%C3%A9veloppeuse-D%C3%A9veloppeur-Cloud-Stage/1438313333/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Capgemini",
+"title": "Ingénieure / ingénieur DevOps - Stage",
+"location": "Cesson Sevigne, FR",
+"_locs": [
+"Cesson Sevigne, FR",
+"Bourogne, FR"
+],
+"allLocations": [
+"Cesson Sevigne, FR"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.capgemini.com/job/Bourogne-Ing%C3%A9nieure-Ing%C3%A9nieur-DevOps-Stage/1427146833/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
 "ats": "successfactors"
 },
 {
@@ -24904,7 +22922,7 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://jobs.atos.net/job/Aix-en-Provence-Stage-cybers%C3%A9curit%C3%A9-des-protocoles-r%C3%A9seaux-sans-fil-HF/1443355233/",
+"url": "https://jobs.atos.net/job/Aix-en-Provence-Stage-cybers%C3%A9curit%C3%A9-des-protocoles-r%C3%A9seaux-sans-fil-HF/1443355333/",
 "publishedAt": "2026-11-07T04:29:20.317620+00:00",
 "ats": "successfactors"
 },
@@ -25548,120 +23566,6 @@
 "ats": "phenom"
 },
 {
-"company": "Airbus",
-"title": "STAGE 2027 - Développeur Fullstack & Ingénieur AI – Outillage FinOps pour les Clouds Souverains",
-"location": "Antibes Area",
-"_locs": [
-"Antibes Area"
-],
-"allLocations": [
-"Antibes Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Antibes-Area/STAGE-2027---Dveloppeur-Fullstack---Ingnieur-AI---Outillage-FinOps-pour-les-Clouds-Souverains_JR10434929",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "Werkstudent (d/m/w) im Bereich Material Data Management",
-"location": "Manching",
-"_locs": [
-"Manching"
-],
-"allLocations": [
-"Manching"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--m-w-d--im-Bereich-Material-Data-Management_JR10397455",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "Working Student (d/f/m) – Digital (IT) Infrastructure Demand Management",
-"location": "München Area",
-"_locs": [
-"München Area"
-],
-"allLocations": [
-"München Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Working-Student--d-f-m----Digital--IT--Infrastructure-Demand-Management_JR10454718",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "STAGE 2027 - Etude des outils pour modéliser et gérer une infrastructure IT (h/f)​",
-"location": "Toulouse Area",
-"_locs": [
-"Toulouse Area"
-],
-"allLocations": [
-"Toulouse Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/STAGE-2027---Etude-des-outils-pour-modliser-et-grer-une-infrastructure-IT--h-f--_JR10434919",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "Stage 2027 - Stagiaire en Réparation Avionique et Data Management (F/H)",
-"location": "Toulouse Area",
-"_locs": [
-"Toulouse Area"
-],
-"allLocations": [
-"Toulouse Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Stage-2027---Stagiaire-en-Rparation-Avionique-et-Data-Management--F-H-_JR10447794",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "Werkstudent (d/m/w) im Bereich Robotics & Automation",
-"location": "Bremen",
-"_locs": [
-"Bremen"
-],
-"allLocations": [
-"Bremen"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen/Werkstudent--d-m-w--im-Bereich-Robotics---Automation_JR10452276",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
 "company": "Hewlett Packard Enterprise",
 "title": "AI and Data Intern",
 "location": "Las Rozas, Madrid, Spain",
@@ -25829,6 +23733,140 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Wesenberg/Working-Student-Automation---AI--m-f-d-_Req-40842",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "STAGE 2027 - Développeur Fullstack & Ingénieur AI – Outillage FinOps pour les Clouds Souverains",
+"location": "Antibes Area",
+"_locs": [
+"Antibes Area"
+],
+"allLocations": [
+"Antibes Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Antibes-Area/STAGE-2027---Dveloppeur-Fullstack---Ingnieur-AI---Outillage-FinOps-pour-les-Clouds-Souverains_JR10434929",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "Werkstudent (d/m/w) im Bereich Material Data Management",
+"location": "Manching",
+"_locs": [
+"Manching"
+],
+"allLocations": [
+"Manching"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Werkstudent--m-w-d--im-Bereich-Material-Data-Management_JR10397455",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "Working Student (d/f/m) – Digital (IT) Infrastructure Demand Management",
+"location": "München Area",
+"_locs": [
+"München Area"
+],
+"allLocations": [
+"München Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mnchen-Area/Working-Student--d-f-m----Digital--IT--Infrastructure-Demand-Management_JR10454718",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "STAGE 2027 - Etude des outils pour modéliser et gérer une infrastructure IT (h/f)​",
+"location": "Toulouse Area",
+"_locs": [
+"Toulouse Area"
+],
+"allLocations": [
+"Toulouse Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/STAGE-2027---Etude-des-outils-pour-modliser-et-grer-une-infrastructure-IT--h-f--_JR10434919",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "Stage 2027 - Stagiaire en Réparation Avionique et Data Management (F/H)",
+"location": "Toulouse Area",
+"_locs": [
+"Toulouse Area"
+],
+"allLocations": [
+"Toulouse Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Stage-2027---Stagiaire-en-Rparation-Avionique-et-Data-Management--F-H-_JR10447794",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "Werkstudent (d/m/w) im Bereich Robotics & Automation",
+"location": "Bremen",
+"_locs": [
+"Bremen"
+],
+"allLocations": [
+"Bremen"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Bremen/Werkstudent--d-m-w--im-Bereich-Robotics---Automation_JR10452276",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "Accenture",
+"title": "Duales Studium Wirtschaftsinformatik / Informatik (all genders)",
+"location": "Kronberg, Building Beta",
+"_locs": [
+"Kronberg, Building Beta"
+],
+"allLocations": [
+"Kronberg, Building Beta",
+"Dresden"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Building-Beta/Duales-Studium-Wirtschaftsinformatik---Informatik--all-genders-_R00342952-1",
 "publishedAt": "2026-11-06",
 "ats": "workday"
 },
@@ -26195,6 +24233,25 @@
 },
 {
 "company": "Thermo Fisher Scientific",
+"title": "Internship Position: Data Processing and Microscopy Analysis Intern",
+"location": "Eindhoven, Netherlands",
+"_locs": [
+"Eindhoven, Netherlands"
+],
+"allLocations": [
+"Eindhoven, Netherlands"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship-Position--Data-Processing-and-Microscopy-Analysis-Intern_R-01374054",
+"publishedAt": "2026-11-05T00:00:00+00:00",
+"ats": "phenom"
+},
+{
+"company": "Thermo Fisher Scientific",
 "title": "Internship - Build an agentic software refactoring workflow",
 "location": "Eindhoven, Netherlands",
 "_locs": [
@@ -26228,25 +24285,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Engineering_R-01374064",
-"publishedAt": "2026-11-05T00:00:00+00:00",
-"ats": "phenom"
-},
-{
-"company": "Thermo Fisher Scientific",
-"title": "Internship Position: Data Processing and Microscopy Analysis Intern",
-"location": "Eindhoven, Netherlands",
-"_locs": [
-"Eindhoven, Netherlands"
-],
-"allLocations": [
-"Eindhoven, Netherlands"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship-Position--Data-Processing-and-Microscopy-Analysis-Intern_R-01374054",
 "publishedAt": "2026-11-05T00:00:00+00:00",
 "ats": "phenom"
 },
@@ -26441,6 +24479,25 @@
 "ats": "workday"
 },
 {
+"company": "Homa",
+"title": "AI Strategy Intern",
+"location": "Paris, Île-de-France, France",
+"_locs": [
+"Paris, Île-de-France, France"
+],
+"allLocations": [
+"Paris, Île-de-France, France"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.workable.com/j/25E684DA8E",
+"publishedAt": "2026-11-05",
+"ats": "workable"
+},
+{
 "company": "Natixis in Portugal",
 "title": "IT Intern | Natixis Trainee Program 2027 S1",
 "location": "Lisbon, Lisbon, Portugal",
@@ -26473,23 +24530,6 @@
 "salaryInterval": null,
 "url": "https://jobs.smartrecruiters.com/Wavestone1/744000159667949",
 "publishedAt": "2026-11-04T15:42:14.697Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "Informa Group Plc.",
-"title": "Data Analyst Internship",
-"location": "Amsterdam, NH, Netherlands",
-"_locs": [
-"Amsterdam, NH, Netherlands"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159666020",
-"publishedAt": "2026-11-04T15:33:17.251Z",
 "ats": "smartrecruiters"
 },
 {
@@ -26986,6 +25026,25 @@
 "ats": "workday"
 },
 {
+"company": "Air Liquide",
+"title": "Stage - Business & Data Analyst - Achats Europe H/F",
+"location": "France, Paris",
+"_locs": [
+"France, Paris"
+],
+"allLocations": [
+"France, Paris"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Business---Data-Analyst---Achats-Europe-H-F_R10104219",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
 "company": "Valeo",
 "title": "Stage - Développeur mobile Unity - C#",
 "location": "Créteil",
@@ -27020,25 +25079,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/IT-Trainee_R00302789",
-"publishedAt": "2026-11-04",
-"ats": "workday"
-},
-{
-"company": "Air Liquide",
-"title": "Stage - Business & Data Analyst - Achats Europe H/F",
-"location": "France, Paris",
-"_locs": [
-"France, Paris"
-],
-"allLocations": [
-"France, Paris"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Business---Data-Analyst---Achats-Europe-H-F_R10104219",
 "publishedAt": "2026-11-04",
 "ats": "workday"
 },
@@ -29499,23 +27539,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "AFRY",
-"title": "Examensarbete: AI-baserad Spektrumanalys och Adaptiv Radiokommunikation",
-"location": "Uppsala, Uppsala County, Sweden",
-"_locs": [
-"Uppsala, Uppsala County, Sweden"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/AFRY/744000158254489",
-"publishedAt": "2026-10-28T10:23:11.794Z",
-"ats": "smartrecruiters"
-},
-{
 "company": "Cerfrance Brocéliande",
 "title": "Stagiaire Informatique - Digitalisation & Automatisation des Processus - f/h",
 "location": "RENNES CEDEX, Ille-et-Vilaine, France",
@@ -29868,6 +27891,25 @@
 "ats": "workday"
 },
 {
+"company": "Air Liquide",
+"title": "STAGE ENERGIE MANAGEMENT - DATA - INNOVATION F/H",
+"location": "Bagneux Symbiose - Management - ALFI LI",
+"_locs": [
+"Bagneux Symbiose - Management - ALFI LI"
+],
+"allLocations": [
+"Bagneux Symbiose - Management - ALFI LI"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Bagneux-Symbiose---Management---ALFI-LI/STAGE-ENERGIE-MANAGEMENT---DATA---INNOVATION-F-H_R10103982",
+"publishedAt": "2026-10-27",
+"ats": "workday"
+},
+{
 "company": "Valeo",
 "title": "Alternant(e) – Ingénieur Cloud & Tests Logiciels – Digital Key (F/H)",
 "location": "Créteil",
@@ -29906,21 +27948,21 @@
 "ats": "workday"
 },
 {
-"company": "Air Liquide",
-"title": "STAGE ENERGIE MANAGEMENT - DATA - INNOVATION F/H",
-"location": "Bagneux Symbiose - Management - ALFI LI",
+"company": "Motorola",
+"title": "Intern DevOps Engineer",
+"location": "Krakow, Poland",
 "_locs": [
-"Bagneux Symbiose - Management - ALFI LI"
+"Krakow, Poland"
 ],
 "allLocations": [
-"Bagneux Symbiose - Management - ALFI LI"
+"Krakow, Poland"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Bagneux-Symbiose---Management---ALFI-LI/STAGE-ENERGIE-MANAGEMENT---DATA---INNOVATION-F-H_R10103982",
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906",
 "publishedAt": "2026-10-27",
 "ats": "workday"
 },
@@ -29940,25 +27982,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317",
-"publishedAt": "2026-10-27",
-"ats": "workday"
-},
-{
-"company": "Motorola",
-"title": "Intern DevOps Engineer",
-"location": "Krakow, Poland",
-"_locs": [
-"Krakow, Poland"
-],
-"allLocations": [
-"Krakow, Poland"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906",
 "publishedAt": "2026-10-27",
 "ats": "workday"
 },
@@ -30265,102 +28288,6 @@
 "url": "https://bitmovin.com/careers/8916523002?gh_jid=8916523002",
 "publishedAt": "2026-10-26T07:00:02-04:00",
 "ats": "greenhouse"
-},
-{
-"company": "Addepto",
-"title": "AI & Engineering Intern",
-"location": "Remote job",
-"_locs": [
-"Remote job"
-],
-"allLocations": [
-"Warsaw"
-],
-"remote": true,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": "PLN",
-"salaryInterval": null,
-"url": "https://addepto.recruitee.com/o/ai-engineering-intern",
-"publishedAt": "2026-10-26 12:06:19 UTC",
-"ats": "recruitee"
-},
-{
-"company": "The Safety Network",
-"title": "Stage(s) Learning & Development - Didactische innovatie & AI",
-"location": "Houten, Utrecht, Nederland",
-"_locs": [
-"Houten, Utrecht, Nederland"
-],
-"allLocations": [
-"Houten",
-"Rotterdam"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": 550.0,
-"salaryCurrency": "EUR",
-"salaryInterval": "month",
-"url": "https://thesafetynetwork.recruitee.com/o/stages-learning-development-didactische-innovatie-ai",
-"publishedAt": "2026-10-26 11:22:29 UTC",
-"ats": "recruitee"
-},
-{
-"company": "TYTAN Technologies GmbH",
-"title": "Working Student - Interceptor Data Analytics (m/f/d)",
-"location": "Munich, Bayern, Germany",
-"_locs": [
-"Munich, Bayern, Germany"
-],
-"allLocations": [
-"Munich"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://tytantechnologiesgmbh.recruitee.com/o/working-student-interceptor-data-analytics-mfd",
-"publishedAt": "2026-10-26 11:21:16 UTC",
-"ats": "recruitee"
-},
-{
-"company": "ABB",
-"title": "Internship - OT Cybersecurity",
-"location": "Genova, Genova, Italy",
-"_locs": [
-"Genova, Genova, Italy"
-],
-"allLocations": [
-"Genova, Genova, Italy"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Genova-Genova-Italy/Internship---Cybersecurity-for-OT-Systems_JR00042894",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Chanel",
-"title": "STAGE - Assistant Chargé de Projet Data & Amélioration Continue",
-"location": "Pantin",
-"_locs": [
-"Pantin"
-],
-"allLocations": [
-"Pantin"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Pantin/STAGE---Assistant-Charg-de-Projet-Data---Amlioration-Continue_JOBREQ00118355-3",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "India": [
@@ -30572,44 +28499,6 @@
 "url": "https://job-boards.greenhouse.io/hackerrank/jobs/8281055",
 "publishedAt": "2026-10-28T02:27:16-04:00",
 "ats": "greenhouse"
-},
-{
-"company": "Honeywell",
-"title": "Intern Bachelors Software Eng",
-"location": "Bengaluru, Karnataka, India",
-"_locs": [
-"Bengaluru, Karnataka, India"
-],
-"allLocations": [
-"Bengaluru, Karnataka, India"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160484",
-"publishedAt": "2026-10-26",
-"ats": "oracle"
-},
-{
-"company": "Honeywell",
-"title": "Intern (Bach) Data Engineering",
-"location": "Bengaluru, Karnataka, India",
-"_locs": [
-"Bengaluru, Karnataka, India"
-],
-"allLocations": [
-"Bengaluru, Karnataka, India"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160486",
-"publishedAt": "2026-10-26",
-"ats": "oracle"
 }
 ],
 "Asia-Pacific": [
@@ -30627,9 +28516,82 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8617298002/",
-"publishedAt": "2026-11-08T04:28:30+00:00",
+"url": "https://www.janestreet.com/join-jane-street/position/8632392002/",
+"publishedAt": "2026-11-09T04:34:20+00:00",
 "ats": "janestreet"
+},
+{
+"company": "EssilorLuxottica",
+"title": "Vision Science & Machine Learning Research Intern",
+"location": "Singapore, SG",
+"_locs": [
+"Singapore, SG"
+],
+"allLocations": [
+"Singapore, SG"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://careers.essilorluxottica.com/job/Singapore-Vision-Science-&-Machine-Learning-Research-Intern/1448342233/",
+"publishedAt": "2026-11-09T04:33:41.971007+00:00",
+"ats": "successfactors"
+},
+{
+"company": "Renesas Electronics",
+"title": "Robotic AI Intern",
+"location": "Shenzhen, China",
+"_locs": [
+"Shenzhen, China",
+"Beijing, China"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000160530279",
+"publishedAt": "2026-11-09T03:30:01.628Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Amazon",
+"title": "Robotics - Applied Scientist II Intern / Co-op - 2027 (Robotics, Perception, Manipulation, Locomotion, Planning, HRI and more), Amazon Development Center Taiwan",
+"location": "Hsinchu City, TPE, TW",
+"_locs": [
+"Hsinchu City, TPE, TW"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10599510/robotics-applied-scientist-ii-intern-co-op-2027-robotics-perception-manipulation-locomotion-planning-hri-and-more-amazon-development-center-taiwan",
+"publishedAt": "2026-11-09T00:00:00+00:00",
+"ats": "amazon"
+},
+{
+"company": "Agoda",
+"title": "[Summer Internship 2027] Supply Analytics Intern ",
+"location": "Bangkok, Thailand",
+"_locs": [
+"Bangkok, Thailand"
+],
+"allLocations": [
+"Bangkok (One Bangkok Office)"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://job-boards.greenhouse.io/agoda/jobs/8358027",
+"publishedAt": "2026-11-08T22:54:18-05:00",
+"ats": "greenhouse"
 },
 {
 "company": "Carousell Group",
@@ -30879,25 +28841,6 @@
 "ats": "greenhouse"
 },
 {
-"company": "Agoda",
-"title": "[Cooperative Internship 2027] Data Internship BKK",
-"location": "Bangkok based",
-"_locs": [
-"Bangkok based"
-],
-"allLocations": [
-"Bangkok (One Bangkok Office)"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://job-boards.greenhouse.io/agoda/jobs/8335925",
-"publishedAt": "2026-11-06T02:52:27-05:00",
-"ats": "greenhouse"
-},
-{
 "company": "Amazon",
 "title": "Cloud Hardware Dev Engineer Intern",
 "location": "Hsinchu, TW",
@@ -30928,7 +28871,7 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://careers.ibm.com/careers/JobDetail?jobId=140156",
+"url": "https://careers.ibm.com/careers/JobDetail?jobId=140154",
 "publishedAt": "2026-11-06",
 "ats": "ibm"
 },
@@ -30952,25 +28895,6 @@
 "ats": "oracle"
 },
 {
-"company": "ABB",
-"title": "Admin Support Intern (Robotics Workshop, Hi-Tech Park Q9, HCM)",
-"location": "Ho Chi Minh City, Viet Nam",
-"_locs": [
-"Ho Chi Minh City, Viet Nam"
-],
-"allLocations": [
-"Ho Chi Minh City, Viet Nam"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ho-Chi-Minh-City-Viet-Nam/Admin-Support-Intern--Robotics-Workshop--Hi-Tech-Park-Q9--HCM-_JR00052232",
-"publishedAt": "2026-11-06",
-"ats": "workday"
-},
-{
 "company": "PricewaterhouseCoopers (PwC)",
 "title": "Data Analytics Intern",
 "location": "Bangkok",
@@ -30986,6 +28910,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Bangkok/Data-Analytics-Intern_772781WD",
+"publishedAt": "2026-11-06",
+"ats": "workday"
+},
+{
+"company": "ABB",
+"title": "Admin Support Intern (Robotics Workshop, Hi-Tech Park Q9, HCM)",
+"location": "Ho Chi Minh City, Viet Nam",
+"_locs": [
+"Ho Chi Minh City, Viet Nam"
+],
+"allLocations": [
+"Ho Chi Minh City, Viet Nam"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Ho-Chi-Minh-City-Viet-Nam/Admin-Support-Intern--Robotics-Workshop--Hi-Tech-Park-Q9--HCM-_JR00052232",
 "publishedAt": "2026-11-06",
 "ats": "workday"
 },
@@ -31498,25 +29441,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "Hitachi",
-"title": "Embedded Internship",
-"location": "Ho Chi Minh City, Ho Chi Minh, Vietnam",
-"_locs": [
-"Ho Chi Minh City, Ho Chi Minh, Vietnam"
-],
-"allLocations": [
-"Ho Chi Minh City, Ho Chi Minh, Vietnam"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142220-1",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
 "company": "NVIDIA",
 "title": "LLM Reinforcement Learning Framework Intern - 2027",
 "location": "China, Shanghai",
@@ -31532,6 +29456,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/LLM-Reinforcement-Learning-Framework-Intern---2027_JR2027624",
+"publishedAt": "2026-11-03",
+"ats": "workday"
+},
+{
+"company": "Hitachi",
+"title": "Embedded Internship",
+"location": "Ho Chi Minh City, Ho Chi Minh, Vietnam",
+"_locs": [
+"Ho Chi Minh City, Ho Chi Minh, Vietnam"
+],
+"allLocations": [
+"Ho Chi Minh City, Ho Chi Minh, Vietnam"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/Embedded-Internship_R0142220-1",
 "publishedAt": "2026-11-03",
 "ats": "workday"
 },
@@ -32321,44 +30264,6 @@
 "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000157739440",
 "publishedAt": "2026-10-26T08:15:01.119Z",
 "ats": "smartrecruiters"
-},
-{
-"company": "Caterpillar",
-"title": "Software Intern",
-"location": "Wuxi, Jiangsu",
-"_locs": [
-"Wuxi, Jiangsu"
-],
-"allLocations": [
-"Wuxi, Jiangsu"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Software-Intern_R0000401086",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
-"company": "Tencent",
-"title": "Site Reliability Engineer Intern",
-"location": "Singapore-CapitaSky",
-"_locs": [
-"Singapore-CapitaSky"
-],
-"allLocations": [
-"Singapore-CapitaSky"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108288",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "Latin America": [
@@ -32458,25 +30363,6 @@
 "ats": "oracle"
 },
 {
-"company": "Accenture",
-"title": "Software Engineer Intern",
-"location": "Belen",
-"_locs": [
-"Belen"
-],
-"allLocations": [
-"Belen"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00369515",
-"publishedAt": "2026-11-05",
-"ats": "workday"
-},
-{
 "company": "KION Group",
 "title": "Planning Automation/Analytics Intern",
 "location": "Guadalupe, Mexico",
@@ -32492,6 +30378,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Guadalupe-Mexico/Planning-Automation-Analytics-Intern_JR-0098613-1",
+"publishedAt": "2026-11-05",
+"ats": "workday"
+},
+{
+"company": "Accenture",
+"title": "Software Engineer Intern",
+"location": "Belen",
+"_locs": [
+"Belen"
+],
+"allLocations": [
+"Belen"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Belen/Software-Engineer-Intern_R00369515",
 "publishedAt": "2026-11-05",
 "ats": "workday"
 },
@@ -32731,44 +30636,6 @@
 "url": "https://www.amazon.jobs/en/jobs/10590270/software-development-engineer-intern-amazon-university-talent-acquisition",
 "publishedAt": "2026-10-27T00:00:00+00:00",
 "ats": "amazon"
-},
-{
-"company": "Honeywell",
-"title": "Intern - Embedded Systems",
-"location": "CMX, Mexico",
-"_locs": [
-"CMX, Mexico"
-],
-"allLocations": [
-"CMX, Mexico"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/160031",
-"publishedAt": "2026-10-26",
-"ats": "oracle"
-},
-{
-"company": "Prysmian Cables & Systems",
-"title": "Intern IT",
-"location": "Sorocaba",
-"_locs": [
-"Sorocaba"
-],
-"allLocations": [
-"Sorocaba"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://prysmiangroup.wd3.myworkdayjobs.com/Careers/job/Sorocaba/Intern-IT_R-38191",
-"publishedAt": "2026-10-26",
-"ats": "workday"
 }
 ],
 "Remote, other": [
