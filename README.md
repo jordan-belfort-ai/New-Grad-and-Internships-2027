@@ -2,29 +2,83 @@
 
 New-grad, junior and entry-level software engineering, data, ML, security, hardware and infrastructure roles, worldwide, from 20,000+ company career pages.
 
-**570 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-10 04:36 UTC. Internships: [INTERNSHIPS.md](INTERNSHIPS.md).
+**576 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-11 05:05 UTC. Internships: [INTERNSHIPS.md](INTERNSHIPS.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (274) · [Canada](#canada) (27) · [UK & Ireland](#uk--ireland) (44) · [Europe](#europe) (114) · [India](#india) (33) · [Asia-Pacific](#asia-pacific) (49) · [Latin America](#latin-america) (24) · [Remote, other](#remote-other) (5)
+Contents: [United States](#united-states) (288) · [Canada](#canada) (26) · [UK & Ireland](#uk--ireland) (45) · [Europe](#europe) (104) · [India](#india) (34) · [Asia-Pacific](#asia-pacific) (51) · [Latin America](#latin-america) (23) · [Remote, other](#remote-other) (5)
 
-Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN DYNAMICS (15), Sopra Steria (11), NVIDIA (11), Leidos (10), IBM (9), Captivation Software (8), Airbus (8), Shield AI (7), Cisco (7).
+Most roles this fortnight: Capgemini (22), RTX (17), Jane Street (17), EUROPEAN DYNAMICS (15), Sopra Steria (10), NVIDIA (10), IBM (8), Captivation Software (8), DXC Technology (7), Shield AI (7), Amazon (7), Barclays (7).
 
 ## United States
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| Pinnacle West Corp | [Cyber Information Assurance Analyst I](https://careers.aps.com/job/PHOENIX-Cyber-Information-Assurance-Analyst-I-AZ-85004-3903/1449456000/) 🆕 | PHOENIX, AZ, US |  | 2026-11-11 |
+| Capgemini | [Associate Data Scientist](https://careers.capgemini.com/job/Houston%2C-TX-Associate-Data-Scientist-TX-77001/1433639533/) 🆕 | Houston, TX, US | USD 46k-111k | 2026-11-11 |
+| Capgemini | [Bilingual Data Center JR](https://careers.capgemini.com/job/Bogota-Bilingual-Data-Center-JR/1450536933/) 🆕 | Bogota, CO |  | 2026-11-11 |
+| NextEra Energy | [Programmer Analyst I](https://jobs.nexteraenergy.com/job/Miami-Programmer-Analyst-I-FL-33155/1436403600/) 🆕 | Miami, FL, US |  | 2026-11-11 |
+| Penumbra | [Calibration and Equipment Systems Engineer I](https://jobs.lever.co/penumbrainc/5602dc11-6706-465f-9cfd-b97bbcb496e6) 🆕 | Alameda, CA | USD 70k-90k | 2026-11-10 |
+| Chalk | [Forward Deployed Engineer - New Grad](https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f) 🆕 | SF | USD 170k-180k | 2026-11-10 |
+| Govcio LLC | [IAM Junior Software Engineer (Remote)](https://careers.govcio.com/jobs/10523) 🆕 | United States |  | 2026-11-10 |
+| Spring Venture Group | [DevOps Engineer I](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000160958169) 🆕 | Kansas City, MO, United States |  | 2026-11-10 |
+| Relativity Space | [Vehicle Fluids Hardware Development Engineer I](https://boards.greenhouse.io/relativity/jobs/8936585002?gh_jid=8936585002) 🆕 | Long Beach, California, United States | USD 90k-136k | 2026-11-10 |
+| Peraton | [Junior Level Test Systems Engineer](https://peraton.jibeapply.com/jobs/173533) 🆕 | Chantilly, Virginia; Springfield, Virginia; Chantilly, VA, US +1 more | USD 80k-128k | 2026-11-10 |
+| Wise | [Graduate Data Scientist](https://jobs.smartrecruiters.com/Wise/744000160933600) 🆕 | Austin, United States |  | 2026-11-10 |
+| Pathward, N.A. | [Data Scientist I](https://job-boards.greenhouse.io/pathward/jobs/6254370004) 🆕 | Remote |  | 2026-11-10 |
+| Panasonic | [Systems Engineer I](https://careers.na.panasonic.com/jobs/52704) 🆕 | De Soto, Kansas |  | 2026-11-10 |
+| Applied Medical | [Software Test Engineer I](https://careers.appliedmedical.com/jobs/15385) 🆕 | Rancho Santa Margarita, California | USD 72k-85k | 2026-11-10 |
+| Anduril Industries | [2027 New Grad Information Security Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5270839007?gh_jid=5270839007) 🆕 | Costa Mesa, California, United States | USD 88k-117k | 2026-11-10 |
+| Johns Hopkins Applied Physics Laboratory | [2027 Graduate - Software Developer or RF Systems Engineer](https://careers.jhuapl.edu/jobs/59975) 🆕 | Laurel, Maryland |  | 2026-11-10 |
+| ClinChoice | [Junior Statistical Programmer Analyst-FTE](https://job-boards.eu.greenhouse.io/clinchoice/jobs/4983020101) 🆕 | United States |  | 2026-11-10 |
+| Medpace, Inc. | [SAS Programmer - Entry Level](https://careers.medpace.com/jobs/11881) 🆕 | Cincinnati, Ohio |  | 2026-11-10 |
+| Medpace, Inc. | [Project Coordinator, Data Monitoring - Entry Level](https://careers.medpace.com/jobs/12810) 🆕 | Cincinnati, Ohio |  | 2026-11-10 |
+| Ashburn Consulting | [Network Engineer I](https://jobs.smartrecruiters.com/AshburnConsulting/744000160871860) 🆕 | Arlington, VA, United States |  | 2026-11-10 |
+| Abacus Insights | [Associate Data Engineer](https://boards.greenhouse.io/abacusinsights/jobs/8917380002?gh_jid=8917380002) 🆕 | United States |  | 2026-11-10 |
+| Cook Group | [Software Engineer 1, Full-Stack](https://americas-cookmedical.icims.com/jobs/20874/software-engineer-1%2c-full-stack/job) 🆕 | Bloomington, IN, US |  | 2026-11-10 |
+| Gannett Fleming | [Entry Level Security & Safety Analyst](https://careers-gannettfleming.icims.com/jobs/15134/entry-level-security-%26-safety-analyst/job) 🆕 | Baltimore, MD, US | USD 60k-85k | 2026-11-10 |
+| Mercury Insurance | [Data Analyst I Product](https://careers-mercuryinsurance.icims.com/jobs/6955/data-analyst-i-product/job) 🆕 | Remote, US | USD 63k-117k | 2026-11-10 |
+| CHA Consulting | [Security Electronics Engineer I](https://jobs-challp.icims.com/jobs/7935/security-electronics-engineer-i/job) 🆕 | Albany, NY, US | USD 70k-80k | 2026-11-10 |
 | Huntington Ingalls Incorporated | [INDUSTRIAL SECURITY ANALYST 1](https://careers.huntingtoningalls.com/job/Newport-News-INDUSTRIAL-SECURITY-ANALYST-1-Virg/1421257700/) 🆕 | Newport News, Virginia, United States |  | 2026-11-10 |
 | Leonardo DRS, Inc. | [Software Engineer I](https://careers.leonardodrs.com/job/Menomonee-Falls-Software-Engineer-I-WI-53051/1448959000/) 🆕 | Menomonee Falls, WI, US |  | 2026-11-10 |
-| Leonardo DRS, Inc. | [Software Engineer I Full Stack Developer](https://careers.leonardodrs.com/job/Dallas-Software-Engineer-I-Full-Stack-Developer-TX-75243/1449121200/) 🆕 | Dallas, TX, US |  | 2026-11-10 |
-| Capgemini | [Junior Python AI FullStack Engineer](https://careers.capgemini.com/job/New-York%2C-NY-Junior-Python-AI-FullStack-Engineer-NY-10001/1453821033/) 🆕 | NY, US | USD 56k-87k | 2026-11-10 |
 | Lear Corporation | [Site IT Support Analyst I](https://jobs.lear.com/job/Auburn-Hills-Site-IT-Support-Analyst-I-MI-48326/1455696733/) 🆕 | Auburn Hills, MI, US |  | 2026-11-10 |
 | L3Harris Technologies, Inc. | [Specialist, Software Engineer 1](https://jobs.l3harris.com/job/Greenville-Specialist%2C-Software-Engineer-1-TX-75402/1449086500/) 🆕 | Greenville, TX, US |  | 2026-11-10 |
+| Cursor | [Software Engineer, New Grad 2027](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6) 🆕 | San Francisco, CA |  | 2026-11-10 |
+| GE Aerospace | [Entry Level - FPGA Design/Verification Engineer](https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Grand-Rapids/Entry-Level---FPGA-Design-Verification-Engineer_R5041307-1) 🆕 | Grand Rapids, Michigan, United States of America; Grand Rapids |  | 2026-11-10 |
+| Amazon | [Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2027, Amazon Dedicat](https://www.amazon.jobs/en/jobs/10601956/software-development-engineer-amazon-dedicated-cloud-early-career-2027-amazon-dedicated-cloud-adc) 🆕 | Seattle, WA, US |  | 2026-11-10 |
+| Caesars Entertainment | [Analyst I, Labor Analytics - Corporate (Las Vegas)](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/91780) 🆕 | Las Vegas, NV, United States |  | 2026-11-10 |
+| IBM | [Software Developer (f/m/x) 2027 - by invitation only](https://careers.ibm.com/careers/JobDetail?jobId=137654) 🆕 | Ehningen, DE |  | 2026-11-10 |
+| Ford Motor Company | [Software & Embedded Engineering (Talent Pipeline) - Early Career Program, Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/72607) 🆕 | Palo Alto, CA, United States |  | 2026-11-10 |
+| Ford Motor Company | [Embedded Application Developer - Early Career Program, Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73930) 🆕 | Palo Alto, CA, United States |  | 2026-11-10 |
+| SAIC | [Java Developer Junior](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618245) 🆕 | Ashburn, VA, United States |  | 2026-11-10 |
+| SAIC | [Java Developer / Automation Test Engineer Junior](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618696) 🆕 | Ashburn, VA, United States |  | 2026-11-10 |
+| SAIC | [Java Backend Developer Junior](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618700) 🆕 | Ashburn, VA, United States |  | 2026-11-10 |
+| Rheem | [Product Data Analyst I](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581) 🆕 | Fort Smith, AR, United States |  | 2026-11-10 |
+| Charles Schwab | [Junior Full Stack .NET Developer](https://www.schwabjobs.com/job/southlake/junior-full-stack-net-developer/33727/103129674256) 🆕 | Southlake, Texas, United States |  | 2026-11-10 |
+| RTX | [FPGA/ Digital Design Engineer I - Onsite](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB4--836-North-St--INNOVATION-BLDG/FPGA--Digital-Design-Engineer-I---Onsite_01879344) 🆕 | US-MA-TEWKSBURY-TB4 ~ 836 North St ~ INNOVATION BLDG |  | 2026-11-10 |
+| RTX | [Software Engineer I (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052) 🆕 | US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17; US-FL-ST PETERSBURG-381BD ~ 7401 22nd Ave N ~ BLDG D; US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 +3 more |  | 2026-11-10 |
+| RTX | [Flight Controls Systems Engineer I (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Controls-Systems-Engineer-I--Onsite-_01882212) 🆕 | US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 |  | 2026-11-10 |
+| RTX | [Embedded Software Developer I  (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909) 🆕 | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01 |  | 2026-11-10 |
+| Amentum | [Jr. Data Engineer](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096) 🆕 | US-VA-Springfield |  | 2026-11-10 |
+| Amentum | [Junior Software Developer](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-VA-Dahlgren/Junior-Software-Developer_R0175040) 🆕 | US-VA-Dahlgren |  | 2026-11-10 |
+| University of Miami | [Security Analyst 1](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Security-Analyst-1_R100103035) 🆕 | Miami, FL |  | 2026-11-10 |
+| University of Miami | [BI Report Developer 1 (On-Site/in person)](https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Coral-Gables-FL/BI-Report-Developer-1_R100102376) 🆕 | Coral Gables, FL |  | 2026-11-10 |
+| Medtronic | [Systems Engineer I](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Mounds-View-Minnesota-United-States-of-America/Systems-Engineer-I_R81599) 🆕 | Mounds View, Minnesota, United States of America |  | 2026-11-10 |
+| Medtronic | [Hardware Engineer I - ACM](https://medtronic.wd1.myworkdayjobs.com/RedeploymentMedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Hardware-Engineer-I---ACM_R78082) 🆕 | Lafayette, Colorado, United States of America |  | 2026-11-10 |
+| Cox | [Software Engineer I - 19025](https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623) 🆕 | Atlanta GA |  | 2026-11-10 |
+| Fidelity National Information Services | [Mainframe Software Engineer I](https://fis.wd5.myworkdayjobs.com/SearchJobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1) 🆕 | US GA CMH ONE RIVERFRONT |  | 2026-11-10 |
+| Baker Tilly | [Associate Data Engineer](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/Madison-WI/Associate-Data-Engineer_JR108679) 🆕 | Madison, WI | USD 85k-162k | 2026-11-10 |
+| Global Payments | [Information Security Analyst I](https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/Information-Security-Analyst-I_R0077067) 🆕 | COLUMBUS, GEORGIA |  | 2026-11-10 |
+| R1 RCM | [US-Data & Information Privacy Analyst I](https://r1rcm.wd1.myworkdayjobs.com/R1RCM/job/Remote-USA/US-Data---Information-Privacy-Analyst-I_R260000008118) 🆕 | Remote, USA |  | 2026-11-10 |
+| Dexcom | [Hardware Engineer 1](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119889-1) 🆕 | San Diego, California |  | 2026-11-10 |
+| The Hartford | [Associate Data Scientist, Personal Lines](https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Charlotte-NC/Associate-Data-Scientist--Personal-Lines_R2627766) 🆕 | Charlotte, NC | USD 81k-121k | 2026-11-10 |
+| Vizient | [Associate Software Engineer (Hybrid)](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R) 🆕 | Irving, TX 75062 Vizient Corporate HQ |  | 2026-11-10 |
+| The Coca-Cola Company | [Software Engineer I](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US---GA---Atlanta/Software-Engineer-I_R-148843) 🆕 | US - GA - Atlanta |  | 2026-11-10 |
 | Jerry.ai | [Associate Data Scientist](https://jobs.ashbyhq.com/Jerry.ai/81fcaf5e-3203-4a9d-88cd-fb01c7edf1ea) 🆕 | New York, New York | USD 110k-140k | 2026-11-09 |
 | EliseAI | [Junior Research Scientist](https://jobs.ashbyhq.com/EliseAI/2c7b711e-2fd2-439f-a3da-f9ac435e900a) 🆕 | San Francisco | USD 150k-230k | 2026-11-09 |
-| First Citizens Bank | [Data Engineer I](https://jobs.firstcitizens.com/jobs/34606) 🆕 | Raleigh, North Carolina; North Carolina, United States; Raleigh, North Carolina; Raleigh, North Carolina; Austin, Texas; Raleigh, North Carolina; Arizona, United States; Austin, Texas |  | 2026-11-09 |
+| First Citizens Bank | [Data Engineer I](https://jobs.firstcitizens.com/jobs/34606) 🆕 | Raleigh, North Carolina; North Carolina, United States; Raleigh, North Carolina; Raleigh, North Carolina |  | 2026-11-09 |
 | Peraton | [Junior Software Engineer (AWS Cloud Services)](https://peraton.jibeapply.com/jobs/173228) 🆕 | Lanham, Maryland; Lanham, MD, US | USD 66k-106k | 2026-11-09 |
 | Whoop | [Software Engineer I (Backend, Growth)](https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622) 🆕 | Boston, MA | USD 105k-145k | 2026-11-09 |
 | Anduril Industries | [Early Career RF Mission Systems Engineer, Air Dominance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5290310007?gh_jid=5290310007) 🆕 | Costa Mesa, California, United States | USD 120k-153k | 2026-11-09 |
@@ -35,44 +89,35 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | SBT Global, Inc. | [Jr. Security Admin (Korean Bilingual)](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990016733805) 🆕 | Plano, TX, United States |  | 2026-11-09 |
 | Planview Incorporated | [Software Engineer I](https://careers.planview.com/jobs/5149) 🆕 | Austin, Texas |  | 2026-11-09 |
 | Hardin Design | [Web Developer - Entry Level](https://jobs.smartrecruiters.com/HardinDesign/744000160661857) 🆕 | Madison, WI, United States |  | 2026-11-09 |
-| Ashburn Consulting | [Network Engineer I](https://jobs.smartrecruiters.com/AshburnConsulting/744000160664481) 🆕 | Arlington, VA, United States |  | 2026-11-09 |
 | AGE Solutions | [Security Control Assessor, Jr](https://job-boards.greenhouse.io/agecareers/jobs/5477091008) 🆕 | Alexandria, Virginia, United States, Chambersburg, Pennsylvania, United States, Fort Meade |  | 2026-11-09 |
-| Bowhead | [Junior Power BI and Power Platform Analyst](https://bowheadcareers-uicalaska.icims.com/jobs/26638/junior-power-bi-and-power-platform-analyst/job) 🆕 | Aberdeen, MD, US |  | 2026-11-09 |
-| Mercury Insurance | [Software Engineer I](https://careers-mercuryinsurance.icims.com/jobs/6943/software-engineer-i/job) 🆕 | Remote, US | USD 76k-142k | 2026-11-09 |
-| Capgemini | [Junior Full Stack Java Developer - Tableau](https://careers.capgemini.com/job/Dallas%2C-TX-Junior-Full-Stack-Java-Developer-Tableau-TX-75201/1440575133/) 🆕 | Dallas, TX, US | USD 56k-87k | 2026-11-09 |
-| DTCC | [IT Business Systems Analyst (2027 EDGE Program)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214456) 🆕 | Jersey City, NJ, United States |  | 2026-11-09 |
-| DTCC | [Application Developer Analyst (2027 EDGE Program)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463) 🆕 | Jersey City, NJ, United States |  | 2026-11-09 |
-| IBM | [Entry Level Hardware Developer 2027 -Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=130874) 🆕 | POUGHKEEPSIE, US |  | 2026-11-09 |
-| IBM | [Entry Level Cloud Developer - Network Services](https://careers.ibm.com/careers/JobDetail?jobId=139663) 🆕 | Austin, US |  | 2026-11-09 |
-| S&C Electric Company | [Software Engineer I](https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107444) 🆕 | Chicago, IL, United States |  | 2026-11-09 |
-| Southern Company | [Documentum Developer, Jr](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22659) 🆕 | Birmingham, AL, United States |  | 2026-11-09 |
-| Northrop Grumman | [2027 Associate/Software Engineer Pathways Linthicum MA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499) 🆕 | United States-Maryland-Linthicum | USD 76k-114k | 2026-11-09 |
-| Northrop Grumman | [2027 Associate Software Engineer - Colorado Springs](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912) 🆕 | United States-Colorado-Colorado Springs | USD 69k-103k | 2026-11-09 |
-| Northrop Grumman | [2027 -  Associate Cyber Software Engineer - San Antonio TX](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762) 🆕 | United States-Texas-San Antonio | USD 76k-114k | 2026-11-09 |
-| Northrop Grumman | [Associate Software Configuration Analyst/Software Configuration Analyst](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Configuration-Analyst-Software-Configuration-Analyst_R10258993-1) 🆕 | United States-Florida-Melbourne |  | 2026-11-09 |
-| RTX | [Systems Engineer I,  Edwards AFB](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-EDWARDS-AFB-CUST--295-N-Wolfe-Ave--EDWARDS-AFB-External-Site/Systems-Engineer-I---Edwards-AFB_01881953) 🆕 | US-CA-EDWARDS-AFB-CUST ~ 295 N Wolfe Ave ~ EDWARDS AFB (External Site) |  | 2026-11-09 |
-| RTX | [Software Engineer I (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-182--1100-Cimmie-Ave-Ne--BLDG-182/Software-Engineer-I--Onsite-_01888514) 🆕 | US-IA-CEDAR RAPIDS-182 ~ 1100 Cimmie Ave Ne ~ BLDG 182; US-AZ-TUCSON-805 ~ 1151 E Hermans Rd ~ BLDG 805 |  | 2026-11-09 |
-| RTX | [FPGA/ Digital Design Engineer I - Onsite](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-TX-MCKINNEY-513WA--2501-W-University-Dr--WING-A-BLDG/FPGA--Digital-Design-Engineer-I---Onsite_01879328) 🆕 | US-TX-MCKINNEY-513WA ~ 2501 W University Dr ~ WING A BLDG |  | 2026-11-09 |
-| RTX | [Systems Engineer I - Tac Comm](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm_01888310-1) 🆕 | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 |  | 2026-11-09 |
-| RTX | [Embedded Security Software Engineer I (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370) 🆕 | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01; US-AZ-TUCSON-800 ~ 1151 E Hermans Rd ~ BLDG 800; US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 |  | 2026-11-09 |
-| RTX | [Embedded Software Engineer I (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-CA-GOLETA-H01--6380-Hollister-Ave--BLDG-H01/Embedded-Software-Engineer-I--Onsite-_01888147) 🆕 | US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 |  | 2026-11-09 |
-| CACI | [Junior Systems Engineer](https://caci.wd1.myworkdayjobs.com/External/job/Colorado-Springs-CO-US/Junior-Systems-Engineer_334863) 🆕 | Colorado Springs, CO, US | USD 69k-141k | 2026-11-09 |
-| Visa | [Associate Data Engineer](https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Data-Engineer_REF089618W) 🆕 | US - Foster City, CA |  | 2026-11-09 |
-| Kyndryl | [Early Career Consult Program - Associate Data Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870) 🆕 | Dallas (USDALFRI) Frisco AI HUB |  | 2026-11-09 |
-| Boeing | [Associate Software Test Engineer (P-8 Mission Systems)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1) 🆕 | USA - Kent, WA | USD 90k-123k | 2026-11-09 |
-| Adobe | [2027 University Graduate - Data Engineer](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) 🆕 | San Jose | USD 90k-164k | 2026-11-09 |
-| Booz Allen | [Data Visualization Analyst, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Data-Visualization-Analyst--Junior_R0253261) 🆕 | Lexington Park, MD |  | 2026-11-09 |
-| Credence | [Junior SAP ABAP Developer](https://apply.workable.com/j/207F2F6631) 🆕 | McLean, Virginia, United States | USD 100k-130k | 2026-11-09 |
-| Shield AI | [Engineer I, Software - Perception - New Grad - 6135](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7) 🆕 | Washington, D.C. |  | 2026-11-08 |
-| Shield AI | [Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125](https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f) 🆕 | Washington, D.C. |  | 2026-11-08 |
-| Shield AI | [Engineer I, Software - Autonomy Capabilities - New Grad - 6129](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) 🆕 | United States |  | 2026-11-08 |
+| Bowhead | [Junior Power BI and Power Platform Analyst](https://bowheadcareers-uicalaska.icims.com/jobs/26638/junior-power-bi-and-power-platform-analyst/job) | Aberdeen, MD, US |  | 2026-11-09 |
+| Mercury Insurance | [Software Engineer I](https://careers-mercuryinsurance.icims.com/jobs/6943/software-engineer-i/job) | Remote, US | USD 76k-142k | 2026-11-09 |
+| Capgemini | [Junior Full Stack Java Developer - Tableau](https://careers.capgemini.com/job/Dallas%2C-TX-Junior-Full-Stack-Java-Developer-Tableau-TX-75201/1440575133/) | Dallas, TX, US | USD 56k-87k | 2026-11-09 |
+| DTCC | [IT Business Systems Analyst (2027 EDGE Program)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214456) | Jersey City, NJ, United States |  | 2026-11-09 |
+| DTCC | [Application Developer Analyst (2027 EDGE Program)](https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214463) | Jersey City, NJ, United States |  | 2026-11-09 |
+| IBM | [Entry Level Hardware Developer 2027 -Poughkeepsie](https://careers.ibm.com/careers/JobDetail?jobId=130874) | POUGHKEEPSIE, US |  | 2026-11-09 |
+| IBM | [Entry Level Cloud Developer - Network Services](https://careers.ibm.com/careers/JobDetail?jobId=139663) | Austin, US |  | 2026-11-09 |
+| Southern Company | [Documentum Developer, Jr](https://emje.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/22659) | Birmingham, AL, United States |  | 2026-11-09 |
+| RTX | [Systems Engineer I - Tac Comm](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineer-I---Tac-Comm_01888310-1) | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 |  | 2026-11-09 |
+| RTX | [Embedded Security Software Engineer I (Onsite)](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-800--1151-E-Hermans-Rd--BLDG-800/Embedded-Security-Software-Engineer-I--Onsite-_01881370) | US-CA-EL SEGUNDO-R01 ~ 2000 E Imperial Hwy ~ BLDG R01; US-AZ-TUCSON-800 ~ 1151 E Hermans Rd ~ BLDG 800; US-CA-GOLETA-H01 ~ 6380 Hollister Ave ~ BLDG H01 |  | 2026-11-09 |
+| Northrop Grumman | [2027 Associate/Software Engineer Pathways Linthicum MA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499) | United States-Maryland-Linthicum | USD 76k-114k | 2026-11-09 |
+| Northrop Grumman | [2027 -  Associate Cyber Software Engineer - San Antonio TX](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762) | United States-Texas-San Antonio | USD 76k-114k | 2026-11-09 |
+| Northrop Grumman | [Associate Software Configuration Analyst/Software Configuration Analyst](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Configuration-Analyst-Software-Configuration-Analyst_R10258993-1) | United States-Florida-Melbourne |  | 2026-11-09 |
+| Booz Allen | [Data Visualization Analyst, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Lexington-Park-MD/Data-Visualization-Analyst--Junior_R0253261) | Lexington Park, MD |  | 2026-11-09 |
+| CACI | [Junior Systems Engineer](https://caci.wd1.myworkdayjobs.com/External/job/Colorado-Springs-CO-US/Junior-Systems-Engineer_334863) | Colorado Springs, CO, US | USD 69k-141k | 2026-11-09 |
+| Kyndryl | [Early Career Consult Program - Associate Data Engineer](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Data-Engineer_R-66870) | Dallas (USDALFRI) Frisco AI HUB |  | 2026-11-09 |
+| Boeing | [Associate Software Test Engineer (P-8 Mission Systems)](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Kent-WA/Associate-Software-Test-Engineer--P-8-Mission-Systems-_JR2026496240-1) | USA - Kent, WA | USD 90k-123k | 2026-11-09 |
+| AJAIA | [Junior AI Engineer](https://apply.workable.com/j/E67B131489) | New York, New York, United States |  | 2026-11-09 |
+| Credence | [Junior SAP ABAP Developer](https://apply.workable.com/j/207F2F6631) | McLean, Virginia, United States | USD 100k-130k | 2026-11-09 |
+| Shield AI | [Engineer I, Software - Perception - New Grad - 6135](https://jobs.ashbyhq.com/shield/e4ac2482-6da7-4ab9-bab8-7bccbf3f6ae7) | Washington, D.C. |  | 2026-11-08 |
+| Shield AI | [Engineer I, Software - Autonomous Pilot Integration - New Grad - 6125](https://jobs.ashbyhq.com/shield/29917792-e504-4cb5-9e70-9d74212d3b1f) | Washington, D.C. |  | 2026-11-08 |
+| Shield AI | [Engineer I, Software - Autonomy Capabilities - New Grad - 6129](https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10) | United States |  | 2026-11-08 |
 | General Dynamics | [Embedded Engineer - COLUMBIA Missile Compartment Project Engineering Entry Level](https://careers-gdeb.icims.com/jobs/21194/embedded-engineer---columbia-missile-compartment-project-engineering-entry-level/job) | Groton, CT, US |  | 2026-11-07 |
 | Arthrex, Inc. | [Engineer I QA Design - Orthobiologics](https://careers.arthrex.com/NorthAmerica/job/Naples-Engineer-I-QA-Design-Orthobiologics-FL-34108/1372246857/) | Naples, FL, US |  | 2026-11-07 |
 | AbbVie | [Associate Software Engineer I](https://jobs.smartrecruiters.com/AbbVie/3743990016715126) | North Chicago, IL, United States |  | 2026-11-07 |
 | Shield AI | [Software Engineer I - Internal Tools (New Grad) - R6052](https://jobs.ashbyhq.com/shield/986a26e9-0597-4402-85ee-0f05a6012902) | Seattle, Washington |  | 2026-11-07 |
 | K Group Companies | [Systems Engineer 1](https://jobs.lever.co/kgroupcompanies/8387f3ad-b35d-43ee-9204-2f18c227d8cc) | Grand Rapids, Michigan |  | 2026-11-06 |
 | Eurofins | [Entry Level Microbiology Data Review](https://jobs.smartrecruiters.com/Eurofins/744000160275390) | Lancaster, PA, United States |  | 2026-11-06 |
-| Keyfactor, Inc. | [Associate Software Engineer](https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004) | United States (Remote) |  | 2026-11-06 |
 | Sopra Steria | [FPGA Verification Engineer (Entry Level)](https://jobs.smartrecruiters.com/SopraSteria1/744000160224361) | Platteville, WI, United States; East Hartford, CT, United States |  | 2026-11-06 |
 | Intercontinental Exchange Holdings, Inc. | [Junior Software Development Engineer in Test](https://careers.ice.com/jobs/14205) | Atlanta, Georgia |  | 2026-11-06 |
 | The Brattle Group | [Data and AI Engineer - July 2027](https://job-boards.greenhouse.io/thebrattlegroup/jobs/4751955005) | San Francisco, California, United States | USD 100k-126k | 2026-11-06 |
@@ -84,25 +129,21 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | American Express | [Software Engineer I](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016174) | Sunrise, FL, United States |  | 2026-11-06 |
 | Charles Schwab | [Jr. Software Developer](https://www.schwabjobs.com/job/omaha/jr-software-developer/33727/102958386512) | Omaha, Nebraska, United States |  | 2026-11-06 |
 | UnitedHealth Group | [Associate Software Engineer](https://careers.unitedhealthgroup.com/job/minneapolis/associate-software-engineer/34088/102958121536) | Minneapolis, Minnesota, United States | USD 60k-107k | 2026-11-06 |
-| UnitedHealth Group | [Patient Access Center Data Analyst I - Kelsey Seybold Clinic](https://careers.unitedhealthgroup.com/job/houston/patient-access-center-data-analyst-i-kelsey-seybold-clinic/34088/102958119520) | Houston, Texas, United States | USD 60k-107k | 2026-11-06 |
 | Amentum | [Early Career Spaceflight Hardware Propulsion Engineer](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-TX-Houston/Early-Career-Spaceflight-Hardware-Propulsion-Engineer_R0171914-11) | US-TX-Houston |  | 2026-11-06 |
+| Booz Allen | [Model-Based Systems Engineer, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Model-Based-Systems-Engineer--Junior_R0253162) | El Segundo, CA |  | 2026-11-06 |
 | Leidos | [Jr. Transport Network Specialist](https://leidos.wd5.myworkdayjobs.com/External/job/Norfolk-VA/Jr-Transport-Network-Specialist_R-00196443) | Norfolk, VA |  | 2026-11-06 |
-| Leidos | [Amazon Connect Developer Jr](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Amazon-Connect-Developer-Jr_R-00196185) | 6314 Remote/Teleworker US |  | 2026-11-06 |
-| Leidos | [Junior Salesforce Health Cloud System Administrator](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Junior-Salesforce-Health-Cloud-System-Administrator_R-00196200) | 6314 Remote/Teleworker US |  | 2026-11-06 |
 | CACI | [Junior C# Software Engineer](https://caci.wd1.myworkdayjobs.com/External/job/Virginia-Beach-VA-US/Junior-C--Software-Engineer_334764) | Virginia Beach, VA, US | USD 58k-115k | 2026-11-06 |
-| CACI | [Junior Boundary Systems Engineer](https://caci.wd1.myworkdayjobs.com/External/job/Linthicum-MD-US/Junior-Boundary-Systems-Engineer_334745) | Linthicum, MD, US | USD 98k-206k | 2026-11-06 |
 | Cisco | [ASIC DFT Engineer I (Full Time) - United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/ASIC-DFT-Engineer-I--Full-Time----United-States_2030926) | San Jose, California, US |  | 2026-11-06 |
-| Salesforce | [AI Product Associate Analyst, Early Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/AI-Product-Associate-Analyst--Early-Talent_JR367622-2) | Illinois - Chicago | USD 69k-76k | 2026-11-06 |
 | Pennsylvania State University | [Research Assistant Positions - LLMs and AI for Data Analysis (Spring 2027)](https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Research-Assistant-Positions---LLMs-and-AI-for-Data-Analysis--Spring-2027-_REQ_0000084012-1) | Penn State University Park |  | 2026-11-06 |
-| GSK | [Engineer I - Forward Deployed Engineer](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Cambridge-300-Technology-Square/Engineer-I---Forward-Deployed-Engineer_450885) | Cambridge 300 Technology Square | USD 95k-159k | 2026-11-06 |
+| Salesforce | [AI Product Associate Analyst, Early Talent](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Illinois---Chicago/AI-Product-Associate-Analyst--Early-Talent_JR367622-2) | Illinois - Chicago | USD 69k-76k | 2026-11-06 |
 | General Motors | [Entry Level Mainframe Systems Engineer](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Mainframe-Systems-Engineer_JR-202623745) | Warren, Michigan, United States of America |  | 2026-11-06 |
 | Guidehouse | [Consulting Analyst - Health Automation & Analytics, Provider Advisory - Campus 2027](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---NC-Charlotte/Consulting-Analyst---Health-Automation---Analytics--Provider-Advisory---Campus-2027_46423) | US - NC, Charlotte |  | 2026-11-06 |
 | Moog | [Associate Software Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Buffalo-NY/Associate-Software-Engineer_R-26-21135) | Buffalo, NY |  | 2026-11-06 |
 | Travelers | [Data Engineer I (AWS, Python, GenAI)](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--AWS--Python--GenAI-_R-53217-1) | CT - Hartford |  | 2026-11-06 |
-| Rocket Mortgage | [Software Engineer I](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975) | Detroit, MI |  | 2026-11-06 |
 | Nightwing Intelligence Solutions | [Software Developer I (System Security)](https://nwis.wd12.myworkdayjobs.com/NW/job/AL600--600-Boulevard-South-Ste-301-Huntsville-AL-35802/Software-Developer-I--System-Security-_JR102225) | AL600- 600 Boulevard South, Ste 301, Huntsville, AL 35802 |  | 2026-11-06 |
+| Rocket Mortgage | [Software Engineer I](https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Software-Engineer-I_R-083975) | Detroit, MI |  | 2026-11-06 |
 | Niagara Bottling | [IT Systems Functional Analyst I - Oracle MFG Module](https://niagarawater.wd5.myworkdayjobs.com/Niagara/job/Corp-Main---Diamond-Bar-CA/IT-Systems-Functional-I_R55942) | Corp-Main - Diamond Bar, CA |  | 2026-11-06 |
-| Booz Allen | [Model-Based Systems Engineer, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/El-Segundo-CA/Model-Based-Systems-Engineer--Junior_R0253162) | El Segundo, CA |  | 2026-11-06 |
+| Prosync | [System OR Software Engineer I](https://apply.workable.com/j/D688809AE6) | Annapolis Junction, Maryland, United States |  | 2026-11-06 |
 | SBT Global, Inc. | [Jr. Data Architect/Engineer](https://jobs.smartrecruiters.com/SBTGlobalInc/3743990016679186) | Plano, TX, United States |  | 2026-11-05 |
 | Datalab USA | [IT Systems Analyst I](https://jobs.lever.co/datalabusa/f056fa9a-bdc0-4371-8f19-4cd08e294ad8) | Westminster, CO | USD 60k-73k | 2026-11-05 |
 | Eurofins | [ELISA Method Development and Validation Research Scientist I](https://jobs.smartrecruiters.com/Eurofins/744000159962549) | Lenexa, KS, United States |  | 2026-11-05 |
@@ -111,6 +152,7 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | THG | [Junior Frontend Engineer & Technology Support / Dermstore](https://www.thg.com/talent/job-search?gh_jid=5027883101) | US, New York City | USD 90k-100k | 2026-11-05 |
 | Qu Pos, Inc. | [DevOps Engineer 1](https://ats.rippling.com/qu-careers/jobs/73bf0c96-e3e8-42ca-820c-01f2360ed78d) | Remote (United States) |  | 2026-11-05 |
 | StubHub | [Software Engineer I (New Grad) - Consumer Experience](https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101) | New York, New York, United States | USD 120k-150k | 2026-11-05 |
+| Qu Pos, Inc. | [(Buenos Aires) Software Engineer 1](https://ats.rippling.com/qu-careers/jobs/93aaea14-4930-4d41-83ab-ed9945876c46) | Hybrid (Buenos Aires, AR) |  | 2026-11-05 |
 | EquipmentShare | [Junior eCommerce Web Developer](https://www.equipmentshare.com/careers/openings/?gh_jid=8319404) | Columbia, MO (Headquarters) |  | 2026-11-05 |
 | AmeriHealth Caritas | [Data Platform Engineer I](https://phh.tbe.taleo.net/phh02/ats/careers/v2/applyRequisition?org=AMERINC&cws=52&rid=45195) | United States |  | 2026-11-05 |
 | AmTrust Financial | [Security Engineer I - Threat & Vulnerability Management](https://careers-amtrustgroup.icims.com/jobs/22926/security-engineer-i/job) | Cleveland, OH, US |  | 2026-11-05 |
@@ -119,8 +161,7 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Amazon | [Software Development Engineer, Amazon Leo, Early Career - 2027 (US)](https://www.amazon.jobs/en/jobs/10597803/software-development-engineer-amazon-leo-early-career-2027-us) | Redmond, WA, US |  | 2026-11-05 |
 | IBM | [Associate Application Developer - Oracle - 2027](https://careers.ibm.com/careers/JobDetail?jobId=129123) | BATON ROUGE, US |  | 2026-11-05 |
 | SAIC | [Junior Azure Cloud Administrator](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618864) | Rockville, MD, United States |  | 2026-11-05 |
-| Northrop Grumman | [2027 Associate Systems Engineer (AHT) - Dulles VA](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Systems-Engineer--AHT----Dulles-VA_R10259487) | United States-Virginia-Dulles | USD 76k-114k | 2026-11-05 |
-| Northrop Grumman | [2027 Associate Cyber Systems Engineer - Roy UT](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Associate-Cyber-Systems-Engineer---Roy-UT_R10259435) | United States-Utah-Roy | USD 65k-98k | 2026-11-05 |
+| Booz Allen | [Cybersecurity Analyst, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cybersecurity-Analyst--Junior_R0253089) | Rome, NY |  | 2026-11-05 |
 | Highmark Health | [Associate Software Engineer](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Software-Engineer_J288021-1) | PA, Working at Home - Pennsylvania |  | 2026-11-05 |
 | Leidos | [Entry Level Software Tester](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Entry-Level-Software-Tester_R-00196288) | Huntsville, AL |  | 2026-11-05 |
 | CACI | [Junior Software Developer](https://caci.wd1.myworkdayjobs.com/External/job/Remote-Any-State/Junior-Software-Developer_334685) | Remote (Any State) | USD 53k-106k | 2026-11-05 |
@@ -131,12 +172,8 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Milwaukee Tool | [Platform Engineer I- 2nd Shift](https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Olive-Branch-MS/Platform-Engineer-I--2nd-Shift_R78962) | Olive Branch, MS |  | 2026-11-05 |
 | QTS | [Enterprise IT Support Engineer I](https://qtsdatacenters.wd5.myworkdayjobs.com/QTS/job/US-GA-Atlanta-Suwanee-1-DC1/Enterprise-IT-Support-Engineer-I_R2026-2336) | US GA Atlanta Suwanee 1 DC1 |  | 2026-11-05 |
 | University of Maryland - College Park | [Edge Network Engineer Junior](https://umd.wd1.myworkdayjobs.com/UMCP/job/University-of-Maryland-College-Park/Edge-Network-Engineer-Junior_JR105371) | University of Maryland College Park |  | 2026-11-05 |
-| Booz Allen | [Cybersecurity Analyst, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Rome-NY/Cybersecurity-Analyst--Junior_R0253089) | Rome, NY |  | 2026-11-05 |
-| Persimmons | [Design Verification Engineer, New Grad (AI-Driven)](https://apply.workable.com/j/E8AF3CDFB3) | San Jose, California, United States |  | 2026-11-05 |
 | NBCUniversal | [Jr. Software Engineer](https://jobs.smartrecruiters.com/NBCUniversal3/744000159723020) | Universal City, CALIFORNIA, United States |  | 2026-11-04 |
-| Peraton | [Junior Level Test Systems Engineer](https://peraton.jibeapply.com/jobs/173232) | Springfield, Virginia; Springfield, VA, US | USD 80k-128k | 2026-11-04 |
-| Spring Venture Group | [DevOps Engineer I](https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159713509) | Kansas City, MO, United States |  | 2026-11-04 |
-| Twitch | [Software Dev Engineer I - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931345002) | San Francisco, CA; Irvine, CA; Seattle, WA | USD 110k-160k | 2026-11-04 |
+| Twitch | [Software Dev Engineer I - Security Platform](https://job-boards.greenhouse.io/twitch/jobs/8931345002) | Irvine, CA; Seattle, WA; San Francisco, CA | USD 110k-160k | 2026-11-04 |
 | Jane Street | [Cybersecurity Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8613910002/) | New York, NY, US |  | 2026-11-04 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (New Grad)](https://www.janestreet.com/join-jane-street/position/8646893002/) | New York, NY, US |  | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576928002/) | New York, NY, US |  | 2026-11-04 |
@@ -169,14 +206,12 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | IBM | [Associate Application Developer 2027- ServiceNow](https://careers.ibm.com/careers/JobDetail?jobId=128753) | BATON ROUGE, US |  | 2026-11-04 |
 | Ford Motor Company | [Thermal Firmware Integration Engineer - Early Career Program, Advanced EV](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/73527) | Palo Alto, CA, United States |  | 2026-11-04 |
 | Verisk | [DevOps Engineer I](https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5085) | Holmdel, NJ, United States |  | 2026-11-04 |
+| Booz Allen | [Software and Documentation Support Engineer, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Port-Hueneme-CA/Software-and-Documentation-Support-Engineer--Junior_R0252799-1) | Port Hueneme, CA |  | 2026-11-04 |
 | Genuine Parts Company | [DevOps Engineer I](https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/DevOps-Engineer-I_R26_0000036450-1) | Birmingham, AL, USA |  | 2026-11-04 |
-| Boeing | [Associate Software Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1) | USA - Hazelwood, MO; USA - Huntsville, AL | USD 82k-105k | 2026-11-04 |
-| McKesson | [Graduate Cyber Security Analyst (Cyber Academy)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0155879) | USA, TX, Irving |  | 2026-11-04 |
+| Boeing | [Associate Software Engineer](https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Hazelwood-MO/Associate-Software-Engineer_JR2026511462-1) | USA - Hazelwood, MO | USD 82k-105k | 2026-11-04 |
 | Extra Space Storage | [Associate Software Engineer](https://extraspace.wd5.myworkdayjobs.com/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836) | Salt Lake City, UT, United States |  | 2026-11-04 |
 | Ensemble Health Partners | [Application Security Engineer I, Cybersecurity](https://ensemblehp.wd5.myworkdayjobs.com/EnsembleHealthPartnersCareers/job/Remote---Nationwide/Application-Security-Engineer-I--Cybersecurity_R054077) | Remote - Nationwide | USD 84k-126k | 2026-11-04 |
 | Travelers | [Data Engineer I (Databricks, AWS, Python)](https://travelers.wd5.myworkdayjobs.com/External/job/CT---Hartford/Data-Engineer-I--Databricks--AWS--Python-_R-51638) | CT - Hartford |  | 2026-11-04 |
-| Vizient | [Associate Software Engineer (Hybrid)](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1) | Irving, TX 75062 Vizient Corporate HQ |  | 2026-11-04 |
-| Booz Allen | [Software and Documentation Support Engineer, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Port-Hueneme-CA/Software-and-Documentation-Support-Engineer--Junior_R0252799-1) | Port Hueneme, CA |  | 2026-11-04 |
 | Ace IT Careers | [Junior QA Support Analyst](https://apply.workable.com/j/649D50A2B8) | Seattle, Washington, United States |  | 2026-11-04 |
 | Cirrus | [FPGA Implementation Engineer (JR)](https://jobs.eu.lever.co/cirrus/0978e83d-5a48-4c25-ac20-5ca8bac6b363) | Austin, Texas |  | 2026-11-03 |
 | Precisely US | [Associate Software Developer (AI)](https://www.precisely.com/careers-and-culture/us-jobs/job/4750854005?gh_jid=4750854005) | United States |  | 2026-11-03 |
@@ -191,7 +226,6 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Duolingo University Recruitment | [QA Specialist I, Recent Graduate](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8928682002) | New York, NY; Pittsburgh, PA | USD 68k-78k | 2026-11-03 |
 | Duolingo | [QA Specialist I, Recent Graduate](https://careers.duolingo.com/jobs/8927565002?gh_jid=8927565002) | New York, NY; Pittsburgh, PA | USD 68k-78k | 2026-11-03 |
 | Barrios | [Software Developer I (Applications and Data)](https://careers-barrios.icims.com/jobs/2903/software-developer-i-%28applications-and-data%29/job) | Houston, TX, US |  | 2026-11-03 |
-| Riverside Research | [Jr Software Engineer](https://careers-riversideresearch.icims.com/jobs/4456/jr-software-engineer/job) | Beavercreek, OH, US |  | 2026-11-03 |
 | STERIS | [Software Engineer I](https://career4.successfactors.com/careers?company=steriscorpP&lang=en_US&career_ns=job_application&career_job_req_id=57096&jobPipeline=PhenomCareerSite) | Plymouth, Minnesota, United States |  | 2026-11-03 |
 | Amazon | [Software Development Engineer (Embedded Systems) Early Career - 2027 (US)](https://www.amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) | Seattle, WA, US |  | 2026-11-03 |
 | Amazon | [Software Development Engineer - 2027](https://www.amazon.jobs/en/jobs/10595319/software-development-engineer-2027) | Haifa, IL; Tel Aviv, IL |  | 2026-11-03 |
@@ -202,16 +236,16 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | SAIC | [Junior Hardware Engineer](https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618468) | Huntsville, AL, United States |  | 2026-11-03 |
 | UnitedHealth Group | [Associate Data Engineer](https://careers.unitedhealthgroup.com/job/eden-prairie/associate-data-engineer/34088/101581087008) | Eden Prairie, Minnesota, United States | USD 60k-107k | 2026-11-03 |
 | Amentum | [Software Tools Developer, Entry Level](https://pae.wd1.myworkdayjobs.com/Amentum_Careers/job/US-AL-Huntsville/Software-Tools-Developer--Entry-Level_R0174727) | US-AL-Huntsville |  | 2026-11-03 |
+| Booz Allen | [Software Engineer, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700) | Albuquerque, NM |  | 2026-11-03 |
 | Bank of America | [Client Quantitative Analyst I](https://ghr.wd1.myworkdayjobs.com/US-EMPLSV/job/Jacksonville/Client-Quantitative-Analyst-I_26034513) | Jacksonville |  | 2026-11-03 |
-| Leidos | [Junior Software Engineer (SWE-1)](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405) | 3325 Fort George G. Meade MD |  | 2026-11-03 |
 | NVIDIA | [PCIe Post-Silicon Validation Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PCIe-Post-Silicon-Validation-Engineer---New-College-Grad-2027_JR2029108) | US, CA, Santa Clara |  | 2026-11-03 |
+| Leidos | [Junior Software Engineer (SWE-1)](https://leidos.wd5.myworkdayjobs.com/External/job/3325-Fort-George-G-Meade-MD/Junior-Software-Engineer--SWE-2-_R-00185405) | 3325 Fort George G. Meade MD |  | 2026-11-03 |
 | Ohio State University | [Data Management Analyst 1](https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Health-System-Shared-Services/Data-Management-Analyst-1_R150689-1) | Health System Shared Services |  | 2026-11-03 |
 | RELX | [Tech Accelerate Graduate Program - Software Engineer I](https://relx.wd3.myworkdayjobs.com/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1) | Alpharetta, GA | USD 59k-98k | 2026-11-03 |
 | Smithfield Foods | [Career Foundation Program (CFP) - Data Analytics - May/Spring 2027 Graduates](https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Career-Foundation-Program--CFP----Data-Analytics---May-Spring-2027-Graduates_R-2026-15044) | Smithfield, VA |  | 2026-11-03 |
 | CoStar Group | [Software Engineer I (C#/.NET)](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/US-VA-Arlington/Software-Engineer-I--C--NET-_R40234) | US-VA Arlington | USD 108k-154k | 2026-11-03 |
 | Sierra Nevada Corporation | [Systems Engineer I](https://snc.wd1.myworkdayjobs.com/SNC_External_Career_Site/job/Lone-Tree-CO/Systems-Engineer-I_R0031314) | Lone Tree, CO |  | 2026-11-03 |
 | LexisNexis Risk Solutions | [Tech Accelerate Graduate Program - Software Engineer I](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836) | Alpharetta, GA | USD 59k-98k | 2026-11-03 |
-| Booz Allen | [Software Engineer, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/Albuquerque-NM/Software-Engineer--Junior_R0242700) | Albuquerque, NM |  | 2026-11-03 |
 | Aurora | [Developer Support Engineer I](https://jobs.ashbyhq.com/aurora-operations-inc/3083054b-aa88-4cd5-86c2-96af5ddf1ee3) | Pittsburgh, PA | USD 88k-132k | 2026-11-02 |
 | Heavy Construction Systems Specialists, LLC | [Software Developer I](https://jobs.gem.com/heavy-construction-systems-specialists-llc/am9icG9zdDqao-MBoCNPnH2jR7uNNFpL) | Sugar Land, United States |  | 2026-11-02 |
 | The Swift Group | [Cyber Defense Analyst 1](https://jobs.gem.com/the-swift-group/am9icG9zdDoPhqL1dH7uSJPQ8FOmxUb7) | Annapolis Junction, United States |  | 2026-11-02 |
@@ -222,8 +256,8 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Verkada | [Backend Software Engineer - University Graduate 2027](https://job-boards.greenhouse.io/verkada/jobs/5280545007) | San Mateo, CA United States | USD 120k-140k | 2026-11-02 |
 | Schneider Electric | [Project Engineer 1, Security](https://se.jibeapply.com/jobs/139816) | Seattle, Washington | USD 86k-129k | 2026-11-02 |
 | Fortinet | [Software Dev QA Engineer (Early Career/NPI)](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24851) | Sunnyvale, CA, United States |  | 2026-11-02 |
-| IBM | [Entry level Hardware Developer - Austin, TX - 2027](https://careers.ibm.com/careers/JobDetail?jobId=139842) | Austin, US |  | 2026-11-02 |
 | Denso | [Systems Engineer 1](https://hcwt.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25916) | Maryville, TN, United States |  | 2026-11-02 |
+| Booz Allen | [ServiceNow Developer, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/ServiceNow-Developer--Junior_R0251800) | McLean, VA |  | 2026-11-02 |
 | Leidos | [Jr AI Native Software Developer](https://leidos.wd5.myworkdayjobs.com/External/job/Reston-VA/AI-Native-Software-Developer_R-00195073) | Reston, VA |  | 2026-11-02 |
 | General Dynamics Information Technology | [Cyber Risk Management Analyst Junior](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Ashburn/Cyber-Risk-Management-Analyst-Junior_RQ229992-1) | USA VA Ashburn | USD 85k-115k | 2026-11-02 |
 | General Dynamics Information Technology | [Junior Network Engineer](https://gdit.wd5.myworkdayjobs.com/External_Career_Site/job/USA-VA-Richmond/Junior-Network-Engineer_RQ229937-2) | USA VA Richmond | USD 85k-115k | 2026-11-02 |
@@ -232,7 +266,6 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | DXC Technology | [Operador/a de sistemas IT junior](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ESP---CT---SANT-CUGAT-DEL-VALLE/Operador-a-de-sistemas-IT-junior_51593198) | ESP - CT - SANT CUGAT DEL VALLE |  | 2026-11-02 |
 | Guidehouse | [Data Analyst I](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---VA-Norfolk/Data-Analyst-I_45743-1) | US - VA, Norfolk; US - VA, McLean |  | 2026-11-02 |
 | Gilead Sciences | [Research Scientist I, Attribute Sciences Computational Biology, AI & Scientific Informatic](https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Santa-Monica/Research-Scientist-I--Attribute-Sciences-Computational-Biology--AI---Scientific-Informatics_R0056062-2) | United States - California - Santa Monica |  | 2026-11-02 |
-| Booz Allen | [ServiceNow Developer, Junior](https://bah.wd1.myworkdayjobs.com/BAH_Jobs/job/McLean-VA/ServiceNow-Developer--Junior_R0251800) | McLean, VA |  | 2026-11-02 |
 | Steampunk | [Associate Data Scientist](https://careers-steampunk.icims.com/jobs/5916/associate-data-scientist/job) | McLean, VA, US | USD 75k-130k | 2026-11-01 |
 | Brown & Brown Insurance | [Junior HubSpot Developer](https://bbinsurance.wd1.myworkdayjobs.com/Careers/job/Plano-TX-USA/Junior-HubSpot-Developer_R26_0000003694) | Plano, TX, USA |  | 2026-11-01 |
 | Inductive Automation LLC | [Software Solutions Engineer I](https://jobs.ashbyhq.com/inductive-automation-llc/30720689-1747-4983-a482-7e19a5d4d151) | On-Site: Columbia, MD | USD 82k-95k | 2026-10-30 |
@@ -243,11 +276,10 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Urban Science | [Associate Software Engineer](https://careers-urbanscience.icims.com/jobs/5234/associate-software-engineer/job) | Detroit, MI, US |  | 2026-10-30 |
 | Amazon | [Software Development Engineer (Database) Early Career- 2027 (US)](https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us) | Seattle, WA, US |  | 2026-10-30 |
 | Applied Materials | [New College Grad - Computational Physics & Agentic AI Engineer, Doctorate Degree (Spring 2](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Physicist-Scientist--Doctorate-Degree--New-College-Grad--Spring-2027-_R2630376) | Santa Clara,CA |  | 2026-10-30 |
-| NVIDIA | [Deep Learning Performance Architect - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Performance-Architect---New-College-Grad-2027_JR2028177) | US, CA, Santa Clara |  | 2026-10-30 |
-| NVIDIA | [ASIC Verification Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Verification-Engineer---New-College-Grad-2027_JR2027719) | US, CA, Santa Clara; US, TX, Austin |  | 2026-10-30 |
 | NVIDIA | [Low Power ASIC Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Low-Power-ASIC-Engineer---New-College-Grad-2027_JR2027850) | US, CA, Santa Clara |  | 2026-10-30 |
 | NVIDIA | [GPU PCIe and Boot Architect - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-PCIe-and-Boot-Architect---New-College-Grad-2027_JR2026276) | US, CA, Santa Clara |  | 2026-10-30 |
 | NVIDIA | [ASIC Design Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277) | US, CA, Santa Clara |  | 2026-10-30 |
+| NVIDIA | [ASIC Verification Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343) | US, TX, Austin |  | 2026-10-30 |
 | GlobalFoundries | [Silicon Photonics Device Engineer (2027 New College Graduate)](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Silicon-Photonics-Device-Engineer--2027-New-College-Graduate-_JR-2604301) | USA - New York - Malta |  | 2026-10-30 |
 | The Aerospace Corporation | [IC 2027 Software Integration Engineer](https://aero.wd5.myworkdayjobs.com/External/job/Chantilly-VA/IC-2027-Software-Integration-Engineer_R017007) | Chantilly, VA |  | 2026-10-30 |
 | OpenDataJobs | [Junior DevSecOps Engineer (Python, CI/CD)](https://apply.workable.com/j/EA12CDE987) | Washington, District of Columbia, United States | USD 80k-95k | 2026-10-30 |
@@ -258,6 +290,8 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Citi | [Junior Application Developer](https://jobs.citi.com/job/tampa/junior-application-developer/287/102610237696) | Tampa, FL, US |  | 2026-10-29 |
 | Micron Technology | [New College Grad - Data Scientist, AI for Business Functions](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682) | Boise, ID - Main Site |  | 2026-10-29 |
 | Bank of America | [Data Scientist I](https://ghr.wd1.myworkdayjobs.com/US-EMPLSV/job/Charlotte/Data-Scientist-I_26040215-1) | Charlotte |  | 2026-10-29 |
+| Leidos | [Jr Systems Engineer](https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Jr-Systems-Engineer_R-00195816) | Newport News, VA |  | 2026-10-29 |
+| Leidos | [Jr. Offensive Cyber Engineer](https://leidos.wd5.myworkdayjobs.com/External/job/Lawton-OK/Jr-Offensive-Cyber-Engineer_R-00195810) | Lawton, OK |  | 2026-10-29 |
 | Cisco | [Hardware Engineer I (Full Time) - United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-I--Full-Time----United-States_2024649) | San Jose, California, US |  | 2026-10-29 |
 | Cisco | [Software QA Engineer I (Full Time) - United States](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Richardson-Texas-US/Software-QA-Engineer-I--Full-Time----United-States_2030253) | Richardson, Texas, US |  | 2026-10-29 |
 | University of Texas at Austin | [Enterprise Network Engineer I](https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Enterprise-Network-Engineer-I_R_00049731) | AUSTIN, TX |  | 2026-10-29 |
@@ -268,36 +302,17 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Emory University | [Data Analyst (University Registrar)](https://emory.jibeapply.com/jobs/175840) | Atlanta, Georgia |  | 2026-10-28 |
 | Valtech | [Jr. AI Native Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/5020033101) | United States - Remote |  | 2026-10-28 |
 | Rocket Lab Corporation | [Systems Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/8054797003) | Long Beach, CA | USD 82k-113k | 2026-10-28 |
-| Peraton | [Jr. Java Cloud Developer](https://peraton.jibeapply.com/jobs/172613) | Annapolis Junction, Maryland; Annapolis Junction, MD, US | USD 104k-166k | 2026-10-28 |
+| Peraton | [Jr. Java Cloud Developer](https://peraton.jibeapply.com/jobs/172613) | Annapolis Junction, Maryland | USD 104k-166k | 2026-10-28 |
 | Bigbear.ai | [Junior Data Engineer](https://careers.bigbear.ai/jobs/4598) | Norfolk, Virginia |  | 2026-10-28 |
-| Cadmus | [Jr. Full Stack Developer](https://careers-cadmusgroup.icims.com/jobs/3255/jr.-full-stack-developer/job) | US | USD 80k-100k | 2026-10-28 |
-| Ring Power | [AI Engineer I - (In Office)](https://careers-ringpower.icims.com/jobs/15387/ai-engineer-i---%28in-office%29/job) | St. Augustine, FL, US |  | 2026-10-28 |
-| DXC Technology | [Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---TN---CHENNAI/Analyst-I-Software-Engineering_51591986) | IND - TN - CHENNAI |  | 2026-10-28 |
-| U.S. Bank | [Software Engineer 1 (Java, Linux, SQL)](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Saint-Paul-MN/Software-Engineer-1--Java--Linux--SQL-_2026-0026539) | Saint Paul, MN |  | 2026-10-28 |
-| Guidehouse | [Junior Developer](https://guidehouse.wd1.myworkdayjobs.com/External/job/US---IL-Scott-Air-Force-Base/Junior-Developer_45430-1) | US - IL, Scott Air Force Base |  | 2026-10-28 |
-| Bureau of Economic Analysis | [Data Scientist (Recent Graduate)](https://www.usajobs.gov/job/890682200) | Suitland, Maryland, United States | USD 57k-101k | 2026-10-28 |
-| Viasat, Inc. | [Embedded Software Engineer, Early Career](https://careers.viasat.com/jobs/6722) | Marlborough, Massachusetts; Tempe, Arizona; Carlsbad, California |  | 2026-10-27 |
-| Johns Hopkins Applied Physics Laboratory | [2027 Graduate - Cyber Engineer/Scientist - Resilient Military Systems](https://careers.jhuapl.edu/jobs/59353) | Laurel, Maryland |  | 2026-10-27 |
-| RainFocus | [Jr. UI Developer (Remote)](https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798) | Any State |  | 2026-10-27 |
-| Johns Hopkins Applied Physics Laboratory | [2027 Graduate – Engineer or Scientist – Offensive Cyber Capabilities](https://careers.jhuapl.edu/jobs/59906) | Laurel, Maryland |  | 2026-10-27 |
-| SambaNova | [Post-Silicon Validation Engineer, New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004) | San Jose, California, United States | USD 120k-150k | 2026-10-27 |
-| First Citizens Bank | [Data Engineer I - Data Platform (Remote-Raleigh NC, Dallas TX, Phoenix AZ)](https://jobs.firstcitizens.com/jobs/35896) | Phoenix, Arizona; Arizona, United States; North Carolina, United States; Austin, Texas |  | 2026-10-27 |
-| Agave | [Full-Stack Software Engineer (New Grad)](https://jobs.ashbyhq.com/Agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e) | San Francisco | USD 130k-160k | 2026-10-27 |
-| Samsung Research America Internship | [2027 Health AI Scholar, Digital Health Algorithms Team](https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8918278002) | 665 Clyde Avenue, Mountain View,  CA, USA |  | 2026-10-27 |
-| SambaNova | [Cloud Platform Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224940004) | Austin, Texas, United States; San Jose, California, United States | USD 131k-196k | 2026-10-27 |
-| SambaNova | [ML Infrastructure Engineer - New Grad](https://sambanova.ai/sambanova-available-positions/?gh_jid=6224938004) | Austin, Texas, United States; San Jose, California, United States | USD 131k-196k | 2026-10-27 |
-| Johns Hopkins Applied Physics Laboratory | [2027 Graduate – Cybersecurity Engineer - Critical Infrastructure Protection](https://careers.jhuapl.edu/jobs/60384) | Laurel, Maryland |  | 2026-10-27 |
-| CrossCountry Consulting | [Forward Deployed Software Engineer (Recent Graduate) - DC Metro](https://jobs.lever.co/crosscountry-consulting/eb6ab6cf-6f93-486f-b4bf-6137bc67feb7) | McLean, VA | USD 95k-125k | 2026-10-27 |
-| CrossCountry Consulting | [Forward Deployed Software Engineer (Recent Graduate) - Chicago](https://jobs.lever.co/crosscountry-consulting/10ecb553-0393-4e7b-af5a-88a1947a0769) | Chicago, IL | USD 95k-125k | 2026-10-27 |
-| Esri | [DevOps Engineer I – Azure](https://www.esri.com/careers/5262837007?gh_jid=5262837007) | Redlands, CA | USD 79k-133k | 2026-10-27 |
 
 ## Canada
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| CSC Generation | [Junior Software Engineer](https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185) 🆕 | Remote - Toronto |  | 2026-11-09 |
-| TD Bank | [Software Engineer I (Cobol Developer)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Cobol-Developer-_R_1512398) 🆕 | Toronto, Ontario | CAD 69k-98k | 2026-11-09 |
-| Bank of Montreal | [Software Developer (New or Recent Graduate)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) 🆕 | Toronto, ON, CAN |  | 2026-11-09 |
+| Cardata | [Jr. Data Analyst](https://job-boards.greenhouse.io/cardata/jobs/4486297009) 🆕 | Canada - Remote |  | 2026-11-10 |
+| Motorola | [Jr. Software Engineer, AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300) 🆕 | Ontario Remote Work |  | 2026-11-10 |
+| TD Bank | [Software Engineer I (Cobol Developer)](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-I--Cobol-Developer-_R_1512398) | Toronto, Ontario | CAD 69k-98k | 2026-11-09 |
+| Bank of Montreal | [Software Developer (New or Recent Graduate)](https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581) | Toronto, ON, CAN |  | 2026-11-09 |
 | Capgemini | [Junior Systems Engineer](https://careers.capgemini.com/job/Utrecht-Junior-Systems-Engineer/1195009901/) | Utrecht, NL |  | 2026-11-08 |
 | Halliburton | [Early Career Software Developer - Landmark](https://jobs.halliburton.com/job/Calgary-Early-Career-Software-Developer-Landmark-AB-T2P-3V4/1448670200/) | Calgary, AB, CA |  | 2026-11-07 |
 | Hootsuite | [Junior Software Developer](https://job-boards.greenhouse.io/hootsuite/jobs/8359647) | Toronto, Ontario, Canada, Vancouver, British Columbia, Canada | CAD 67k-94k | 2026-11-06 |
@@ -320,16 +335,21 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | TD Bank | [Data Scientist I (Quants) – Insurance Model Validation](https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Data-Scientist-I--Quants----Insurance-Model-Validation_R_1515326) | Toronto, Ontario | CAD 81k-115k | 2026-10-29 |
 | Valtech | [Jr. AI Native Engineer](https://job-boards.eu.greenhouse.io/valtech/jobs/5020030101) | Canada - Remote |  | 2026-10-28 |
 | Xsolla | [Junior Frontend Developer, Custom Webshop Development](https://jobs.lever.co/xsolla/a71646ad-6ac5-4103-b68c-3d399fc10b35) | Montreal |  | 2026-10-28 |
-| American Express | [Campus Graduate Full-Time Engineer - 2027 AI Engineering, Enterprise Technology Services- ](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015465) | Toronto, ON, Canada |  | 2026-10-28 |
-| Rivian | [Early Career - Cybersecurity Application Security Engineer](https://careers.rivian.com/jobs/31067) | Vancouver, Canada | CAD 86k-107k | 2026-10-27 |
 
 ## UK & Ireland
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| MSX International | [Associate Software Engineer](https://jobs.smartrecruiters.com/MSXInternational/3743990016761326) 🆕 | Worcester, England, United Kingdom; Oxford, England, United Kingdom; Northampton, England, United Kingdom +1 more |  | 2026-11-10 |
+| PA Consulting | [2027 Graduate - Digital (Digital Trust & Cyber Security) Analyst - London](https://jobs.smartrecruiters.com/PAConsulting/744000160878946) 🆕 | London, United Kingdom |  | 2026-11-10 |
+| PA Consulting | [2027 Graduate - Digital (Digital & Data) Analyst - Bristol](https://jobs.smartrecruiters.com/PAConsulting/744000160878550) 🆕 | Bristol, United Kingdom |  | 2026-11-10 |
+| PA Consulting | [2027 Graduate - Digital & Data Analyst - Manchester](https://jobs.smartrecruiters.com/PAConsulting/744000160879444) 🆕 | Manchester, United Kingdom |  | 2026-11-10 |
+| PA Consulting | [2027 Graduate - Software & AI Systems Engineer - Cambridge](https://jobs.smartrecruiters.com/PAConsulting/744000160873680) 🆕 | Melbourn, United Kingdom |  | 2026-11-10 |
+| PA Consulting | [2027 Graduate - Applied Scientist (Materials Science) - Cambridge](https://jobs.smartrecruiters.com/PAConsulting/744000160872831) 🆕 | Melbourn, United Kingdom |  | 2026-11-10 |
+| PA Consulting | [2027 Graduate - Applied Scientist (Physics) - Cambridge](https://jobs.smartrecruiters.com/PAConsulting/744000160875999) 🆕 | Melbourn, United Kingdom |  | 2026-11-10 |
 | Capgemini | [Graduate Software Engineering Programme April 2027](https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-April-2027/1443168333/) 🆕 | Telford, GB |  | 2026-11-10 |
 | Kraken | [Data Platform Engineer I](https://jobs.ashbyhq.com/krakentech/39f3c25d-d982-49c5-9704-f3dc8458c0fd) 🆕 | London, UK |  | 2026-11-09 |
-| Nominal | [Graduate Software Engineer/Mission Dev Engineer - London](https://jobs.gem.com/nominal/am9icG9zdDq-S-CZabzn1Br_Eg1-thRF) 🆕 | London, United Kingdom | GBP 86k-120k | 2026-11-09 |
+| Nominal | [Graduate Software Engineer/Mission Dev Engineer - London](https://jobs.gem.com/nominal/am9icG9zdDq-S-CZabzn1Br_Eg1-thRF) | London, United Kingdom | GBP 86k-120k | 2026-11-09 |
 | Stryker | [R&D Software Engineering Graduate Program - September 2027](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cork-Ireland/R-D-Software-Engineering-Graduate-Program---September-2027_R573070) | Cork, Ireland |  | 2026-11-06 |
 | State Street | [Software Engineer (Cyber Security) Early Career Entry Program 2027](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Software-Engineer--Cyber-Security--Early-Career-Entry-Program-2027_R-800609-1) | Kilkenny, Ireland |  | 2026-11-06 |
 | Designer Group | [Junior Data Engineer](https://apply.workable.com/j/9E390E58F3) | Dublin, County Dublin, Ireland |  | 2026-11-06 |
@@ -344,7 +364,6 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8647260002/) | London, GB |  | 2026-11-04 |
 | Two Sigma | [Software Engineering Full-Time Campus Hire - London](https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineering-Full-Time-Campus-Hire-London/14020) | London, GB |  | 2026-11-04 |
 | Bosch Group | [Vehicle Dynamics Software Engineer Graduate](https://jobs.smartrecruiters.com/BoschGroup/744000159679514) | Nuneaton, England, United Kingdom |  | 2026-11-04 |
-| Publicis Groupe Holdings B.V | [Junior Data Analyst (Social Data & Automation)](https://careers.publicisgroupe.com/jobs/179413) | London, United Kingdom |  | 2026-11-04 |
 | DXC Technology | [Junior Oracle Database and Infrastructure Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/UK114---BelfastUnited-KingdomUK114/Junior-Oracle-Infrastructure---Database-Engineer_51593405) | UK114 - Belfast,United Kingdom(UK114) |  | 2026-11-04 |
 | Resonance | [Graduate Applied AI Engineer](https://jobs.ashbyhq.com/Resonance/548a6de0-18d2-43df-88e4-a132e91d2089) | London |  | 2026-11-03 |
 | ASOS | [Associate Data Engineer](https://jobs.smartrecruiters.com/ASOS/744000159449334) | London, England, United Kingdom |  | 2026-11-03 |
@@ -352,8 +371,6 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | State Street | [Cyber Security Early Career Entry Program 2027](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Cyber-Security-Operations-Center-Early-Career-Placement-Program-2027_R-800620) | Kilkenny, Ireland |  | 2026-11-03 |
 | LEAP Legal Software | [Junior IT Service Desk Engineer](https://apply.workable.com/j/8963E6CE3B) | London, England, United Kingdom |  | 2026-11-03 |
 | marshmallow | [Junior Pricing Data Scientist](https://jobs.ashbyhq.com/marshmallow/99c302d4-2772-4e23-bc03-55bfea905f66) | London |  | 2026-11-02 |
-| Bosch Group | [Graduate AI & Automation Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000159172560) | Nuneaton, England, United Kingdom |  | 2026-11-02 |
-| MSX International | [Associate Software Engineer](https://jobs.smartrecruiters.com/MSXInternational/3743990016552156) | Warwick, United Kingdom |  | 2026-11-02 |
 | Navan | [Junior Backend Software Engineer](https://navan.com/careers/openings?gh_jid=8336673) | London, UK |  | 2026-11-02 |
 | Kerv | [Junior Network Security Support Engineer](https://job-boards.eu.greenhouse.io/kerv/jobs/5024781101) | London |  | 2026-11-02 |
 | Databricks | [Software Engineer - New Grad (2027 Start) - London](https://databricks.com/company/careers/open-positions/job?gh_jid=8847747002) | London, United Kingdom |  | 2026-11-02 |
@@ -368,52 +385,52 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Pfizer | [Graduate Data Scientist (Pfizer Ringaskiddy)](https://pfizer.wd1.myworkdayjobs.com/PfizerCareers/job/Ireland---Cork---Ringaskiddy/Graduate-Data-Scientist--Pfizer-Ringaskiddy-_4966660) | Ireland - Cork - Ringaskiddy |  | 2026-10-30 |
 | Moog | [Junior Hardware Engineer](https://moog.wd5.myworkdayjobs.com/MOOG_External_Career_Site/job/Luton-GBR/Junior-Hardware-Engineer_R-26-19257) | Luton, GBR |  | 2026-10-29 |
 | Mako | [Graduate Software Engineer, London](https://www.mako.com/opportunities/job-listing/8921970002?gh_jid=8921970002) | London |  | 2026-10-28 |
-| Frazer Nash | [Cyber Graduate](https://apply.workable.com/j/15547CB70B) | Bristol, England, United Kingdom |  | 2026-10-28 |
-| Frazer Nash | [Data Science & Software Graduate](https://apply.workable.com/j/37A3E1F4E3) | Bristol, England, United Kingdom |  | 2026-10-28 |
-| Sierra | [Software Engineer, Agent (New Grad 2027)](https://jobs.ashbyhq.com/Sierra/d0e78ab0-92ac-4fec-a667-837fa371b1db) | London | GBP 120k-140k | 2026-10-27 |
 
 ## Europe
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Capgemini | [Associate Data Scientist](https://careers.capgemini.com/job/Bertrange-Associate-Data-Scientist/1235356901/) 🆕 | Bertrange, LU; Lisboa, PT |  | 2026-11-10 |
-| Capgemini | [Junior Software Engineer / DevOps](https://careers.capgemini.com/job/Iasi-Junior-Software-Engineer-DevOps/1435390733/) 🆕 | Iasi, RO |  | 2026-11-10 |
-| Capgemini | [Junior IT Support Agent (with Dutch)](https://careers.capgemini.com/job/Katowice-Junior-IT-Support-Agent-%28with-Dutch%29/1443252533/) 🆕 | Katowice, PL |  | 2026-11-10 |
+| Capgemini | [Junior Cloud Engineer](https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Cloud-Engineer/1399964033/) 🆕 | Vila Nova de Gaia, PT |  | 2026-11-11 |
+| Capgemini | [Junior Devops Engineer](https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Devops-Engineer/1399990433/) 🆕 | Vila Nova de Gaia, PT |  | 2026-11-11 |
+| Capgemini | [Junior Site Reliability Engineer](https://careers.capgemini.com/job/Vila-Nova-de-Gaia-Junior-Site-Reliability-Engineer/1438343533/) 🆕 | Vila Nova de Gaia, PT |  | 2026-11-11 |
+| Capgemini | [Junior .NET Developer](https://careers.capgemini.com/job/Wroc%C5%82aw-Junior-_NET-Developer/1453874933/) 🆕 | Wrocław, PL |  | 2026-11-11 |
+| Capgemini | [Ingénieure / Ingénieur Logiciel Junior](https://careers.capgemini.com/job/Toulouse-Ing%C3%A9nieure-Ing%C3%A9nieur-Logiciel-Junior/1412150833/) 🆕 | Toulouse, FR; Cesson Sevigne, FR |  | 2026-11-11 |
+| Capgemini | [Junior Java Developer](https://careers.capgemini.com/job/Iasi-Junior-Java-Developer/1387960133/) 🆕 | Iasi, RO; Lisboa, PT |  | 2026-11-11 |
+| Bosch Group | [Junior Electronics Application Engineer – Compact Hydraulics & Mobile Electronics](https://jobs.smartrecruiters.com/BoschGroup/744000160905149) 🆕 | Cernusco sul Naviglio, Lombardia, Italy |  | 2026-11-10 |
+| Poland and Central-Eastern Europe | [Junior IT HelpDesk](https://job-boards.greenhouse.io/xebiacee/jobs/6254066004) 🆕 | Poland |  | 2026-11-10 |
+| Teads | [Junior Software Engineer - DR Delivery Team](https://job-boards.eu.greenhouse.io/teads1/jobs/4999828101) 🆕 | Ljubljana |  | 2026-11-10 |
+| Formlabs | [Junior DevOps Engineer](https://careers.formlabs.com/job/8370709/apply/?gh_jid=8370709) 🆕 | Budapest, Hungary |  | 2026-11-10 |
+| BALLY’S INTRALOT SA | [Junior Embedded Software Engineer](https://ballysintralotsa.recruitee.com/o/junior-embedded-software-engineer) 🆕 | Athens, Attikí, Greece | EUR 1k | 2026-11-10 |
+| Airbus | [Embedded Software Development Engineer – Entry-level Software developer (m/f)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/Embedded-Software-Development-Engineer---Entry-level-Software-developer--m-f-_JR10453443-1) 🆕 | Toulouse Area |  | 2026-11-10 |
+| IQVIA | [Fresh Graduate Data Analyst (Python/SQL) - French Native Speaker (Spain Remote)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Fresh-Graduate-Data-Analyst--Python-SQL----French-Native-Speaker--Spain-Remote-_R1568966) 🆕 | Madrid, Spain |  | 2026-11-10 |
+| DXC Technology | [Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/ITA---RM---ROME/Analyst-I-Software-Engineering_51594289) 🆕 | ITA - RM - ROME |  | 2026-11-10 |
+| Sanofi | [Pharmaziepraktikant*in im Bereich FBC FF NLP Production November 2027](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Frankfurt-am-Main/Pharmaziepraktikant-in-im-Bereich-FBC-FF-NLP-Production-November-2027_R2855543) 🆕 | Frankfurt am Main |  | 2026-11-10 |
+| BorgWarner | [Software Development Engineer I (m/w/d)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Darmstadt-HQ---Germany/Software-Development-Engineer-I--m-w-d-_R2026-4245) 🆕 | Darmstadt (HQ) - Germany |  | 2026-11-10 |
 | Mollie | [Analytics Engineer I](https://jobs.ashbyhq.com/mollie/49a59e10-b4d9-43aa-808e-8f4a1f9172b4) 🆕 | Milan |  | 2026-11-09 |
 | Scalable GmbH | [(Junior) Frontend Engineer — Broker (m/f/x)](https://jobs.smartrecruiters.com/ScalableGmbH/744000160616480) 🆕 | München, BY, Germany |  | 2026-11-09 |
-| Microsoft | [Cloud Solution Architect - Entry Level](https://apply.careers.microsoft.com/careers/job/1970393557054132) 🆕 | Bucharest, Bucharest, Romania |  | 2026-11-09 |
 | QuantWare | [Junior Quantum Design Engineer](https://jobs.ashbyhq.com/quantware/799ad53a-3cf7-4f7d-94b1-870fc2eaaba7) 🆕 | Delft |  | 2026-11-09 |
 | CITECH | [Analyste Développeur COBOL Junior – Monétique / Autorisations (H/F)](https://jobs.smartrecruiters.com/CITECH/744000160556225) 🆕 | Strasbourg, Grand Est, France |  | 2026-11-09 |
 | Axon | [Software Engineer I](https://job-boards.greenhouse.io/axon/jobs/7816769003) 🆕 | Romania-Bucharest Office; Romania-Timisoara Office |  | 2026-11-09 |
 | SWARCO AG | [Dualer Student Informatik (m/w/d)  I  Künstliche Intelligenz oder Cyber Security / Start 2](https://jobs.smartrecruiters.com/SWARCO/744000160549730) 🆕 | Unterensingen, BW, Germany |  | 2026-11-09 |
-| Capgemini | [Junior Cloud Platform Engineer](https://careers.capgemini.com/job/Lisboa-Junior-Cloud-Platform-Engineer/1431013233/) 🆕 | Lisboa, PT |  | 2026-11-09 |
-| Capgemini | [Ingénieure / Ingénieur Logiciel Junior](https://careers.capgemini.com/job/Cesson-Sevigne-Ing%C3%A9nieure-Ing%C3%A9nieur-Logiciel-Junior/1411938833/) 🆕 | Cesson Sevigne, FR |  | 2026-11-09 |
-| Capgemini | [Associate Data Engineer](https://careers.capgemini.com/job/Aix-en-Provence-Associate-Data-Engineer/1195599501/) 🆕 | Aix-en-Provence, FR |  | 2026-11-09 |
-| Zensai | [Junior Data & AI Solution Developer](https://zensai.recruitee.com/o/junior-data-ai-solution-developer) 🆕 | Copenhagen, Sjælland, Denmark |  | 2026-11-09 |
-| DXC Technology | [Junior Fullstack Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/BGR---SOFIA/Junior-Fullstack-Developer_51592792) 🆕 | BGR - SOFIA |  | 2026-11-09 |
-| Barclays | [2027 Technology Part Time Developer Programme Prague](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Part-Time-Developer-Programme-Prague_JR-0000131175) 🆕 | Gemini Building A, Prague |  | 2026-11-09 |
-| Barclays | [2027 Technology Developer Graduate Programme Prague](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Developer-Graduate-Programme-Prague_JR-0000131174-1) 🆕 | Gemini Building A, Prague |  | 2026-11-09 |
-| Airbus | [#Discover I 2027-2028 - Digital Transformation & Data Strategy](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/XMLNAME--Discover-I-2027-2028---Digital-Transformation---Data-Strategy_JR10455853) 🆕 | Getafe Area |  | 2026-11-09 |
-| Airbus | [Cyber Security - SOC Integrator & UseCase Factory Specialist - #CORE DIGITAL CAMPUS](https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/Cyber-Security---SOC-Integrator---UseCase-Factory-Specialist----CORE-DIGITAL-CAMPUS_JR10442347) 🆕 | Albacete |  | 2026-11-09 |
-| Airbus | [#CORE DIGITAL CAMPUS Platform Engineer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--CORE-DIGITAL-CAMPUS-Platform-Engineer_JR10450439) 🆕 | Albacete |  | 2026-11-09 |
-| Airbus | [#DIGITAL CAMPUS - Observability IT operation specialist](https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--DIGITAL-CAMPUS---Observability-IT-operation-specialist_JR10450677) 🆕 | Albacete |  | 2026-11-09 |
-| Airbus | [#DIGITAL CAMPUS - Solution Architect for Scientific Computing](https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--DIGITAL-CAMPUS---Solution-Architect-for-Scientific-Computing_JR10446661) 🆕 | Albacete |  | 2026-11-09 |
+| Zensai | [Junior Data & AI Solution Developer](https://zensai.recruitee.com/o/junior-data-ai-solution-developer) | Copenhagen, Hovedstaden, Denmark |  | 2026-11-09 |
+| Airbus | [Cyber Security - SOC Integrator & UseCase Factory Specialist - #CORE DIGITAL CAMPUS](https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/Cyber-Security---SOC-Integrator---UseCase-Factory-Specialist----CORE-DIGITAL-CAMPUS_JR10442347) | Albacete |  | 2026-11-09 |
+| Airbus | [#CORE DIGITAL CAMPUS Platform Engineer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--CORE-DIGITAL-CAMPUS-Platform-Engineer_JR10450439) | Albacete |  | 2026-11-09 |
+| Airbus | [#DIGITAL CAMPUS - Observability IT operation specialist](https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--DIGITAL-CAMPUS---Observability-IT-operation-specialist_JR10450677) | Albacete |  | 2026-11-09 |
+| Airbus | [#DIGITAL CAMPUS - Solution Architect for Scientific Computing](https://ag.wd3.myworkdayjobs.com/Airbus/job/Albacete/XMLNAME--DIGITAL-CAMPUS---Solution-Architect-for-Scientific-Computing_JR10446661) | Albacete |  | 2026-11-09 |
+| DXC Technology | [Junior Fullstack Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/BGR---SOFIA/Junior-Fullstack-Developer_51592792) | BGR - SOFIA |  | 2026-11-09 |
+| Barclays | [2027 Technology Part Time Developer Programme Prague](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Part-Time-Developer-Programme-Prague_JR-0000131175) | Gemini Building A, Prague |  | 2026-11-09 |
+| Barclays | [2027 Technology Developer Graduate Programme Prague](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Gemini-Building-A-Prague/XMLNAME-2027-Technology-Developer-Graduate-Programme-Prague_JR-0000131174-1) | Gemini Building A, Prague |  | 2026-11-09 |
 | Provectus | [Junior AI/ML Engineer (GenAI, AWS)](https://jobs.lever.co/provectus/92ccf747-e1a2-48b8-b0b5-9f8503480dc5) | Ukraine |  | 2026-11-07 |
 | Netcompany | [Junior IT Support Specialist - endpoint management (f/m)](https://jobs.smartrecruiters.com/Netcompany1/744000160239289) | Warsaw, Masovian Voivodeship, Poland |  | 2026-11-06 |
 | Renesas Electronics | [Junior Software Engineer](https://jobs.smartrecruiters.com/RenesasElectronics/744000160199559) | Lviv, Ukraine |  | 2026-11-06 |
 | Hiflylabs | [Junior Data Pipeline Analyst - Snowflake Migration](https://jobs.smartrecruiters.com/Hiflylabs/744000160154234) | Budapest, Hungary |  | 2026-11-06 |
-| Cisco | [Junior Platform Software Engineer (Go or Python), Core Platform - Splunk](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Krakow-Poland/Junior-Platform-Software-Engineer--Go-or-Python---Core-Platform---Splunk_2030345) | Krakow, Poland |  | 2026-11-06 |
 | Global Payments | [Junior Software Developer](https://tsys.wd1.myworkdayjobs.com/TSYS/job/ZAGREB--CROATIA/Junior-Software-Developer_R0076037) | ZAGREB, , CROATIA |  | 2026-11-06 |
-| Airbus | [#Discover I 2027-2028 AI Repair Solutions](https://ag.wd3.myworkdayjobs.com/Airbus/job/Sevilla---Tablada/XMLNAME--Discover-I-2027-2028-AI-Repair-Solutions_JR10455556) | Sevilla - Tablada |  | 2026-11-06 |
-| Accenture | [Data & AI Graduate Programme '27](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Lisbon/Data---AI-Graduate-Programme--27_R00369211) | Lisbon |  | 2026-11-06 |
 | Dev.Pro | [Junior Software Engineer (Angular, Node.js) - OP02304](https://apply.workable.com/j/7745313D29) | Wrocław, Lower Silesian Voivodeship, Poland |  | 2026-11-06 |
 | Ajax Systems | [Junior QA Engineer (Apps)](https://jobs.lever.co/ajax/e467f9d4-9619-4785-8c5c-cffaec5ffb98) | Kyiv |  | 2026-11-05 |
-| Sopra Steria | [Junior Data Engineer for Live Intelligence (m/w/d)](https://jobs.smartrecruiters.com/SopraSteria1/744000159869467) | Hamburg, HH, Germany |  | 2026-11-05 |
 | Scalable GmbH | [Junior Kotlin / Java Software Engineer - Clearing & Settlement (m/f/x)](https://jobs.smartrecruiters.com/ScalableGmbH/744000159851769) | München, BY, Germany |  | 2026-11-05 |
 | Drees & Sommer SE | [(Junior) IT Netzwerk Spezialist (w/m/d)](https://jobs.smartrecruiters.com/DreesSommerSE/744000159850424) | Stuttgart, BW, Germany |  | 2026-11-05 |
 | GOPA Pro GmbH | [Junior Digital Solutions Developer (m/f/d)](https://gopagroup.jobs.personio.de/job/2876895) | Bad Homburg |  | 2026-11-05 |
 | MasterBorn | [Junior Backend Developer (Node.js)](https://jobs.lever.co/masterborn-2/449dab93-d089-4094-ab7e-1cea3e2ad4d1) | Wrocław |  | 2026-11-05 |
-| Demo Datos | [Junior IT Project Analyst / PMO Analyst](https://pasiona.jobs.personio.de/job/2876651) | Remoto |  | 2026-11-05 |
 | Man Group | [Technology Graduate Programme – Software Engineer (Python)](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978868101) | Sofia |  | 2026-11-05 |
 | Man Group | [Technology Graduate Programme – Software Engineer (C#/.Net)](https://job-boards.eu.greenhouse.io/mangroup/jobs/4978867101) | Sofia |  | 2026-11-05 |
 | Siemens Healthineers | [Junior DevOps & AI Automation Engineer](https://careers.siemens-healthineers.com/global/en/job/P-101149) | Košice, Košice Region, Slovakia |  | 2026-11-05 |
@@ -424,10 +441,10 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Telemedi | [QA Engineer (Junior)](https://apply.workable.com/j/3134FFBB82) | Warszawa, Mazowieckie, Poland |  | 2026-11-05 |
 | Sopra Steria | [Data Junior con francés](https://jobs.smartrecruiters.com/SopraSteria1/744000159670839) | Madrid, MADRID, Spain |  | 2026-11-04 |
 | Ajax Systems | [Junior QA Engineer](https://jobs.lever.co/ajax/6f117a7e-563c-4413-94f9-bb2e3ec750a5) | Kyiv |  | 2026-11-04 |
-| OPTIVEUM sp. z o.o. | [Network Engineer – Campus LAN / Cisco Catalyst & Lancom](https://career.optiveum.com/jobs/8666144-network-engineer-campus-lan-cisco-catalyst-lancom) | Wrocław, Poland |  | 2026-11-04 |
 | Playtech | [Junior Data Analyst](https://jobs.smartrecruiters.com/Playtech/744000159591129) | Sofia, Bulgaria |  | 2026-11-04 |
 | Helloprint | [Junior or Medior AI Engineer](https://helloprint.recruitee.com/o/junior-or-medior-ai-engineer) | Rotterdam, Zuid-Holland, Netherlands | EUR 50k-75k | 2026-11-04 |
 | SCOR | [Junior Data Analyst](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5507) | Bucuresti - Ilfov, Romania |  | 2026-11-04 |
+| Airbus | [SNR 2027 - Security & Gouvernance (ALL GENDER)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Nantes-Area/SNR-2027---Security---Gouvernance--ALL-GENDER-_JR10454435) | Nantes Area |  | 2026-11-04 |
 | Mastercard | [Junior Network Provisioning Engineer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785) | Waterloo, Belgium |  | 2026-11-04 |
 | Leonardo | [VEL - Ground Support Systems (GSS) SW Developer Junior](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Torino---Cso-Francia/VEL---Ground-Support-Systems--GSS--SW-Developer-Junior_R0034565) | IT - Torino - C.so Francia |  | 2026-11-04 |
 | MasterBorn | [Junior Backend Developer (Python)](https://jobs.lever.co/masterborn-2/d283927e-859f-438d-a75b-04fa1e1b78be) | Wrocław |  | 2026-11-03 |
@@ -439,7 +456,6 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Sopra Steria | [Data Engineer i Malmö](https://jobs.smartrecruiters.com/SopraSteria1/744000159387213) | Malmö, Skåne län, Sweden |  | 2026-11-03 |
 | Sopra Steria | [Data Engineer i Göteborg](https://jobs.smartrecruiters.com/SopraSteria1/744000159383939) | Göteborg, Västra Götalands län, Sweden |  | 2026-11-03 |
 | Sopra Steria | [Data Engineer i Stockholm](https://jobs.smartrecruiters.com/SopraSteria1/744000159377778) | Stockholm, Stockholms län, Sweden |  | 2026-11-03 |
-| Teads | [Junior Software Engineer  - DR Delivery Team](https://job-boards.eu.greenhouse.io/teads1/jobs/5026047101) | Ljubljana |  | 2026-11-03 |
 | Nebius | [Software Engineer (Early Talent)](https://careers.nebius.com/?gh_jid=5026027101) | Amsterdam, Netherlands |  | 2026-11-03 |
 | Citi | [Technology - Cybersecurity, Full-Time Analyst, Hungary - Budapest, 2027](https://jobs.citi.com/job/budapest/technology-cybersecurity-full-time-analyst-hungary-budapest-2027/287/102810643536) | Budapest, 05, HU |  | 2026-11-03 |
 | Citi | [Technology - Infrastructure, Full-Time Analyst, Hungary - Budapest, 2027](https://jobs.citi.com/job/budapest/technology-infrastructure-full-time-analyst-hungary-budapest-2027/287/102810642704) | Budapest, 05, HU |  | 2026-11-03 |
@@ -447,6 +463,7 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Revel Robotics | [Junior Data Collection Specialist](https://jobs.ashbyhq.com/revelrobotics/f8b76581-38c6-42df-96c7-1e3ede387835) | Prague |  | 2026-11-02 |
 | ILLUIN Technology | [Junior Applied AI Engineer](https://jobs.ashbyhq.com/illuin/6ca6c9f2-5d9e-4c2b-b11f-8f67fbc5c839) | Paris La Défense |  | 2026-11-02 |
 | OPTIVEUM sp. z o.o. | [Junior IT Analyst](https://career.optiveum.com/jobs/8650086-junior-it-analyst) | Warsaw, Poland |  | 2026-11-02 |
+| Sopra Steria | [Junior DevOps Engineer](https://jobs.smartrecruiters.com/SopraSteria1/744000159080630) | Nieuwegein, UT, Netherlands |  | 2026-11-02 |
 | Novati | [Addetto/a back office commerciale junior software](https://next.tuolavoro.com/jobs/8647758-addetto-a-back-office-commerciale-junior-software) | Terni, Italy |  | 2026-11-02 |
 | Amazon | [Software Development Engineer - 2027](https://www.amazon.jobs/en/jobs/10594271/software-development-engineer-2027) | Iasi, RO |  | 2026-11-02 |
 | Honeywell | [Cyber Security Architect/Engineer I (m/f/d)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159441) | Bucuresti, Romania |  | 2026-11-02 |
@@ -469,40 +486,32 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Miele | [Junior IT Specialist](https://miele.wd3.myworkdayjobs.com/miele-jobs/job/Poznan/Junior-IT-Specialist_R5278) | Poznan |  | 2026-10-30 |
 | 1GLOBAL | [Junior IT & Administration Coordinator / Assistant](https://apply.workable.com/j/1F9059D482) | Warsaw, Masovian Voivodeship, Poland |  | 2026-10-30 |
 | AirHelp | [Junior IT Support Engineer](https://apply.workable.com/j/1B361D95A2) | Kraków, Lesser Poland Voivodeship, Poland |  | 2026-10-30 |
-| Timestamp | [Junior Java Developer](https://timestamp.teamtailor.com/jobs/8638480-junior-java-developer) | Lisboa, Portugal |  | 2026-10-29 |
 | Tieto | [Junior Software Engineer, C++ - Tieto Tech Consulting (m/f/d)](https://jobs.smartrecruiters.com/Tieto2/744000158514388) | Wrocław, Lower Silesian Voivodeship, Poland; Szczecin, West Pomeranian Voivodeship, Poland |  | 2026-10-29 |
 | Playtech | [Junior Java Developer](https://jobs.smartrecruiters.com/Playtech/744000158488064) | Sofia, Bulgaria |  | 2026-10-29 |
 | IBM | [Junior Software Developer](https://careers.ibm.com/careers/JobDetail?jobId=138764) | Sofia, BG |  | 2026-10-29 |
 | Cisco | [Junior C++ Software Engineer - Serbia - ETR](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/Junior-C---Software-Engineer---Serbia---ETR_2016195) | Belgrade, Serbia |  | 2026-10-29 |
-| Hewlett Packard Enterprise | [Junior Linux Platform System Administrator](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sofia-Sofia-Bulgaria/Junior-Linux-Platform-System-Administrator_1216481) | Sofia, Sofia, Bulgaria |  | 2026-10-29 |
 | Motorola | [Junior Java DevOps Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Junior-Java-DevOps-Engineer_R70211-1) | Krakow, Poland |  | 2026-10-29 |
 | Motorola | [Junior Software Engineer (Java/DevOps)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Software-Engineer--Java-DevOps-_R68542) | Krakow, Poland |  | 2026-10-29 |
-| Vanderlande Industries | [Junior Software Engineer – AI Vision / Computer Vision](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Barcelona-Spain/Junior-Software-Engineer---AI-Vision---Computer-Vision_JR37540-2) | Barcelona, Spain |  | 2026-10-29 |
 | Solidgate | [Junior Information Security Engineer](https://jobs.ashbyhq.com/solidgate/90c47fa1-3098-4de6-8941-be63e6db5030) | Kyiv |  | 2026-10-28 |
 | BlockTech | [Junior Quantitative Trader / Crypto Options](https://jobs.ashbyhq.com/blocktech/b62d71ac-b0c1-4383-8d9a-a687a4a723e3) | Amsterdam |  | 2026-10-28 |
-| Marsh McLennan | [Graduate / Consulting Analyst - Cyber Risk and Regulatory Compliance](https://mmc.wd1.myworkdayjobs.com/MMC/job/Lisbon---Antonio/Graduate---Consulting-Analyst---Cyber-Risk-and-Regulatory-Compliance_R_370426) | Lisbon, Portugal |  | 2026-10-28 |
-| VDK Groep B.V. | [Junior Accountmanager Software](https://vdkgroep.recruitee.com/o/junior-accountmanager-software-1) | Barendrecht, Zuid-Holland, Nederland |  | 2026-10-28 |
-| Leonardo | [CYS -  Junior Cyber Security Engineer - GCSC](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Chieti-Scalo/CYS----Junior-Cyber-Security-Engineer---GCSC_R0032987) | IT - Chieti Scalo |  | 2026-10-28 |
-| Prysmian Cables & Systems | [Junior IT Cyber Security](https://prysmiangroup.wd3.myworkdayjobs.com/Careers/job/Milcov/Junior-IT-Cyber-Security_R-37132) | Milcov |  | 2026-10-28 |
-| Alongside | [Junior Fullstack Developer - AI Focus (IEFP)](https://apply.workable.com/j/D0474AE211) | Porto, Porto District, Portugal |  | 2026-10-28 |
-| Farfetch | [Junior Analytics Engineer](https://jobs.lever.co/farfetch/ee7f0172-9b8e-48f4-bba1-9aea5d1c56e7) | Porto |  | 2026-10-27 |
-| Almedia | [Junior Data Scientist](https://jobs.ashbyhq.com/almedia/5c6dcc91-e246-4fb3-89d0-6b90a80d8740) | Berlin | EUR 60k-85k | 2026-10-27 |
-| PA Consulting | [Junior Consultants (student) within Data, AI & Technology – start February 2027](https://jobs.smartrecruiters.com/PAConsulting/744000158048480) | Copenhagen, Denmark |  | 2026-10-27 |
-| Sia | [Junior Software Engineer](https://jobs.smartrecruiters.com/Sia/744000158018397) | Paris, IDF, France |  | 2026-10-27 |
-| Aon Corporation | [Junior Market Security Analyst](https://jobs.aon.com/jobs/107263) | Krakow, Poland |  | 2026-10-27 |
 
 ## India
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| Capgemini | [Associate Software Engineer](https://careers.capgemini.com/job/Noida-Associate-Software-Engineer/1454084433/) 🆕 | Noida, IN |  | 2026-11-11 |
+| Capgemini | [Associate Data Modeller](https://careers.capgemini.com/job/Noida-Associate-Data-Modeller/1427815033/) 🆕 | Noida, IN |  | 2026-11-11 |
+| Gallagher | [QA Analyst I](https://jobs.ajg.com/jobs/61876) 🆕 | Gurugram, India |  | 2026-11-10 |
+| American Express | [Cybersecurity Engineer I](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014545) 🆕 | Bengaluru, KA, India |  | 2026-11-10 |
+| UnitedHealth Group | [Associate Data Engineering - Databricks](https://careers.unitedhealthgroup.com/job/bengaluru/associate-data-engineering-databricks/34088/103134198160) 🆕 | Bangalore, Karnataka, India |  | 2026-11-10 |
+| DXC Technology | [Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---KA---BANGALORE/Analyst-I-Software-Engineering_51587368) 🆕 | IND - KA - BANGALORE; IND - MH - MUMBAI |  | 2026-11-10 |
+| GSK | [Engineer I, Data Scientist](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Engineer-I--Data-Scientist_451018-1) 🆕 | Bengaluru Luxor North Tower |  | 2026-11-10 |
 | Conduent | [IT Testing Engineer I](https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26639) | Hyderabad, Andhra Pradesh, India |  | 2026-11-07 |
 | Secfix | [Backend Engineer – GTM Engineering (Fresh grad, India)](https://jobs.ashbyhq.com/secfix/583140f4-b26c-47b4-a9be-c7a88dc3c0f5) | Remote - India |  | 2026-11-06 |
 | American Express | [Infrastructure Engineer I](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016004) | Bengaluru, KA, India |  | 2026-11-06 |
 | LabCorp | [Associate Data Analyst](https://labcorp.wd1.myworkdayjobs.com/External/job/Bengaluru-India/Associate-Data-Analyst_2639837-1) | Bengaluru India |  | 2026-11-06 |
 | Syneos Health | [Data Analyst I](https://syneoshealth.wd12.myworkdayjobs.com/Syneos_Health_External_Site/job/IND-Hyderabad-Hybrid/Data-Analyst-I_25111783) | IND-Hyderabad-Hybrid |  | 2026-11-06 |
-| TriNet | [Associate Software Engineer](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004263) | Hyderabad, Telangana, India |  | 2026-11-05 |
 | TriNet | [Associate Data Analyst](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004321) | Hyderabad, Telangana, India |  | 2026-11-05 |
-| DXC Technology | [Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---MH---MUMBAI/Analyst-I-Software-Engineering_51589273) | IND - MH - MUMBAI |  | 2026-11-05 |
 | Blackhawk Network | [Platform Engineer I](https://blackhawknetwork.jibeapply.com/jobs/27229) | Bengaluru, India |  | 2026-11-04 |
 | DXC Technology | [RR-0384652 - Analyst I Infrastructure Services](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/IND---KA---BANGALORE/RR-0384652---Analyst-I-Infrastructure-Services_51581091) | IND - KA - BANGALORE |  | 2026-11-04 |
 | GSK | [Engineer I, Forward Deployed Engineer](https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/Bengaluru-Luxor-North-Tower/Engineer-I--Forward-Deployed-Engineer_450899) | Bengaluru Luxor North Tower |  | 2026-11-04 |
@@ -519,22 +528,24 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Thomson Reuters | [Associate Software Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site/job/India-Hyderabad-Telangana/Associate-Software-Engineer_JREQ204720) | India, Hyderabad, Telangana |  | 2026-11-02 |
 | TSS Consultancy Pvt. Ltd. | [Associate Data Research Analyst / Rajkot](https://jobs.smartrecruiters.com/TSSConsultancyPvtLtd/744000158666720) | Rajkot, India |  | 2026-10-30 |
 | Amgen | [Associate Data Scientist - Value & Access Strategy](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Scientist---Value---Access-Strategy_R-258314) | India - Hyderabad |  | 2026-10-30 |
-| Amgen | [Associate Data Scientist - Value and Access Strategy](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/Associate-Data-Scientist---Value-and-Access-Strategy_R-258316) | India - Hyderabad |  | 2026-10-30 |
-| Amgen | [US Value & Access Insights - Associate Data Scientist](https://amgen.wd1.myworkdayjobs.com/Careers/job/India---Hyderabad/US-Value---Access-Insights---Associate-Data-Scientist_R-258542-1) | India - Hyderabad |  | 2026-10-30 |
 | MediaRadar | [Junior Data Associate](https://apply.workable.com/j/0FEE644EDC) | Kolkata, West Bengal, India |  | 2026-10-30 |
 | Hewlett Packard Enterprise | [Systems/Software Engineer I](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Bengaluru-Karntaka-India/Lab-Engineer-I_1216116) | Bengaluru, Karnātaka, India |  | 2026-10-29 |
 | Mondelez International | [Associate Data Engineer](https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Mumbai-India/Associate-Data-Engineer_R-178810) | Mumbai, India |  | 2026-10-29 |
 | Cencora | [AI Developer 1](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Pune-India/AI-Developer-1_R2617120) | Pune, India |  | 2026-10-29 |
 | Stripe | [Software Engineer, New Grad](https://stripe.com/jobs/search?gh_jid=8130876) | Bangalore |  | 2026-10-28 |
-| Bristol Myers Squibb | [Analytics Engineer I , Commercialization](https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS/job/Hyderabad---TS---IN/Analytics-Engineer-I---Commercialization_R1607391) | Hyderabad - TS - IN |  | 2026-10-28 |
-| Copeland | [Engineer I Software Development](https://copeland.wd5.myworkdayjobs.com/Copeland_External_Careers_Page/job/Pune-India/Engineer-I-Software-Development_JR110063) | Pune, India |  | 2026-10-28 |
 
 ## Asia-Pacific
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8646746002/) 🆕 | Hong Kong, HK; Singapore, SG |  | 2026-11-10 |
+| Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8637960002/) 🆕 | Hong Kong, HK; Singapore, SG |  | 2026-11-11 |
+| Eurofins | [(IT Delivery Center) Junior Test Automation Engineer](https://jobs.smartrecruiters.com/Eurofins/744000161022079) 🆕 | Ho Chi Minh City, Ho Chi Minh, Vietnam |  | 2026-11-11 |
+| RAKUNA | [Junior/Associate QA Tester (Vietnamese only, Hanoi Based)](https://jobs.smartrecruiters.com/RAKUNA1/744000160902989) 🆕 | Long Biên, Hà Nội, Vietnam |  | 2026-11-10 |
+| NCS | [AI Software Engineer (Nucleus Graduate Programme)](https://jobs.smartrecruiters.com/NCS3/6000000001565161) 🆕 | Singapore, Singapore |  | 2026-11-10 |
+| Renesas Electronics | [Graduate Silicon Power MOSFET Application Engineer](https://jobs.smartrecruiters.com/RenesasElectronics/744000160810679) 🆕 | Bayan Lepas, Malaysia |  | 2026-11-10 |
+| Western Digital | [Scientist 1, Data Science](https://jobs.smartrecruiters.com/WesternDigital/744000160801744) 🆕 | Amphoe Si Maha Phot, Prachin Buri, Thailand |  | 2026-11-10 |
 | Endava | [Junior C/C++ Software Engineer](https://jobs.smartrecruiters.com/Endava/744000160785749) 🆕 | Ho Chi Minh City, Vietnam |  | 2026-11-10 |
+| NVIDIA | [NVIDIA 2027 New College Graduate: Hardware ASIC Engineering - China](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/NVIDIA-2027-New-College-Graduate--Hardware-ASIC-Engineering---China_JR2024110) 🆕 | China, Shanghai |  | 2026-11-10 |
 | NVIDIA | [AI Computing Software Developer - New College Graduate 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Computing-Software-Developer---New-College-Graduate-2027_JR2029372) 🆕 | Taiwan, Taipei |  | 2026-11-10 |
 | Contact Energy | [Junior Software Engineer](https://jobs.smartrecruiters.com/ContactEnergy/744000160744348) 🆕 | Wellington, Wellington, New Zealand; Auckland, Auckland, New Zealand |  | 2026-11-09 |
 | Endava | [Junior Software Engineer (C/C++, Linux)](https://jobs.smartrecruiters.com/Endava/744000160571332) 🆕 | Ho Chi Minh City, Vietnam |  | 2026-11-09 |
@@ -545,7 +556,7 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | SGS | [Junior Application and SQL Developer](https://jobs.smartrecruiters.com/SGS/744000160136986) | Muntinlupa, NCR, Philippines |  | 2026-11-06 |
 | Endava | [Junior Software Engineer (C++)](https://jobs.smartrecruiters.com/Endava/744000160113899) | Ho Chi Minh City, Vietnam |  | 2026-11-06 |
 | Experian | [Software Engineer I (Contract)](https://jobs.smartrecruiters.com/Experian/744000160083672) | Cyberjaya, Malaysia |  | 2026-11-06 |
-| Schneider Electric | [Engineer I, Electronics Hardware Design](https://se.jibeapply.com/jobs/140902) | Shanghai, China; Shenzhen, China |  | 2026-11-06 |
+| Schneider Electric | [Engineer I, Electronics Hardware Design](https://se.jibeapply.com/jobs/140902) | Shanghai, China |  | 2026-11-06 |
 | Cummins | [2027 Early Career - Product Engineer](https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2437228) | Chongqing, China |  | 2026-11-06 |
 | DXC Technology | [Analyst I Software Engineering](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/JPN---TOKYO/Analyst-I-Software-Engineering_51593594) | JPN - TOKYO |  | 2026-11-06 |
 | ASM | [Engineer, Software Support (New Graduates Welcome)](https://www.asm.com/open-vacancies/?gh_jid=5028136101) | Taiwan ) Hsinchu; Taiwan ) Kaohsiung; Taiwan ) Taichung; Taiwan ) Tainan |  | 2026-11-05 |
@@ -558,7 +569,6 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Jane Street | [Machine Learning Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8576934002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8754684002/) | Hong Kong, HK |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (New Grad)](https://www.janestreet.com/join-jane-street/position/8415898002/) | Hong Kong, HK |  | 2026-11-04 |
-| Western Digital | [Scientist 1, Data Science](https://jobs.smartrecruiters.com/WesternDigital/744000159540669) | Amphoe Si Maha Phot, Prachin Buri, Thailand |  | 2026-11-04 |
 | NCS | [AI Data Engineer (Nucleus Graduate Programme)](https://jobs.smartrecruiters.com/NCS3/6000000001546421) | Singapore, Singapore |  | 2026-11-04 |
 | Mercari, inc. | [Class of 2028 / New graduate Security Engineer - Mercari Group](https://apply.workable.com/j/BA572A7E2A) | Minato City, Tokyo, Japan |  | 2026-11-04 |
 | Aumovio | [SAM CN ACTC Junior Software Engineer](https://jobs.smartrecruiters.com/Aumovio/744000159311764) | Chang Chun Shi, Ji Lin Sheng, China |  | 2026-11-03 |
@@ -579,28 +589,26 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | NVIDIA | [Custom SOC ASIC Engineer - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Custom-SOC-ASIC-Engineer---New-College-Grad-2027_JR2028400-1) | China, Shanghai |  | 2026-10-29 |
 | NVIDIA | [Compute System Arch Engineer, AI Infra - New College Grad 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Compute-System-Arch-Engineer--AI-Infra---New-College-Grad-2027_JR2028578) | China, Shanghai |  | 2026-10-29 |
 | RepRisk AG | [Junior Research Analyst, Risk Data](https://jobs.smartrecruiters.com/RepRiskAG/744000158211459) | City of Taguig, National Capital Region, Philippines |  | 2026-10-28 |
-| moomoo | [2027 Fresh Grad Hire - AI Algorithm Engineer](https://apply.workable.com/j/10A30F877D) | Hong Kong, Hong Kong, Hong Kong |  | 2026-10-28 |
-| Directio Sp. z o.o. | [Junior Fullstack Developer (React and NodeJS) - Hybrid Work Type](https://directio.teamtailor.com/jobs/8627140-junior-fullstack-developer-react-and-nodejs-hybrid-work-type) | Fort Bonifacio, Taguig City, Philippines |  | 2026-10-27 |
-| Directio Sp. z o.o. | [Junior Fullstack Developer (.Net Core and React) - Hybrid Work Type](https://directio.teamtailor.com/jobs/8627121-junior-fullstack-developer-net-core-and-react-hybrid-work-type) | Fort Bonifacio, Taguig City, Philippines |  | 2026-10-27 |
 
 ## Latin America
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Capgemini | [Capgemini Internal - AI Engineer Jr](https://careers.capgemini.com/job/Aguascalientes-Capgemini-Internal-AI-Engineer-Jr/1437291233/) 🆕 | Aguascalientes, MX |  | 2026-11-10 |
+| Capgemini | [Jr Embedded Engineer (AUTOSAR) - Remote](https://careers.capgemini.com/job/Aguascalientes-Jr-Embedded-Engineer-%28AUTOSAR%29-Remote/1449634833/) 🆕 | Aguascalientes, MX |  | 2026-11-11 |
+| Capgemini | [ABL - Developer APIS & Microservices Jr](https://careers.capgemini.com/job/Aguascalientes-ABL-Developer-APIS-&-Microservices-Jr/1450517233/) 🆕 | Aguascalientes, MX |  | 2026-11-11 |
+| Farmers Insurance Careers | [FBS (Mexico) - Associate Data Engineer](https://jobs.farmersinsurance.com/job/MX-Remote-Work-FBS-%28Mexico%29-Associate-Data-Engineer/1377184857/) 🆕 | MX Remote Work, MX |  | 2026-11-11 |
+| McDonald's | [Software Development Engineer I (SDE I) - Backend (.NET)](https://jobs.mcdonalds.com/job/Mexico-City-Software-Development-Engineer-I-%28SDE-I%29-Backend-%28_NET%29-6600/1446811200/) 🆕 | Mexico City, MX |  | 2026-11-11 |
+| Bosch Group | [Junior Embedded SW Engineer - Audio](https://jobs.smartrecruiters.com/BoschGroup/744000160904630) 🆕 | Guadalajara, Jal., Mexico |  | 2026-11-10 |
+| Johnson Controls | [Security Application Engineer I](https://jci.wd5.myworkdayjobs.com/JCI/job/San-Jose-San-Jose-Costa-Rica/Security-Application-Engineer-I_WD30284799) 🆕 | San Jose-San Jose-Costa Rica |  | 2026-11-10 |
 | Paystand | [Junior Fullstack Engineer](https://paystand.com/job-listing/?gh_jid=8199622003) 🆕 | Ciudad de México |  | 2026-11-09 |
-| IQVIA | [Client Reporting Junior Data Analyst](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Buenos-Aires-Argentina/Client-Reporting-Junior-Data-Analyst_R1566076) 🆕 | Buenos Aires, Argentina |  | 2026-11-09 |
-| Santander | [IT Developer I](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/SAO-PAULO/IT-Developer-I_Req1626040) 🆕 | SAO PAULO |  | 2026-11-09 |
 | Capgemini | [Jr Automotive Embedded Software Engineer (AUTOSAR) - Onsite in Querétaro](https://careers.capgemini.com/job/Aguascalientes-Jr-Automotive-Embedded-Software-Engineer-%28AUTOSAR%29-Onsite-in-Quer%C3%A9taro/1382441733/) | Aguascalientes, MX |  | 2026-11-08 |
 | Volvo Group | [Entry-Level Data Engineer](https://jobs.volvogroup.com/job/Curitiba-Entry-Level-Data-Engineer-81260-900/1376032355/) | Curitiba, BR |  | 2026-11-07 |
 | XP Inc. | [Vaga Exclusiva PCD / Analista de People Analytics Jr](https://job-boards.greenhouse.io/xpinc/jobs/8932457002) | São Paulo, SP |  | 2026-11-06 |
 | Orion Innovation | [206673 - JAVA BACK JR Developer](https://www.orioninc.com/careers/job/?gh_jid=4727828006) | Mexico City, Mexico City, Mexico |  | 2026-11-06 |
 | Capgemini | [Junior Software Test Engineer](https://careers.capgemini.com/job/Aguascalientes-Junior-Software-Test-Engineer/1454881433/) | Aguascalientes, MX |  | 2026-11-06 |
 | Volvo Group | [Entry Level Data Scientist - Affirmative Opportunity for People with Disabilities](https://jobs.volvogroup.com/job/Curitiba-Entry-Level-Data-Scientist-Affirmative-Opportunity-for-People-with-Disabilities-81260-900/1373493055/) | Curitiba, BR |  | 2026-11-06 |
-| Ingram Micro | [Analista de Infraestrutura Cloud Jr](https://ingrammicro.wd5.myworkdayjobs.com/IngramMicro/job/So-Paulo-Brazil/Analista-de-Infraestrutura-Cloud-Jr_R-117675) | São Paulo, Brazil |  | 2026-11-06 |
 | Capgemini | [FBS Associate Data Engineer](https://apply.workable.com/j/A8B965011F) | Brazil |  | 2026-11-06 |
 | Publicis Groupe Holdings B.V | [Junior Data Science Analyst](https://careers.publicisgroupe.com/jobs/181280) | Bogota, Colombia |  | 2026-11-05 |
-| Bosch Group | [JUNIOR BI DATA ANALYST (36211)](https://jobs.smartrecruiters.com/BoschGroup/744000159862638) | Campinas, SP, Brazil |  | 2026-11-05 |
 | Marsh McLennan | [Ejecutivo Comercial Énfasis Data Graduate](https://mmc.wd1.myworkdayjobs.com/MMC/job/San-Pedro-Garza-Garcias---Oroz/Ejecutivo-Comercial-nfasis-Data-Graduate_R_369443) | San Pedro Garza Garcia, Distrito Federal, Mexico |  | 2026-11-04 |
 | Hewlett Packard Enterprise | [ASIC Design Engineer I](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Heredia-Heredia-Costa-Rica/ASIC-Design-Engineer-I_1217877) | Heredia, Heredia, Costa Rica |  | 2026-11-04 |
 | Santander | [ARG JR Data Scientist](https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/GARAY-151-PISO-4/ARG-JR-Data-Scientist_Req1630152) | GARAY 151 PISO 4 |  | 2026-11-04 |
@@ -609,8 +617,6 @@ Most roles this fortnight: Capgemini (18), Jane Street (17), RTX (16), EUROPEAN 
 | Clarios | [Jr. AI Engineer](https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/Monterrey-Engineering-Center/Jr-AI-Engineer_WD51150) | Monterrey Engineering Center |  | 2026-11-03 |
 | JPMorgan Chase | [Software Engineer Program Early Careers - April 2027](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210805519) | Ciudad Autónoma de Buenos Aires, Argentina |  | 2026-11-02 |
 | Bosch Group | [JUNIOR INFORMATION & CYBER SECURITY ANALYST - 36287](https://jobs.smartrecruiters.com/BoschGroup/744000158305922) | Campinas, SP, Brazil |  | 2026-10-28 |
-| Thoughtworks | [Associate (Graduate) Developer](https://www.thoughtworks.com/careers/jobs/8317435?gh_jid=8317435) | Santiago, Chile |  | 2026-10-28 |
-| Outset Medical | [Junior Software Engineer](https://job-boards.greenhouse.io/outsetmedical/jobs/8597822002) | Tijuana, Mexico |  | 2026-10-27 |
 
 ## Remote, other
 
