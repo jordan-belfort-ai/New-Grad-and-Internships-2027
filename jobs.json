@@ -4210,23 +4210,6 @@
 },
 {
 "company": "Two Sigma",
-"title": "Data Scientist - Campus Full-Time",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Data-Scientist-Campus-Full-Time/14272",
-"publishedAt": "2026-11-04T18:01:55+00:00",
-"ats": "twosigma"
-},
-{
-"company": "Two Sigma",
 "title": "Quantitative Researcher - Full-Time Campus Hire",
 "location": "New York, NY, US",
 "_locs": [
@@ -7606,23 +7589,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "Microsoft",
-"title": "Cloud Solution Architect - Entry Level",
-"location": "Bucharest, Bucharest, Romania",
-"_locs": [
-"Bucharest, Bucharest, Romania"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557054132",
-"publishedAt": "2026-11-09T11:34:25+00:00",
-"ats": "microsoft"
-},
-{
 "company": "QuantWare",
 "title": "Junior Quantum Design Engineer",
 "location": "Delft",
@@ -9521,7 +9487,7 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8637960002/",
+"url": "https://www.janestreet.com/join-jane-street/position/8646746002/",
 "publishedAt": "2026-11-13T00:16:50+00:00",
 "ats": "janestreet"
 },
@@ -11068,6 +11034,108 @@
 "intern": {
 "United States": [
 {
+"company": "Amazon",
+"title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
+"location": "Herndon, VA, US",
+"_locs": [
+"Herndon, VA, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east",
+"publishedAt": "2026-11-14T00:00:00+00:00",
+"ats": "amazon"
+},
+{
+"company": "Amazon",
+"title": "Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast",
+"location": "Umatilla, OR, US",
+"_locs": [
+"Umatilla, OR, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast",
+"publishedAt": "2026-11-14T00:00:00+00:00",
+"ats": "amazon"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - MSR Software-Hardware Co-design",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+"publishedAt": "2026-11-13T21:47:16+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - AI Coding Agents",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+"publishedAt": "2026-11-13T20:33:43+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Jane Street",
+"title": "Hardware Engineer (FPGA/ASIC) (Summer Internship)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.janestreet.com/join-jane-street/position/8624440002/",
+"publishedAt": "2026-11-13T00:16:50+00:00",
+"ats": "janestreet"
+},
+{
+"company": "Jane Street",
+"title": "Machine Learning Engineer (Summer Internship)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.janestreet.com/join-jane-street/position/8611307002/",
+"publishedAt": "2026-11-13T00:16:50+00:00",
+"ats": "janestreet"
+},
+{
 "company": "Jane Street",
 "title": "Machine Learning Researcher (Summer Internship)",
 "location": "New York, NY, US",
@@ -11195,6 +11263,23 @@
 "url": "https://jobs.bmwgroup.com/job/M%C3%BCnchen-Praktikant-Digitale-Prozessentwicklung-mit-Microsoft-Power-Platform-%28wmx%29-BY-80809/1456896033/",
 "publishedAt": "2026-11-13T00:13:46.468505+00:00",
 "ats": "successfactors"
+},
+{
+"company": "Amazon",
+"title": "2027 Applied Science Internship - Robotics - United States",
+"location": "North Reading, MA, US",
+"_locs": [
+"North Reading, MA, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states",
+"publishedAt": "2026-11-13T00:00:00+00:00",
+"ats": "amazon"
 },
 {
 "company": "Sirius XM",
@@ -12597,40 +12682,6 @@
 "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
 "publishedAt": "2026-11-11T13:16:21-05:00",
 "ats": "greenhouse"
-},
-{
-"company": "Jane Street",
-"title": "Cybersecurity Engineer (Summer Internship)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8632723002/",
-"publishedAt": "2026-11-11T05:05:26+00:00",
-"ats": "janestreet"
-},
-{
-"company": "Jane Street",
-"title": "Data Engineer (Summer Internship)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8631973002/",
-"publishedAt": "2026-11-11T05:05:26+00:00",
-"ats": "janestreet"
 },
 {
 "company": "Ingersoll Rand",
@@ -15131,23 +15182,6 @@
 "url": "https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d",
 "publishedAt": "2026-11-09T21:28:42.208+00:00",
 "ats": "ashby"
-},
-{
-"company": "Microsoft",
-"title": "Research Intern - Next-Generation AI Agents",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
-"publishedAt": "2026-11-09T21:15:49+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Integration Innovation, Inc. (i3)",
@@ -17969,23 +18003,6 @@
 "ats": "icims"
 },
 {
-"company": "Microsoft",
-"title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-"publishedAt": "2026-11-05T00:20:59+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Legrand",
 "title": "Firmware Engineering Intern",
 "location": "Reno, NV, United States",
@@ -18413,23 +18430,6 @@
 "url": "https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a",
 "publishedAt": "2026-11-04T20:38:35.114000+00:00",
 "ats": "lever"
-},
-{
-"company": "Microsoft",
-"title": "Data Science: PhD Internship Opportunities - Redmond",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393556982928",
-"publishedAt": "2026-11-04T18:58:54+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Logiqal",
@@ -19147,23 +19147,6 @@
 "url": "https://jobs.smartrecruiters.com/SpringVentureGroup1/744000159509589",
 "publishedAt": "2026-11-03T22:31:50.566Z",
 "ats": "smartrecruiters"
-},
-{
-"company": "Microsoft",
-"title": "Software Engineer, Teamwork Experiences Internship Opportunities",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557037859",
-"publishedAt": "2026-11-03T19:07:53+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Stratolaunch",
@@ -22071,23 +22054,6 @@
 "ats": "workable"
 },
 {
-"company": "Microsoft",
-"title": "Stagiaire en opérations critiques Centre de données / Critical Environment Ops INTERN Data Center",
-"location": "Quebec City, Québec, Canada",
-"_locs": [
-"Quebec City, Québec, Canada"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557021518",
-"publishedAt": "2026-11-02T20:53:38+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Zimmer Biomet",
 "title": "2027 Spring Co-Op, Software Developer",
 "location": "Montreal, Quebec, Canada",
@@ -22613,23 +22579,6 @@
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162057",
 "publishedAt": "2026-11-09",
 "ats": "oracle"
-},
-{
-"company": "Microsoft",
-"title": "Software Engineer Internship Opportunities",
-"location": "Dublin, Dublin, Ireland",
-"_locs": [
-"Dublin, Dublin, Ireland"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557038773",
-"publishedAt": "2026-11-08T11:33:43+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Apple",
@@ -23377,23 +23326,6 @@
 "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173",
 "publishedAt": "2026-11-02",
 "ats": "workday"
-},
-{
-"company": "Microsoft",
-"title": "Cambridge Internship Program Azure Research, Security and Privacy",
-"location": "Cambridge, Cambridgeshire, United Kingdom",
-"_locs": [
-"Cambridge, Cambridgeshire, United Kingdom"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557050102",
-"publishedAt": "2026-10-30T09:09:06+00:00",
-"ats": "microsoft"
 }
 ],
 "Europe": [
@@ -26024,24 +25956,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "Microsoft",
-"title": "Cloud Solution Architecture INTERN",
-"location": "Schiphol, Noord-Holland, Netherlands",
-"_locs": [
-"Schiphol, Noord-Holland, Netherlands",
-"Germany"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557041284",
-"publishedAt": "2026-11-09T10:58:45+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Keysight Technologies, Inc.",
 "title": "R&D Internship for Engineering Students – 6G and AI Focus",
 "location": "Milano, Italy",
@@ -26095,23 +26009,6 @@
 "url": "https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794",
 "publishedAt": "2026-11-09T09:43:33.885Z",
 "ats": "smartrecruiters"
-},
-{
-"company": "Microsoft",
-"title": "Silicon Engineering INTERN",
-"location": "Tampere, Satakunta, Finland",
-"_locs": [
-"Tampere, Satakunta, Finland"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557053762",
-"publishedAt": "2026-11-09T09:04:50+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Bertelsmann-Jobs",
@@ -29106,7 +29003,7 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8632392002/",
+"url": "https://www.janestreet.com/join-jane-street/position/8617298002/",
 "publishedAt": "2026-11-13T00:16:50+00:00",
 "ats": "janestreet"
 },
