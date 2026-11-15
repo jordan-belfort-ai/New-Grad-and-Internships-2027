@@ -7589,6 +7589,23 @@
 "ats": "smartrecruiters"
 },
 {
+"company": "Microsoft",
+"title": "Cloud Solution Architect - Entry Level",
+"location": "Bucharest, Bucharest, Romania",
+"_locs": [
+"Bucharest, Bucharest, Romania"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557054132",
+"publishedAt": "2026-11-09T11:34:25+00:00",
+"ats": "microsoft"
+},
+{
 "company": "QuantWare",
 "title": "Junior Quantum Design Engineer",
 "location": "Delft",
@@ -11103,6 +11120,40 @@
 },
 {
 "company": "Jane Street",
+"title": "Cybersecurity Engineer (Summer Internship)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.janestreet.com/join-jane-street/position/8632723002/",
+"publishedAt": "2026-11-13T00:16:50+00:00",
+"ats": "janestreet"
+},
+{
+"company": "Jane Street",
+"title": "Data Engineer (Summer Internship)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.janestreet.com/join-jane-street/position/8631973002/",
+"publishedAt": "2026-11-13T00:16:50+00:00",
+"ats": "janestreet"
+},
+{
+"company": "Jane Street",
 "title": "Hardware Engineer (FPGA/ASIC) (Summer Internship)",
 "location": "New York, NY, US",
 "_locs": [
@@ -11660,40 +11711,6 @@
 "url": "https://jobs.ashbyhq.com/fluidstack/0b4f9ec6-fc34-46d6-bdbc-215386b59c3c",
 "publishedAt": "2026-11-12T04:29:04.824+00:00",
 "ats": "ashby"
-},
-{
-"company": "Jane Street",
-"title": "Quantitative Trader (Summer Internship)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8617344002/",
-"publishedAt": "2026-11-12T04:07:35+00:00",
-"ats": "janestreet"
-},
-{
-"company": "Jane Street",
-"title": "Software Engineer (Summer Internship)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8599644002/",
-"publishedAt": "2026-11-12T04:07:35+00:00",
-"ats": "janestreet"
 },
 {
 "company": "McDonald's",
@@ -15184,6 +15201,23 @@
 "ats": "ashby"
 },
 {
+"company": "Microsoft",
+"title": "Research Intern - Next-Generation AI Agents",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
+"publishedAt": "2026-11-09T21:15:49+00:00",
+"ats": "microsoft"
+},
+{
 "company": "Integration Innovation, Inc. (i3)",
 "title": "Data Management Internship",
 "location": "Huntsville, Alabama",
@@ -18001,6 +18035,23 @@
 "url": "https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job",
 "publishedAt": "2026-11-05T05:00:00.000Z",
 "ats": "icims"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+"publishedAt": "2026-11-05T00:20:59+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Legrand",
@@ -22054,6 +22105,23 @@
 "ats": "workable"
 },
 {
+"company": "Microsoft",
+"title": "Stagiaire en opérations critiques Centre de données / Critical Environment Ops INTERN Data Center",
+"location": "Quebec City, Québec, Canada",
+"_locs": [
+"Quebec City, Québec, Canada"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557021518",
+"publishedAt": "2026-11-02T20:53:38+00:00",
+"ats": "microsoft"
+},
+{
 "company": "Zimmer Biomet",
 "title": "2027 Spring Co-Op, Software Developer",
 "location": "Montreal, Quebec, Canada",
@@ -25956,6 +26024,24 @@
 "ats": "smartrecruiters"
 },
 {
+"company": "Microsoft",
+"title": "Cloud Solution Architecture INTERN",
+"location": "Germany",
+"_locs": [
+"Germany",
+"Schiphol, Noord-Holland, Netherlands"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557041284",
+"publishedAt": "2026-11-09T10:58:45+00:00",
+"ats": "microsoft"
+},
+{
 "company": "Keysight Technologies, Inc.",
 "title": "R&D Internship for Engineering Students – 6G and AI Focus",
 "location": "Milano, Italy",
@@ -26009,6 +26095,23 @@
 "url": "https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794",
 "publishedAt": "2026-11-09T09:43:33.885Z",
 "ats": "smartrecruiters"
+},
+{
+"company": "Microsoft",
+"title": "Silicon Engineering INTERN",
+"location": "Tampere, Satakunta, Finland",
+"_locs": [
+"Tampere, Satakunta, Finland"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557053762",
+"publishedAt": "2026-11-09T09:04:50+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Bertelsmann-Jobs",
