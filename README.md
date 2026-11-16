@@ -2,13 +2,13 @@
 
 New-grad, junior and entry-level software engineering, data, ML, security, hardware and infrastructure roles, worldwide, from 20,000+ company career pages.
 
-**583 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Internships: [INTERNSHIPS.md](INTERNSHIPS.md).
+**582 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Internships: [INTERNSHIPS.md](INTERNSHIPS.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (297) · [Canada](#canada) (24) · [UK & Ireland](#uk--ireland) (39) · [Europe](#europe) (109) · [India](#india) (30) · [Asia-Pacific](#asia-pacific) (52) · [Latin America](#latin-america) (28) · [Remote, other](#remote-other) (4)
+Contents: [United States](#united-states) (297) · [Canada](#canada) (24) · [UK & Ireland](#uk--ireland) (39) · [Europe](#europe) (108) · [India](#india) (30) · [Asia-Pacific](#asia-pacific) (52) · [Latin America](#latin-america) (28) · [Remote, other](#remote-other) (4)
 
 Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN DYNAMICS (15), IBM (10), Bask Health (10), Airbus (9), American Express (8), Booz Allen (8), Medpace, Inc. (7), Captivation Software (7), Sopra Steria (7).
 
@@ -16,6 +16,7 @@ Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN 
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| D. E. Shaw | [Quantitative Researcher (open to students and new grads)](https://www.deshaw.com/careers/quantitative-researcher-2636) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Capgemini | [Bilingual Data Center JR](https://careers.capgemini.com/job/Bogota-Bilingual-Data-Center-JR/1450536933/) 🆕 | Bogota, CO |  | 2026-11-13 |
 | HII Technical Solutions Corporation | [Software Machine Learning Engineer 1 - 29937](https://jobs.hii-tsd.com/job/Newport-News%2C-VA-Software-Machine-Learning-Engineer-1-29937-Virg/1425349200/) 🆕 | Newport News, VA, Virginia, United States |  | 2026-11-13 |
 | PACCAR | [Robotics Software Engineer 1](https://jobs.paccar.com/job/Chillicothe-Robotics-Software-Engineer-1-OH-45601-8829/1419447833/) 🆕 | Chillicothe, OH, US |  | 2026-11-13 |
@@ -232,7 +233,6 @@ Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN 
 | Jane Street | [Quantitative Researcher (New Grad)](https://www.janestreet.com/join-jane-street/position/8573726002/) | New York, NY, US |  | 2026-11-04 |
 | Jane Street | [Quantitative Trader (New Grad)](https://www.janestreet.com/join-jane-street/position/8573523002/) | New York, NY, US |  | 2026-11-04 |
 | Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8594541002/) | New York, NY, US |  | 2026-11-04 |
-| D. E. Shaw | [Quantitative Analyst (open to students and new grads)](https://www.deshaw.com/careers/quantitative-analyst-2636) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer (open to students and new grads)](https://www.deshaw.com/careers/software-developer-2646) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [AI Research Scientist - Campus Full-Time](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Campus-Full-Time/13671) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [Quantitative Researcher - Full-Time Campus Hire](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-Quantitative-Researcher-Full-Time-Campus-Hire/13946) | New York, NY, US |  | 2026-11-04 |
@@ -429,7 +429,6 @@ Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN 
 | IQVIA | [Fresh Graduate Data Analyst (Python/SQL) - French Native Speaker (Spain Remote)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Fresh-Graduate-Data-Analyst--Python-SQL----French-Native-Speaker--Spain-Remote-_R1568966) | Madrid, Spain |  | 2026-11-10 |
 | Mollie | [Analytics Engineer I](https://jobs.ashbyhq.com/mollie/49a59e10-b4d9-43aa-808e-8f4a1f9172b4) | Milan |  | 2026-11-09 |
 | Scalable GmbH | [(Junior) Frontend Engineer — Broker (m/f/x)](https://jobs.smartrecruiters.com/ScalableGmbH/744000160616480) | München, BY, Germany |  | 2026-11-09 |
-| Microsoft | [Cloud Solution Architect - Entry Level](https://apply.careers.microsoft.com/careers/job/1970393557054132) | Bucharest, Bucharest, Romania |  | 2026-11-09 |
 | QuantWare | [Junior Quantum Design Engineer](https://jobs.ashbyhq.com/quantware/799ad53a-3cf7-4f7d-94b1-870fc2eaaba7) | Delft |  | 2026-11-09 |
 | CITECH | [Analyste Développeur COBOL Junior – Monétique / Autorisations (H/F)](https://jobs.smartrecruiters.com/CITECH/744000160556225) | Strasbourg, Grand Est, France |  | 2026-11-09 |
 | Axon | [Software Engineer I](https://job-boards.greenhouse.io/axon/jobs/7816769003) | Romania-Bucharest Office; Romania-Timisoara Office |  | 2026-11-09 |
@@ -540,7 +539,7 @@ Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN 
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8646746002/) 🆕 | Singapore, SG; Hong Kong, HK |  | 2026-11-13 |
+| Jane Street | [Software Engineer (New Grad)](https://www.janestreet.com/join-jane-street/position/8637960002/) 🆕 | Hong Kong, HK; Singapore, SG |  | 2026-11-13 |
 | Capgemini | [Junior Software Engineer (C++ Middleware & Interfaces)](https://careers.capgemini.com/job/Singapore-Junior-Software-Engineer-%28C%2B%2B-Middleware-&-Interfaces%29/1451965233/) 🆕 | Singapore, SG |  | 2026-11-13 |
 | Western Digital | [Junior IT Developer](https://jobs.smartrecruiters.com/WesternDigital/744000161258190) 🆕 | Bayan Lepas, Penang, Malaysia |  | 2026-11-12 |
 | Citi | [Reference Data Services Junior Analyst - Securities and Pricing - APAC Shift](https://jobs.citi.com/job/city-of-taguig/reference-data-services-junior-analyst-securities-and-pricing-apac-shift/287/103200941776) 🆕 | City of Taguig, NCR, PH |  | 2026-11-12 |

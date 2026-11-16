@@ -2,13 +2,13 @@
 
 Software engineering, data, ML, security and hardware internships, co-ops and working-student roles, worldwide, from 20,000+ company career pages.
 
-**1,068 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. New-grad roles: [README.md](README.md).
+**1,059 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. New-grad roles: [README.md](README.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (542) · [Canada](#canada) (43) · [UK & Ireland](#uk--ireland) (62) · [Europe](#europe) (303) · [India](#india) (5) · [Asia-Pacific](#asia-pacific) (89) · [Latin America](#latin-america) (20) · [Remote, other](#remote-other) (4)
+Contents: [United States](#united-states) (536) · [Canada](#canada) (42) · [UK & Ireland](#uk--ireland) (62) · [Europe](#europe) (301) · [India](#india) (5) · [Asia-Pacific](#asia-pacific) (89) · [Latin America](#latin-america) (20) · [Remote, other](#remote-other) (4)
 
 Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (31), Sopra Steria (24), Amazon (23), Jane Street (20), NVIDIA (19), Keysight Technologies, Inc. (18), RTX (17), Agoda (16), ASML (15).
 
@@ -18,14 +18,14 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | --- | --- | --- | --- | --- |
 | Amazon | [Data Center Infrastructure Engineer Intern, Summer 2027 - East](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) 🆕 | Herndon, VA, US |  | 2026-11-14 |
 | Amazon | [Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) 🆕 | Umatilla, OR, US |  | 2026-11-14 |
-| Microsoft | [Research Intern - MSR Software-Hardware Co-design](https://apply.careers.microsoft.com/careers/job/1970393557073455) 🆕 | Redmond, Washington, United States |  | 2026-11-13 |
-| Microsoft | [Research Intern - AI Coding Agents](https://apply.careers.microsoft.com/careers/job/1970393557073416) 🆕 | Redmond, Washington, United States |  | 2026-11-13 |
 | Jane Street | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Jane Street | [Data Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8631973002/) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8624440002/) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8611307002/) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8384490002/) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Jane Street | [Quantitative Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8498547002/) 🆕 | New York, NY, US |  | 2026-11-13 |
+| D. E. Shaw | [Quantitative Researcher Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-researcher-intern-new-york-summer-2027-5890) 🆕 | New York, NY, US |  | 2026-11-13 |
+| D. E. Shaw | [Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-researcher-ph-d-intern-new-york-summer-2027-5891) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Cintas | [IT Intern - OT Software Engineer](https://careers.cintas.com/job/Mason-IT-Intern-OT-Software-Engineer-OH-45040/1450367200/) 🆕 | Mason, OH, US |  | 2026-11-13 |
 | Capgemini | [Duales Studium Informatik Bachelor of Science (w/m/d)](https://careers.capgemini.com/job/Frankfurt-Duales-Studium-Informatik-Bachelor-of-Science-%28wmd%29/1274473001/) 🆕 | Frankfurt, DE |  | 2026-11-13 |
 | Capgemini | [Praktikant / Werkstudent Web/Mobile Developer (w/m/d)](https://careers.capgemini.com/job/Stuttgart-Praktikant-Werkstudent-WebMobile-Developer-%28wmd%29/1281269601/) 🆕 | Stuttgart, DE |  | 2026-11-13 |
@@ -236,7 +236,6 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | Pivotal | [Internship, Software Engineering (Summer 2027)](https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4) | Palo Alto, CA |  | 2026-11-09 |
 | Illumio | [Engineering Intern, SRE](https://jobs.ashbyhq.com/illumio/2bcba5c3-c6e7-407c-92b2-73027594789e) | Sunnyvale, California - HQ |  | 2026-11-09 |
 | Maxinsights | [Machine Learning Engineer Intern - Video Foundation Models & Agentic AI](https://jobs.ashbyhq.com/maxinsights/5c921b00-e1eb-47d1-8a1b-ca50e5ac926d) | Santa Clara |  | 2026-11-09 |
-| Microsoft | [Research Intern - Next-Generation AI Agents](https://apply.careers.microsoft.com/careers/job/1970393557070079) | Redmond, Washington, United States |  | 2026-11-09 |
 | Integration Innovation, Inc. (i3) | [Data Management Internship](https://i3-corps.jibeapply.com/jobs/5490) | Huntsville, Alabama |  | 2026-11-09 |
 | Persona AI Inc | [Humanoid Robotics Software Internship](https://jobs.ashbyhq.com/persona.ai/8a866ae6-613e-4d46-af2d-7dc13eb926bb) | Pensacola, FL or Houston, TX |  | 2026-11-09 |
 | Integration Innovation, Inc. (i3) | [Cybersecurity Internship](https://i3-corps.jibeapply.com/jobs/5489) | Huntsville, Alabama |  | 2026-11-09 |
@@ -298,7 +297,6 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | Seagate Technology, LLC | [Recording Head Characterization & Data Analytics Intern - Summer 2027](https://seagatecareers.com/job/Bloomington-Recording-Head-Characterization-&-Data-Analytics-Intern-Summer-2027-MN/1448606700/) | Bloomington, MN, US |  | 2026-11-07 |
 | Zoox | [AI Workflows Intern (Summer 2027)](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) | Foster City, CA |  | 2026-11-07 |
 | Zoox | [Data Science Intern (Summer 2027)](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) | Foster City, CA |  | 2026-11-06 |
-| Microsoft | [Research Intern - AI & Human Systems](https://apply.careers.microsoft.com/careers/job/1970393557056017) | New York, New York, United States; Cambridge, Massachusetts, United States |  | 2026-11-06 |
 | Parspec | [Applied AI Engineer Intern](https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504) | Hybrid - San Mateo, California |  | 2026-11-06 |
 | Republic Finance | [React Developer Intern](https://jobs.republicfinance.com/jobs/15411) | Plano, Texas |  | 2026-11-06 |
 | DocuSign | [Agentic AI Engineer Intern](https://careers.docusign.com/jobs/30587) | San Francisco, California |  | 2026-11-06 |
@@ -375,7 +373,6 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | Protagonist | [National Security & Space Intern (Jan 2027 -- Strong Writing & Research Skills)](https://job-boards.greenhouse.io/protagonist/jobs/6251099004) | Washington DC |  | 2026-11-05 |
 | Apex Technology, Inc. | [Software Engineering Internship, Embedded Systems (Spring or Summer 2027)](https://jobs.ashbyhq.com/apex-technology-inc/4203604c-2330-4c89-8432-37af718a6bda) | Los Angeles |  | 2026-11-05 |
 | Shield AI | [June 2027 Co-Op - Software Engineer Intern](https://jobs.lever.co/shieldai/db8fc063-8856-4404-991c-f287712de949) | Dallas, Texas |  | 2026-11-05 |
-| Microsoft | [Software Engineer: Security & Identity Intern Opportunities for University Students, Redmo](https://apply.careers.microsoft.com/careers/job/1970393556922930) | Redmond, Washington, United States |  | 2026-11-05 |
 | Johns Hopkins Applied Physics Laboratory | [2027 Internship - Maritime Software Development - Ocean Systems and Engineering](https://careers.jhuapl.edu/jobs/60820) | Laurel, Maryland |  | 2026-11-05 |
 | Garmin International, Inc. | [IT DevOps Administrator Intern](https://careers.garmin.com/jobs/21321) | Olathe, Kansas |  | 2026-11-05 |
 | RR Donnelley | [IT Support Engineer Summer Intern](https://jobs.smartrecruiters.com/RRDonnelley/744000159878934) | Wheeling, WV, United States |  | 2026-11-05 |
@@ -383,7 +380,6 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | Lumbermen's | [Software Developer Internship](https://job-boards.greenhouse.io/lumbermens/jobs/5474346008) | Grand Rapids, MI |  | 2026-11-05 |
 | Hearst | [Software Engineering Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) | Carmel, IN, United States |  | 2026-11-05 |
 | Riverside Research | [Software Applications Intern](https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job) | Fairborn, OH, US |  | 2026-11-05 |
-| Microsoft | [Research Intern - Research in Software Engineering, ML Systems, Agents](https://apply.careers.microsoft.com/careers/job/1970393557054069) | Redmond, Washington, United States |  | 2026-11-05 |
 | Legrand | [Firmware Engineering Intern](https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1809) | Reno, NV, United States |  | 2026-11-05 |
 | Tenet Healthcare | [Data Engineer Intern  – Summer 2027 – Onsite in Dallas, TX](https://jobs.tenethealth.com/job/dallas/data-engineer-intern-summer-2027-onsite-in-dallas-tx/1127/102926405344) | Dallas, TX |  | 2026-11-05 |
 | UnitedHealth Group | [Cybersecurity Development Program Internship](https://careers.unitedhealthgroup.com/job/eden-prairie/cybersecurity-development-program-internship/34088/102882852768) | Eden Prairie, Minnesota, United States |  | 2026-11-05 |
@@ -408,8 +404,6 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | Palantir Technologies | [Software Engineer, Internship - Data Connectors](https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a) | New York, NY |  | 2026-11-04 |
 | Logiqal | [Quantum Hardware Intern](https://jobs.ashbyhq.com/logiqal/2734f991-1e21-4c77-bb41-211ffa88449d) | Princeton, NJ |  | 2026-11-04 |
 | Logiqal | [Quantum Error Correction and Architecture Intern](https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f) | Princeton, NJ |  | 2026-11-04 |
-| D. E. Shaw | [Quantitative Analyst Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890) | New York, NY, US |  | 2026-11-04 |
-| D. E. Shaw | [Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-intern-new-york-summer-2027-5894) | New York, NY, US |  | 2026-11-04 |
 | D. E. Shaw | [Software Developer, Ph.D. Intern (New York) – Summer 2027](https://www.deshaw.com/careers/software-developer-ph-d-intern-new-york-summer-2027-5893) | New York, NY, US |  | 2026-11-04 |
 | Two Sigma | [AI Research Scientist - Intern (2027 Summer)](https://careers.twosigma.com/careers/JobDetail/New-York-New-York-United-States-AI-Research-Scientist-Intern-2027-Summer/14096) | New York, NY, US |  | 2026-11-04 |
@@ -598,7 +592,6 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | Royal Bank of Canada | [2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op)](https://rbc.wd3.myworkdayjobs.com/RBCGLOBAL1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-2) | TORONTO, Ontario, Canada |  | 2026-11-03 |
 | Botpress Technologies Inc. | [Software Developer Intern - WINTER 2027](https://apply.workable.com/j/9B3CB646E8) | Montreal, Quebec, Canada |  | 2026-11-03 |
 | Botpress Technologies Inc. | [Stagiaire en développement logiciel HIVER 2027](https://apply.workable.com/j/16C68A50A7) | Montreal, Quebec, Canada |  | 2026-11-03 |
-| Microsoft | [Stagiaire en opérations critiques Centre de données / Critical Environment Ops INTERN Data](https://apply.careers.microsoft.com/careers/job/1970393557021518) | Quebec City, Québec, Canada |  | 2026-11-02 |
 | Zimmer Biomet | [2027 Spring Co-Op, Software Developer](https://career8.successfactors.com/careers?company=zimmerin01&loginFlowRequired=true&career_os=job_listing&career_ns=job_application&career_job_req_id=13309&_s.crb=25fvCmbM9Lad2rza%252fxJs%252fNp1mhY1RYUVrVIMdAiM2RI%253d) | Montreal, Quebec, Canada |  | 2026-11-02 |
 | American Express | [Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology S](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016035) | Toronto, ON, Canada |  | 2026-11-02 |
 | Rockwell Automation | [Co-op, User Experience - Robotics (Jan - Apr 2027)](https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--User-Experience---Robotics_R26-8569) | Waterloo, Ontario, Canada |  | 2026-11-02 |
@@ -820,11 +813,9 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | IMS Nanofabrication GmbH | [Werkstudent:in eSource Data Analytics (all genders)](https://jobs.smartrecruiters.com/IMSNanofabricationGmbH/744000160606061) | Brunn am Gebirge, Niederösterreich, Austria |  | 2026-11-09 |
 | Octopus Energy Group | [IT Support Junior (Prácticas)](https://jobs.lever.co/octoenergy/ca44ddbd-fcec-40ea-928a-a8ffb20f847e) | Valencia (ES) |  | 2026-11-09 |
 | Groupement Mousquetaires | [Assistant web communication H/F - Alternance](https://jobs.smartrecruiters.com/GroupementMousquetaires3/744000160583294) | Vert-le-Grand, IDF, France |  | 2026-11-09 |
-| Microsoft | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Germany; Schiphol, Noord-Holland, Netherlands |  | 2026-11-09 |
 | Keysight Technologies, Inc. | [R&D Internship for Engineering Students – 6G and AI Focus](https://jobs.keysight.com/jobs/56455) | Milano, Italy |  | 2026-11-09 |
 | Keysight Technologies, Inc. | [Machine Learning — PhD Intern (Variable Circuit, Place-and-Route, and Layout Representatio](https://jobs.keysight.com/jobs/55050) | Barcelona, Spain |  | 2026-11-09 |
 | OTTO FUCHS KG | [Werkstudent IT Workplace Services (m/w/x)](https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794) | Meinerzhagen, NRW, Germany |  | 2026-11-09 |
-| Microsoft | [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557053762) | Tampere, Satakunta, Finland |  | 2026-11-09 |
 | Bertelsmann-Jobs | [Trainee IT-AMS Energiewirtschaft (m/w/d)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160558029) | Leipzig, Sachsen, Germany |  | 2026-11-09 |
 | Eurofins | [Chef de projet data management - Stage - F/H](https://jobs.smartrecruiters.com/Eurofins/744000160553831) | Ivry-sur-Seine, IDF, France |  | 2026-11-09 |
 | Thermo Fisher Scientific | [Sr. Systems Engineer Intern - Detection and Analytics](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Systems-Engineer-Intern---Detection-and-Analytics_R-01374034-1) | Brno, Czechia |  | 2026-11-09 |

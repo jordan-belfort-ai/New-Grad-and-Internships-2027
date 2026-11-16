@@ -4,6 +4,23 @@
 "newgrad": {
 "United States": [
 {
+"company": "D. E. Shaw",
+"title": "Quantitative Researcher (open to students and new grads)",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.deshaw.com/careers/quantitative-researcher-2636",
+"publishedAt": "2026-11-13T00:16:50+00:00",
+"ats": "deshaw"
+},
+{
 "company": "Capgemini",
 "title": "Bilingual Data Center JR",
 "location": "Bogota, CO",
@@ -4159,23 +4176,6 @@
 },
 {
 "company": "D. E. Shaw",
-"title": "Quantitative Analyst (open to students and new grads)",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.deshaw.com/careers/quantitative-analyst-2636",
-"publishedAt": "2026-11-04T18:01:55+00:00",
-"ats": "deshaw"
-},
-{
-"company": "D. E. Shaw",
 "title": "Software Developer (open to students and new grads)",
 "location": "New York, NY, US",
 "_locs": [
@@ -7589,23 +7589,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "Microsoft",
-"title": "Cloud Solution Architect - Entry Level",
-"location": "Bucharest, Bucharest, Romania",
-"_locs": [
-"Bucharest, Bucharest, Romania"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557054132",
-"publishedAt": "2026-11-09T11:34:25+00:00",
-"ats": "microsoft"
-},
-{
 "company": "QuantWare",
 "title": "Junior Quantum Design Engineer",
 "location": "Delft",
@@ -9493,10 +9476,10 @@
 {
 "company": "Jane Street",
 "title": "Software Engineer (New Grad)",
-"location": "Singapore, SG",
+"location": "Hong Kong, HK",
 "_locs": [
-"Singapore, SG",
-"Hong Kong, HK"
+"Hong Kong, HK",
+"Singapore, SG"
 ],
 "allLocations": null,
 "remote": null,
@@ -9504,7 +9487,7 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://www.janestreet.com/join-jane-street/position/8646746002/",
+"url": "https://www.janestreet.com/join-jane-street/position/8637960002/",
 "publishedAt": "2026-11-13T00:16:50+00:00",
 "ats": "janestreet"
 },
@@ -11085,40 +11068,6 @@
 "ats": "amazon"
 },
 {
-"company": "Microsoft",
-"title": "Research Intern - MSR Software-Hardware Co-design",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
-"publishedAt": "2026-11-13T21:47:16+00:00",
-"ats": "microsoft"
-},
-{
-"company": "Microsoft",
-"title": "Research Intern - AI Coding Agents",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
-"publishedAt": "2026-11-13T20:33:43+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Jane Street",
 "title": "Cybersecurity Engineer (Summer Internship)",
 "location": "New York, NY, US",
@@ -11219,6 +11168,40 @@
 "url": "https://www.janestreet.com/join-jane-street/position/8498547002/",
 "publishedAt": "2026-11-13T00:16:50+00:00",
 "ats": "janestreet"
+},
+{
+"company": "D. E. Shaw",
+"title": "Quantitative Researcher Intern (New York) – Summer 2027",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.deshaw.com/careers/quantitative-researcher-intern-new-york-summer-2027-5890",
+"publishedAt": "2026-11-13T00:16:50+00:00",
+"ats": "deshaw"
+},
+{
+"company": "D. E. Shaw",
+"title": "Quantitative Researcher, Ph.D. Intern (New York) – Summer 2027",
+"location": "New York, NY, US",
+"_locs": [
+"New York, NY, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.deshaw.com/careers/quantitative-researcher-ph-d-intern-new-york-summer-2027-5891",
+"publishedAt": "2026-11-13T00:16:50+00:00",
+"ats": "deshaw"
 },
 {
 "company": "Cintas",
@@ -15201,23 +15184,6 @@
 "ats": "ashby"
 },
 {
-"company": "Microsoft",
-"title": "Research Intern - Next-Generation AI Agents",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
-"publishedAt": "2026-11-09T21:15:49+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Integration Innovation, Inc. (i3)",
 "title": "Data Management Internship",
 "location": "Huntsville, Alabama",
@@ -16422,23 +16388,6 @@
 "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
 "publishedAt": "2026-11-06T23:14:17.184000+00:00",
 "ats": "lever"
-},
-{
-"company": "Microsoft",
-"title": "Research Intern - AI & Human Systems",
-"location": "New York, New York, United States; Cambridge, Massachusetts, United States",
-"_locs": [
-"New York, New York, United States; Cambridge, Massachusetts, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-"publishedAt": "2026-11-06T22:58:21+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Parspec",
@@ -17889,23 +17838,6 @@
 "ats": "ashby"
 },
 {
-"company": "Microsoft",
-"title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-"publishedAt": "2026-11-05T16:26:05+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Johns Hopkins Applied Physics Laboratory",
 "title": "2027 Internship - Maritime Software Development - Ocean Systems and Engineering",
 "location": "Laurel, Maryland",
@@ -18035,23 +17967,6 @@
 "url": "https://careers-riversideresearch.icims.com/jobs/4461/software-applications-intern/job",
 "publishedAt": "2026-11-05T05:00:00.000Z",
 "ats": "icims"
-},
-{
-"company": "Microsoft",
-"title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
-"location": "Redmond, Washington, United States",
-"_locs": [
-"Redmond, Washington, United States"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
-"publishedAt": "2026-11-05T00:20:59+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Legrand",
@@ -18519,40 +18434,6 @@
 "url": "https://jobs.ashbyhq.com/logiqal/2ee3439f-b612-408e-ad7c-1012362c640f",
 "publishedAt": "2026-11-04T18:47:59.896+00:00",
 "ats": "ashby"
-},
-{
-"company": "D. E. Shaw",
-"title": "Quantitative Analyst Intern (New York) – Summer 2027",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.deshaw.com/careers/quantitative-analyst-intern-new-york-summer-2027-5890",
-"publishedAt": "2026-11-04T18:01:55+00:00",
-"ats": "deshaw"
-},
-{
-"company": "D. E. Shaw",
-"title": "Quantitative Analyst, Ph.D. Intern (New York) – Summer 2027",
-"location": "New York, NY, US",
-"_locs": [
-"New York, NY, US"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.deshaw.com/careers/quantitative-analyst-ph-d-intern-new-york-summer-2027-5891",
-"publishedAt": "2026-11-04T18:01:55+00:00",
-"ats": "deshaw"
 },
 {
 "company": "D. E. Shaw",
@@ -22103,23 +21984,6 @@
 "url": "https://apply.workable.com/j/16C68A50A7",
 "publishedAt": "2026-11-03",
 "ats": "workable"
-},
-{
-"company": "Microsoft",
-"title": "Stagiaire en opérations critiques Centre de données / Critical Environment Ops INTERN Data Center",
-"location": "Quebec City, Québec, Canada",
-"_locs": [
-"Quebec City, Québec, Canada"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557021518",
-"publishedAt": "2026-11-02T20:53:38+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Zimmer Biomet",
@@ -26024,24 +25888,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "Microsoft",
-"title": "Cloud Solution Architecture INTERN",
-"location": "Germany",
-"_locs": [
-"Germany",
-"Schiphol, Noord-Holland, Netherlands"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557041284",
-"publishedAt": "2026-11-09T10:58:45+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Keysight Technologies, Inc.",
 "title": "R&D Internship for Engineering Students – 6G and AI Focus",
 "location": "Milano, Italy",
@@ -26095,23 +25941,6 @@
 "url": "https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794",
 "publishedAt": "2026-11-09T09:43:33.885Z",
 "ats": "smartrecruiters"
-},
-{
-"company": "Microsoft",
-"title": "Silicon Engineering INTERN",
-"location": "Tampere, Satakunta, Finland",
-"_locs": [
-"Tampere, Satakunta, Finland"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557053762",
-"publishedAt": "2026-11-09T09:04:50+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Bertelsmann-Jobs",
