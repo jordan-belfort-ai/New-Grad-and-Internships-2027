@@ -6160,6 +6160,23 @@
 ],
 "UK & Ireland": [
 {
+"company": "Amazon",
+"title": "Network Development Engineer I, MONA",
+"location": "Dublin, D, IE",
+"_locs": [
+"Dublin, D, IE"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10606722/network-development-engineer-i-mona",
+"publishedAt": "2026-11-17T00:00:00+00:00",
+"ats": "amazon"
+},
+{
 "company": "Capgemini",
 "title": "Graduate Software Engineering Programme September 2027",
 "location": "Telford, GB",
@@ -11035,6 +11052,23 @@
 "United States": [
 {
 "company": "Amazon",
+"title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+"location": "Sunnyvale, CA, US",
+"_locs": [
+"Sunnyvale, CA, US"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+"publishedAt": "2026-11-17T00:00:00+00:00",
+"ats": "amazon"
+},
+{
+"company": "Amazon",
 "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
 "location": "Herndon, VA, US",
 "_locs": [
@@ -15184,6 +15218,23 @@
 "ats": "ashby"
 },
 {
+"company": "Microsoft",
+"title": "Research Intern - Next-Generation AI Agents",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
+"publishedAt": "2026-11-09T21:15:49+00:00",
+"ats": "microsoft"
+},
+{
 "company": "Integration Innovation, Inc. (i3)",
 "title": "Data Management Internship",
 "location": "Huntsville, Alabama",
@@ -16388,6 +16439,23 @@
 "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97",
 "publishedAt": "2026-11-06T23:14:17.184000+00:00",
 "ats": "lever"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - AI & Human Systems",
+"location": "New York, New York, United States; Cambridge, Massachusetts, United States",
+"_locs": [
+"New York, New York, United States; Cambridge, Massachusetts, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
+"publishedAt": "2026-11-06T22:58:21+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Parspec",
@@ -22119,6 +22187,23 @@
 ],
 "UK & Ireland": [
 {
+"company": "Amazon",
+"title": "Ring - ASIC DV Engineer Intern",
+"location": "Cambridge, GB",
+"_locs": [
+"Cambridge, GB"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern",
+"publishedAt": "2026-11-17T00:00:00+00:00",
+"ats": "amazon"
+},
+{
 "company": "Molson Coors",
 "title": "Data Insights Apprentice",
 "location": "Burton on Trent, GB-STS, United Kingdom",
@@ -22596,23 +22681,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://www.amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract",
-"publishedAt": "2026-11-06T00:00:00+00:00",
-"ats": "amazon"
-},
-{
-"company": "Amazon",
-"title": "IT Apprentice - 18 month Fixed Term Contract",
-"location": "London, GB",
-"_locs": [
-"London, GB"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.amazon.jobs/en/jobs/10598586/it-apprentice-18-month-fixed-term-contract",
 "publishedAt": "2026-11-06T00:00:00+00:00",
 "ats": "amazon"
 },
@@ -25941,6 +26009,23 @@
 "url": "https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794",
 "publishedAt": "2026-11-09T09:43:33.885Z",
 "ats": "smartrecruiters"
+},
+{
+"company": "Microsoft",
+"title": "Silicon Engineering INTERN",
+"location": "Tampere, Satakunta, Finland",
+"_locs": [
+"Tampere, Satakunta, Finland"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557053762",
+"publishedAt": "2026-11-09T09:04:50+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Bertelsmann-Jobs",
