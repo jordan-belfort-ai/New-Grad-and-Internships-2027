@@ -2,20 +2,21 @@
 
 New-grad, junior and entry-level software engineering, data, ML, security, hardware and infrastructure roles, worldwide, from 20,000+ company career pages.
 
-**583 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Internships: [INTERNSHIPS.md](INTERNSHIPS.md).
+**584 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Internships: [INTERNSHIPS.md](INTERNSHIPS.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (297) · [Canada](#canada) (24) · [UK & Ireland](#uk--ireland) (40) · [Europe](#europe) (108) · [India](#india) (30) · [Asia-Pacific](#asia-pacific) (52) · [Latin America](#latin-america) (28) · [Remote, other](#remote-other) (4)
+Contents: [United States](#united-states) (298) · [Canada](#canada) (24) · [UK & Ireland](#uk--ireland) (40) · [Europe](#europe) (108) · [India](#india) (30) · [Asia-Pacific](#asia-pacific) (52) · [Latin America](#latin-america) (28) · [Remote, other](#remote-other) (4)
 
-Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN DYNAMICS (15), IBM (10), Bask Health (10), Airbus (9), American Express (8), Booz Allen (8), Medpace, Inc. (7), Captivation Software (7), Sopra Steria (7).
+Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN DYNAMICS (15), IBM (10), Bask Health (10), Airbus (9), American Express (8), Booz Allen (8), Amazon (8), Medpace, Inc. (7), Captivation Software (7).
 
 ## United States
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| Amazon | [Software Development Engineer, ROBOTICS -  2027](https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) 🆕 | Austin, TX, US |  | 2026-11-18 |
 | D. E. Shaw | [Quantitative Researcher (open to students and new grads)](https://www.deshaw.com/careers/quantitative-researcher-2636) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Capgemini | [Bilingual Data Center JR](https://careers.capgemini.com/job/Bogota-Bilingual-Data-Center-JR/1450536933/) 🆕 | Bogota, CO |  | 2026-11-13 |
 | HII Technical Solutions Corporation | [Software Machine Learning Engineer 1 - 29937](https://jobs.hii-tsd.com/job/Newport-News%2C-VA-Software-Machine-Learning-Engineer-1-29937-Virg/1425349200/) 🆕 | Newport News, VA, Virginia, United States |  | 2026-11-13 |
