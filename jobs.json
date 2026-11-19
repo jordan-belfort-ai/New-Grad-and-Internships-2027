@@ -11068,6 +11068,74 @@
 "intern": {
 "United States": [
 {
+"company": "Microsoft",
+"title": "Research Intern - AI Software Systems",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+"publishedAt": "2026-11-18T22:37:50+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - Computer Vision and Deep Learning",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
+"publishedAt": "2026-11-18T22:21:51+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - Data Center and AI Networking",
+"location": "Mountain View, California, United States; Redmond, Washington, United States",
+"_locs": [
+"Mountain View, California, United States; Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557075457",
+"publishedAt": "2026-11-18T21:30:16+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557075136",
+"publishedAt": "2026-11-18T17:34:07+00:00",
+"ats": "microsoft"
+},
+{
 "company": "Amazon",
 "title": "Data Center Infrastructure Engineer Intern, Summer 2027 - East",
 "location": "Herndon, VA, US",
@@ -11100,6 +11168,40 @@
 "url": "https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast",
 "publishedAt": "2026-11-14T00:00:00+00:00",
 "ats": "amazon"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - MSR Software-Hardware Co-design",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+"publishedAt": "2026-11-13T21:47:16+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - AI Coding Agents",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+"publishedAt": "2026-11-13T20:33:43+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Jane Street",
@@ -22020,6 +22122,23 @@
 "ats": "workable"
 },
 {
+"company": "Microsoft",
+"title": "Stagiaire en opérations critiques Centre de données / Critical Environment Ops INTERN Data Center",
+"location": "Quebec City, Québec, Canada",
+"_locs": [
+"Quebec City, Québec, Canada"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557021518",
+"publishedAt": "2026-11-02T20:53:38+00:00",
+"ats": "microsoft"
+},
+{
 "company": "Zimmer Biomet",
 "title": "2027 Spring Co-Op, Software Developer",
 "location": "Montreal, Quebec, Canada",
@@ -25958,6 +26077,23 @@
 "url": "https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794",
 "publishedAt": "2026-11-09T09:43:33.885Z",
 "ats": "smartrecruiters"
+},
+{
+"company": "Microsoft",
+"title": "Silicon Engineering INTERN",
+"location": "Tampere, Satakunta, Finland",
+"_locs": [
+"Tampere, Satakunta, Finland"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557053762",
+"publishedAt": "2026-11-09T09:04:50+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Bertelsmann-Jobs",
