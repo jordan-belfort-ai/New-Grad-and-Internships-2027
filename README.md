@@ -10,12 +10,13 @@ Every link goes to the employer's own posting, no aggregator in between. Newest 
 
 Contents: [United States](#united-states) (298) · [Canada](#canada) (24) · [UK & Ireland](#uk--ireland) (40) · [Europe](#europe) (108) · [India](#india) (30) · [Asia-Pacific](#asia-pacific) (52) · [Latin America](#latin-america) (28) · [Remote, other](#remote-other) (4)
 
-Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN DYNAMICS (15), IBM (10), Bask Health (10), Airbus (9), American Express (8), Booz Allen (8), Amazon (8), Medpace, Inc. (7), Captivation Software (7).
+Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN DYNAMICS (15), IBM (10), Bask Health (10), Amazon (9), Airbus (9), American Express (8), Booz Allen (8), Medpace, Inc. (7), Captivation Software (7).
 
 ## United States
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| Amazon | [Post-Silicon Systems Validation Engineer I, Annapurna Labs](https://www.amazon.jobs/en/jobs/10502826/post-silicon-systems-validation-engineer-i-annapurna-labs) 🆕 | Austin, TX, US |  | 2026-11-19 |
 | Amazon | [Software Development Engineer, ROBOTICS -  2027](https://www.amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027) 🆕 | Austin, TX, US |  | 2026-11-18 |
 | D. E. Shaw | [Quantitative Researcher (open to students and new grads)](https://www.deshaw.com/careers/quantitative-researcher-2636) 🆕 | New York, NY, US |  | 2026-11-13 |
 | Capgemini | [Bilingual Data Center JR](https://careers.capgemini.com/job/Bogota-Bilingual-Data-Center-JR/1450536933/) 🆕 | Bogota, CO |  | 2026-11-13 |
@@ -271,7 +272,6 @@ Most roles this fortnight: Capgemini (27), Jane Street (17), RTX (16), EUROPEAN 
 | Duolingo | [QA Specialist I, Recent Graduate](https://careers.duolingo.com/jobs/8927565002?gh_jid=8927565002) | New York, NY; Pittsburgh, PA | USD 68k-78k | 2026-11-03 |
 | Barrios | [Software Developer I (Applications and Data)](https://careers-barrios.icims.com/jobs/2903/software-developer-i-%28applications-and-data%29/job) | Houston, TX, US |  | 2026-11-03 |
 | Amazon | [Software Development Engineer (Embedded Systems) Early Career - 2027 (US)](https://www.amazon.jobs/en/jobs/10595839/software-development-engineer-embedded-systems-early-career-2027-us) | Seattle, WA, US |  | 2026-11-03 |
-| Amazon | [Software Development Engineer - 2027](https://www.amazon.jobs/en/jobs/10595319/software-development-engineer-2027) | Haifa, IL; Tel Aviv, IL |  | 2026-11-03 |
 | American Express | [Campus Undergraduate Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Servic](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254) | Phoenix, AZ, United States |  | 2026-11-03 |
 | American Express | [Campus Graduate Masters Full-Time Engineer - 2027 AI Engineer I, Enterprise Technology Ser](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013255) | Phoenix, AZ, United States |  | 2026-11-03 |
 | Resideo | [Firmware Engineer I](https://ehtl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/19646) | Golden Valley, MN, United States |  | 2026-11-03 |
