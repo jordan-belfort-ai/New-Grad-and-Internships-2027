@@ -2,13 +2,13 @@
 
 Software engineering, data, ML, security and hardware internships, co-ops and working-student roles, worldwide, from 20,000+ company career pages.
 
-**1,065 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. New-grad roles: [README.md](README.md).
+**1,067 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. New-grad roles: [README.md](README.md).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/New-Grad-and-Internships-2027/
 
-Contents: [United States](#united-states) (539) · [Canada](#canada) (43) · [UK & Ireland](#uk--ireland) (62) · [Europe](#europe) (303) · [India](#india) (5) · [Asia-Pacific](#asia-pacific) (89) · [Latin America](#latin-america) (20) · [Remote, other](#remote-other) (4)
+Contents: [United States](#united-states) (542) · [Canada](#canada) (42) · [UK & Ireland](#uk--ireland) (63) · [Europe](#europe) (302) · [India](#india) (5) · [Asia-Pacific](#asia-pacific) (89) · [Latin America](#latin-america) (20) · [Remote, other](#remote-other) (4)
 
 Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (31), Sopra Steria (24), Amazon (20), NVIDIA (19), Jane Street (19), Keysight Technologies, Inc. (18), RTX (17), Agoda (16), ASML (15).
 
@@ -16,9 +16,12 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Microsoft | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076159) 🆕 | Redmond, Washington, United States; Mountain View, California, United States |  | 2026-11-19 |
+| Microsoft | [Research Intern - AI System Architecture Modeling and Performance](https://apply.careers.microsoft.com/careers/job/1970393557077583) 🆕 | Hillsboro, Oregon, United States |  | 2026-11-20 |
+| Microsoft | [Research Intern - Quantum Applications](https://apply.careers.microsoft.com/careers/job/1970393557076525) 🆕 | Redmond, Washington, United States |  | 2026-11-20 |
+| Microsoft | [Research Intern - AI /Machine Learning Numerics & Efficiency](https://apply.careers.microsoft.com/careers/job/1970393557076215) 🆕 | Mountain View, California, United States; Redmond, Washington, United States |  | 2026-11-20 |
 | Microsoft | [Research Intern - AI Safety, Alignment, and Post-Training](https://apply.careers.microsoft.com/careers/job/1970393557076142) 🆕 | Redmond, Washington, United States; Mountain View, California, United States |  | 2026-11-19 |
 | Microsoft | [Research Intern - Deep Learning Group](https://apply.careers.microsoft.com/careers/job/1970393557076095) 🆕 | Redmond, Washington, United States |  | 2026-11-19 |
+| Microsoft | [Research Intern - Firmware Security](https://apply.careers.microsoft.com/careers/job/1970393557075140) 🆕 | Redmond, Washington, United States |  | 2026-11-17 |
 | Amazon | [Data Center Infrastructure Engineer Intern, Summer 2027 - East](https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east) 🆕 | Herndon, VA, US |  | 2026-11-14 |
 | Amazon | [Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast](https://www.amazon.jobs/en/jobs/10605132/data-center-infrastructure-engineer-intern-summer-2027-west-coast) 🆕 | Umatilla, OR, US |  | 2026-11-14 |
 | Jane Street | [Cybersecurity Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8632723002/) 🆕 | New York, NY, US |  | 2026-11-13 |
@@ -560,7 +563,6 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Microsoft | [Research Intern - AI Serving Systems and Hardware - Microsoft Research](https://apply.careers.microsoft.com/careers/job/1970393557076203) 🆕 | Vancouver, British Columbia, Canada |  | 2026-11-19 |
 | Acumatica | [Intern Developer/ Stagiaire développeur](https://jobs.smartrecruiters.com/Acumatica/744000161353959) 🆕 | Montreal, QC, Canada |  | 2026-11-12 |
 | Huawei Technologies Canada Co., Ltd. | [Intern Researcher - Embodied AI](https://huaweicanada.recruitee.com/o/intern-researcher-embodied-ai-3) 🆕 | Edmonton, Alberta, Canada |  | 2026-11-12 |
 | exacare ai | [Data and Analytics Intern (Summer 2027)](https://ats.rippling.com/exacare-inc/jobs/e42f12bc-041a-4ef2-90d8-a77cd7f1f166) 🆕 | Toronto, Canada |  | 2026-11-11 |
@@ -608,6 +610,7 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| Microsoft | [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557075448) 🆕 | Cambridge, Cambridgeshire, United Kingdom |  | 2026-11-19 |
 | Amazon | [Ring - ASIC DV Engineer Intern](https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) 🆕 | Cambridge, GB |  | 2026-11-17 |
 | Molson Coors | [Data Insights Apprentice](https://careers.molsoncoors.com/us/en/job/40190) 🆕 | Burton on Trent, GB-STS, United Kingdom |  | 2026-11-12 |
 | Smiths Group | [Data Analyst Apprentice](https://jobs.smartrecruiters.com/SmithsGroup2/744000161324881) 🆕 | Slough, England, United Kingdom |  | 2026-11-12 |
@@ -821,7 +824,6 @@ Most roles this fortnight: IBM (43), Capgemini (37), Bosch Group (34), Airbus (3
 | Keysight Technologies, Inc. | [Machine Learning — PhD Intern (Variable Circuit, Place-and-Route, and Layout Representatio](https://jobs.keysight.com/jobs/55050) | Barcelona, Spain |  | 2026-11-09 |
 | OTTO FUCHS KG | [Werkstudent IT Workplace Services (m/w/x)](https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794) | Meinerzhagen, NRW, Germany |  | 2026-11-09 |
 | Microsoft | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) | Germany |  | 2026-11-09 |
-| Microsoft | [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557053762) | Tampere, Satakunta, Finland |  | 2026-11-09 |
 | Bertelsmann-Jobs | [Trainee IT-AMS Energiewirtschaft (m/w/d)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160558029) | Leipzig, Sachsen, Germany |  | 2026-11-09 |
 | Eurofins | [Chef de projet data management - Stage - F/H](https://jobs.smartrecruiters.com/Eurofins/744000160553831) | Ivry-sur-Seine, IDF, France |  | 2026-11-09 |
 | Thermo Fisher Scientific | [Sr. Systems Engineer Intern - Detection and Analytics](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Systems-Engineer-Intern---Detection-and-Analytics_R-01374034-1) | Brno, Czechia |  | 2026-11-09 |

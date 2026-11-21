@@ -11068,10 +11068,10 @@
 "United States": [
 {
 "company": "Microsoft",
-"title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
-"location": "Redmond, Washington, United States; Mountain View, California, United States",
+"title": "Research Intern - AI System Architecture Modeling and Performance",
+"location": "Hillsboro, Oregon, United States",
 "_locs": [
-"Redmond, Washington, United States; Mountain View, California, United States"
+"Hillsboro, Oregon, United States"
 ],
 "allLocations": null,
 "remote": null,
@@ -11079,8 +11079,42 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
-"publishedAt": "2026-11-19T22:54:35+00:00",
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
+"publishedAt": "2026-11-20T23:27:12+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - Quantum Applications",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
+"publishedAt": "2026-11-20T21:16:55+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+"location": "Mountain View, California, United States; Redmond, Washington, United States",
+"_locs": [
+"Mountain View, California, United States; Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557076215",
+"publishedAt": "2026-11-20T19:58:54+00:00",
 "ats": "microsoft"
 },
 {
@@ -11115,6 +11149,23 @@
 "salaryInterval": null,
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557076095",
 "publishedAt": "2026-11-19T18:52:03+00:00",
+"ats": "microsoft"
+},
+{
+"company": "Microsoft",
+"title": "Research Intern - Firmware Security",
+"location": "Redmond, Washington, United States",
+"_locs": [
+"Redmond, Washington, United States"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+"publishedAt": "2026-11-17T23:22:30+00:00",
 "ats": "microsoft"
 },
 {
@@ -21380,23 +21431,6 @@
 ],
 "Canada": [
 {
-"company": "Microsoft",
-"title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
-"location": "Vancouver, British Columbia, Canada",
-"_locs": [
-"Vancouver, British Columbia, Canada"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
-"publishedAt": "2026-11-19T23:45:08+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Acumatica",
 "title": "Intern Developer/ Stagiaire développeur ",
 "location": "Montreal, QC, Canada",
@@ -22219,6 +22253,23 @@
 }
 ],
 "UK & Ireland": [
+{
+"company": "Microsoft",
+"title": "Research Intern - Machine Learning for Biology and Healthcare",
+"location": "Cambridge, Cambridgeshire, United Kingdom",
+"_locs": [
+"Cambridge, Cambridgeshire, United Kingdom"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
+"publishedAt": "2026-11-19T12:34:46+00:00",
+"ats": "microsoft"
+},
 {
 "company": "Amazon",
 "title": "Ring - ASIC DV Engineer Intern",
@@ -26058,23 +26109,6 @@
 "salaryInterval": null,
 "url": "https://apply.careers.microsoft.com/careers/job/1970393557041287",
 "publishedAt": "2026-11-09T09:38:44+00:00",
-"ats": "microsoft"
-},
-{
-"company": "Microsoft",
-"title": "Silicon Engineering INTERN",
-"location": "Tampere, Satakunta, Finland",
-"_locs": [
-"Tampere, Satakunta, Finland"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557053762",
-"publishedAt": "2026-11-09T09:04:50+00:00",
 "ats": "microsoft"
 },
 {
